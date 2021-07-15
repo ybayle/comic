@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2489/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png\" title=\"The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.\" alt=\"The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.\" />",
+          "link": "https://xkcd.com/2489/",
+          "publishedOn": "2021-07-14T00:00:00.000Z",
+          "wordCount": 193,
+          "title": "Bad Map Projection: The Greenland Special"
+        },
+        {
           "id": "https://xkcd.com/2488/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/board_game_argument_legacy.png\" title=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" alt=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" />",
