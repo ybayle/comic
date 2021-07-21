@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T01:11:45.367Z</updated>
+    <updated>2021-07-21T01:09:20.459Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Immune Factory]]></title>
+        <id>https://xkcd.com/2491/</id>
+        <link href="https://xkcd.com/2491/"/>
+        <updated>2021-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/immune_factory.png" title="In the final vote, the doubters were won over by the strength of the name IMMUNION." alt="In the final vote, the doubters were won over by the strength of the name IMMUNION." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pre-Pandemic Ketchup]]></title>
         <id>https://xkcd.com/2490/</id>

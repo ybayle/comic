@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2491/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/immune_factory.png\" title=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" alt=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" />",
+          "link": "https://xkcd.com/2491/",
+          "publishedOn": "2021-07-19T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Immune Factory"
+        },
+        {
           "id": "https://xkcd.com/2490/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png\" title=\"I wonder what year I'll discard the last weird food item that I bought online in early 2020.\" alt=\"I wonder what year I'll discard the last weird food item that I bought online in early 2020.\" />",
