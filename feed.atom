@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T15:11:36.309Z</updated>
+    <updated>2021-07-22T01:08:44.586Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
@@ -1379,15 +1379,6 @@ June 30th, 2021: You're not anxious, you just haven't realized the full power of
         <updated>2021-06-24T07:01:00.000Z</updated>
         <author>
             <name>alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woodpecker]]></title>
-        <id>https://www.buttersafe.com/2021/06/22/woodpecker/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/dUn2rZfKxLE/"/>
-        <updated>2021-06-22T07:01:00.000Z</updated>
-        <author>
-            <name>ray</name>
         </author>
     </entry>
 </feed>
