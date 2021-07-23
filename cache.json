@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2492/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png\" title=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" alt=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" />",
+          "link": "https://xkcd.com/2492/",
+          "publishedOn": "2021-07-21T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Commonly Mispronounced Equations"
+        },
+        {
           "id": "https://xkcd.com/2491/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/immune_factory.png\" title=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" alt=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" />",
@@ -97,6 +106,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/wow",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThis comic is only pessimistic if you are a human.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/wow",
+          "publishedOn": "2021-07-22T15:46:19.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Wow!"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/recording",
           "author": "tech@thehiveworks.com",

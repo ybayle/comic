@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T01:08:44.586Z</updated>
+    <updated>2021-07-23T01:07:34.152Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Wow!]]></title>
+        <id>https://www.smbc-comics.com/comic/wow</id>
+        <link href="https://www.smbc-comics.com/comic/wow"/>
+        <updated>2021-07-22T15:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+This comic is only pessimistic if you are a human.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subdue]]></title>
         <id>http://threewordphrase.com/subdue.htm</id>
@@ -881,6 +894,16 @@ July 21st, 2021: We'll fix it in post
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commonly Mispronounced Equations]]></title>
+        <id>https://xkcd.com/2492/</id>
+        <link href="https://xkcd.com/2492/"/>
+        <updated>2021-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png" title="&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom" alt="&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
