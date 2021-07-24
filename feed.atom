@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T01:07:34.152Z</updated>
+    <updated>2021-07-24T01:06:56.723Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Origins]]></title>
+        <id>https://www.smbc-comics.com/comic/origins</id>
+        <link href="https://www.smbc-comics.com/comic/origins"/>
+        <updated>2021-07-23T14:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Relative dick moves have of course been possible since RNA world.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reincarnation comics, or: "back once again with the ill behaviour"]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3775</id>
+        <link href="http://www.qwantz.com/index.php?comic=3775"/>
+        <updated>2021-07-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousJuly 23rd, 2021next
+July 23rd, 2021: Reincarnation comics will be back with the next update!  It's only thematically appropriate!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Wow!]]></title>
         <id>https://www.smbc-comics.com/comic/wow</id>
@@ -1393,15 +1420,6 @@ June 30th, 2021: You're not anxious, you just haven't realized the full power of
         <updated>2021-06-29T07:01:00.000Z</updated>
         <author>
             <name>ray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Animals]]></title>
-        <id>https://www.buttersafe.com/2021/06/24/new-animals/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/kgR_-3LPkso/"/>
-        <updated>2021-06-24T07:01:00.000Z</updated>
-        <author>
-            <name>alex</name>
         </author>
     </entry>
 </feed>

@@ -107,6 +107,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/origins",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nRelative dick moves have of course been possible since RNA world.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/origins",
+          "publishedOn": "2021-07-23T14:23:22.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Origins"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/wow",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nThis comic is only pessimistic if you are a human.\nToday's News:",
@@ -1075,6 +1084,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3775",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 23rd, 2021next\nJuly 23rd, 2021: Reincarnation comics will be back with the next update!  It's only thematically appropriate!!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3775",
+          "publishedOn": "2021-07-23T07:00:00.000Z",
+          "wordCount": 198,
+          "title": "reincarnation comics, or: \"back once again with the ill behaviour\""
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3774",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 21st, 2021next\nJuly 21st, 2021: We'll fix it in post\n– Ryan",
@@ -1206,15 +1224,6 @@
           "publishedOn": "2021-06-29T07:01:00.000Z",
           "wordCount": 68,
           "title": "Rubbing One Out"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/06/24/new-animals/",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/kgR_-3LPkso/",
-          "publishedOn": "2021-06-24T07:01:00.000Z",
-          "wordCount": 62,
-          "title": "New Animals"
         }
       ]
     },
