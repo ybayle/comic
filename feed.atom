@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T01:06:56.723Z</updated>
+    <updated>2021-07-25T01:08:44.730Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Auto]]></title>
+        <id>https://www.smbc-comics.com/comic/auto-2</id>
+        <link href="https://www.smbc-comics.com/comic/auto-2"/>
+        <updated>2021-07-24T15:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+We actually manage to overturn the robot revolution while they're distracted by this sort of thing.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Origins]]></title>
         <id>https://www.smbc-comics.com/comic/origins</id>
@@ -31,6 +44,16 @@ July 23rd, 2021: Reincarnation comics will be back with the next update!  It's o
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual USB-C]]></title>
+        <id>https://xkcd.com/2493/</id>
+        <link href="https://xkcd.com/2493/"/>
+        <updated>2021-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/dual_usb_c.png" title="Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground." alt="Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

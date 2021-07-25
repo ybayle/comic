@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2493/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/dual_usb_c.png\" title=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" alt=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" />",
+          "link": "https://xkcd.com/2493/",
+          "publishedOn": "2021-07-23T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Dual USB-C"
+        },
+        {
           "id": "https://xkcd.com/2492/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png\" title=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" alt=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" />",
@@ -106,6 +115,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/auto-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nWe actually manage to overturn the robot revolution while they're distracted by this sort of thing.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/auto-2",
+          "publishedOn": "2021-07-24T15:31:38.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Auto"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/origins",
           "author": "tech@thehiveworks.com",
