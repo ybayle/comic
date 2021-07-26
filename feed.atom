@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T01:08:44.730Z</updated>
+    <updated>2021-07-26T01:06:59.917Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - PCED]]></title>
+        <id>https://www.smbc-comics.com/comic/pced</id>
+        <link href="https://www.smbc-comics.com/comic/pced"/>
+        <updated>2021-07-25T14:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+95% of PCED calls will be eliminated as soon as we have self-driving trolleys.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Auto]]></title>
         <id>https://www.smbc-comics.com/comic/auto-2</id>

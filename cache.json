@@ -116,6 +116,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/pced",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\n95% of PCED calls will be eliminated as soon as we have self-driving trolleys.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/pced",
+          "publishedOn": "2021-07-25T14:27:17.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - PCED"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/auto-2",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nWe actually manage to overturn the robot revolution while they're distracted by this sort of thing.\nToday's News:",
