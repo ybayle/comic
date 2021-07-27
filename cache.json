@@ -116,6 +116,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/fable",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThe fact that tiny gas-masks would be really cute has actually sold me on bunker life.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/fable",
+          "publishedOn": "2021-07-26T16:22:09.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Fable"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/pced",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\n95% of PCED calls will be eliminated as soon as we have self-driving trolleys.\nToday's News:",
@@ -1110,6 +1119,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3776",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 26th, 2021next\nJuly 26th, 2021: I AM AS GOOD AS MY WORD (vis-a-vis the comments underneath the previous comic on this self-same website at least)\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3776",
+          "publishedOn": "2021-07-26T07:00:00.000Z",
+          "wordCount": 180,
+          "title": "reincarnation comics! they're back! in retrospect we should've seen this coming"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3775",
           "author": null,
