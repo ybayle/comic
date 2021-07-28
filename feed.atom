@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T01:09:03.404Z</updated>
+    <updated>2021-07-28T01:10:11.167Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Math]]></title>
+        <id>https://www.smbc-comics.com/comic/math-2</id>
+        <link href="https://www.smbc-comics.com/comic/math-2"/>
+        <updated>2021-07-27T17:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Have you noticed that people act like it's weird that the universe follows rules, but not that one apple and one apple equals two apples?
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Am I Driving?]]></title>
+        <id>https://www.buttersafe.com/?p=3477</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/M6pP7dM7ats/"/>
+        <updated>2021-07-27T07:01:00.000Z</updated>
+        <author>
+            <name>ray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fill in the gaps]]></title>
+        <id>https://www.monkeyuser.com/2021/fill-in-the-gaps/</id>
+        <link href="https://www.monkeyuser.com/2021/fill-in-the-gaps/"/>
+        <updated>2021-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development satire]]></summary>
+        <author>
+            <name>MonkeyUser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Fable]]></title>
         <id>https://www.smbc-comics.com/comic/fable</id>
@@ -31,6 +63,16 @@ July 26th, 2021: I AM AS GOOD AS MY WORD (vis-a-vis the comments underneath the 
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flawed Data]]></title>
+        <id>https://xkcd.com/2494/</id>
+        <link href="https://xkcd.com/2494/"/>
+        <updated>2021-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/flawed_data.png" title="We trained it to produce data that looked convincing, and we have to admit the results look convincing!" alt="We trained it to produce data that looked convincing, and we have to admit the results look convincing!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2494/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/flawed_data.png\" title=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" alt=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" />",
+          "link": "https://xkcd.com/2494/",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Flawed Data"
+        },
+        {
           "id": "https://xkcd.com/2493/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/dual_usb_c.png\" title=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" alt=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" />",
@@ -94,6 +103,15 @@
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
         {
+          "id": "https://www.monkeyuser.com/2021/fill-in-the-gaps/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2021/fill-in-the-gaps/",
+          "publishedOn": "2021-07-27T00:00:00.000Z",
+          "wordCount": 50,
+          "title": "Fill in the gaps"
+        },
+        {
           "id": "https://www.monkeyuser.com/2021/adventure/",
           "author": null,
           "description": "Software development satire",
@@ -115,6 +133,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/math-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nHave you noticed that people act like it's weird that the universe follows rules, but not that one apple and one apple equals two apples?\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/math-2",
+          "publishedOn": "2021-07-27T17:00:42.000Z",
+          "wordCount": 64,
+          "title": "Saturday Morning Breakfast Cereal - Math"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/fable",
           "author": "tech@thehiveworks.com",
@@ -1234,6 +1261,15 @@
       "feedUrl": "https://www.buttersafe.com/feed/",
       "siteUrl": "http://www.buttersafe.com",
       "articles": [
+        {
+          "id": "https://www.buttersafe.com/?p=3477",
+          "author": "ray",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/M6pP7dM7ats/",
+          "publishedOn": "2021-07-27T07:01:00.000Z",
+          "wordCount": 63,
+          "title": "How Am I Driving?"
+        },
         {
           "id": "https://www.buttersafe.com/2021/07/11/happy-sunday-saddest-turtle/",
           "author": "ray",
