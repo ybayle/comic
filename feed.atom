@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T01:10:11.167Z</updated>
+    <updated>2021-07-29T01:05:25.641Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Inadquate]]></title>
+        <id>https://www.smbc-comics.com/comic/inadquate</id>
+        <link href="https://www.smbc-comics.com/comic/inadquate"/>
+        <updated>2021-07-28T15:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Also I'm one millionth as good at basketball as Michael Jordan, but I've only spent one trillionth as much time practicing.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[t-rex and the spookums]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3777</id>
+        <link href="http://www.qwantz.com/index.php?comic=3777"/>
+        <updated>2021-07-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousJuly 28th, 2021next
+July 28th, 2021: Can a title be TOO spooky?  What this Dinosaur Comic says is: I dunno, maybe!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal Seat Belt]]></title>
+        <id>https://xkcd.com/2495/</id>
+        <link href="https://xkcd.com/2495/"/>
+        <updated>2021-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/universal_seat_belt.png" title="The plug fits really snugly, so it should be safe in a crash." alt="The plug fits really snugly, so it should be safe in a crash." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Math]]></title>
         <id>https://www.smbc-comics.com/comic/math-2</id>
@@ -1516,15 +1553,6 @@ June 30th, 2021: You're not anxious, you just haven't realized the full power of
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubbing One Out]]></title>
-        <id>https://www.buttersafe.com/2021/06/29/rubbing-one-out/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/Npj-Qy2nw0o/"/>
-        <updated>2021-06-29T07:01:00.000Z</updated>
-        <author>
-            <name>ray</name>
         </author>
     </entry>
 </feed>
