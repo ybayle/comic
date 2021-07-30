@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T01:05:25.641Z</updated>
+    <updated>2021-07-30T01:09:27.636Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Time]]></title>
+        <id>https://www.smbc-comics.com/comic/time-4</id>
+        <link href="https://www.smbc-comics.com/comic/time-4"/>
+        <updated>2021-07-29T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Space was invented because before space the universe was really cramped.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Inadquate]]></title>
         <id>https://www.smbc-comics.com/comic/inadquate</id>
@@ -1539,20 +1552,6 @@ July 2nd, 2021: This comic is NOT inspired by a true story!!  I am not currently
         <updated>2021-07-01T07:01:50.000Z</updated>
         <author>
             <name>alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["any sufficiently advanced friendship is indistinguishable from magic" was the original name of the My Little Pony show before they cut it down to "My Little Pony: ...friendship is... magic"]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3765</id>
-        <link href="http://www.qwantz.com/index.php?comic=3765"/>
-        <updated>2021-06-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJune 30th, 2021next
-June 30th, 2021: You're not anxious, you just haven't realized the full power of your deception potential!!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
         </author>
     </entry>
 </feed>

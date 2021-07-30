@@ -143,6 +143,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/time-4",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nSpace was invented because before space the universe was really cramped.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/time-4",
+          "publishedOn": "2021-07-29T15:24:01.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Time"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/inadquate",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nAlso I'm one millionth as good at basketball as Michael Jordan, but I've only spent one trillionth as much time practicing.\nToday's News:",
@@ -1271,15 +1280,6 @@
           "publishedOn": "2021-07-02T07:00:00.000Z",
           "wordCount": 189,
           "title": "the first lesson of FEUD COMICS is not to spell it \"FUED COMICS\", and it's a lesson i kept having to re-learn throughout writing FUED COMICS"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3765",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJune 30th, 2021next\nJune 30th, 2021: You're not anxious, you just haven't realized the full power of your deception potential!!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3765",
-          "publishedOn": "2021-06-30T07:00:00.000Z",
-          "wordCount": 169,
-          "title": "\"any sufficiently advanced friendship is indistinguishable from magic\" was the original name of the My Little Pony show before they cut it down to \"My Little Pony: ...friendship is... magic\""
         }
       ]
     },
