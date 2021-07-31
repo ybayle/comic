@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2496/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/mine_captcha.png\" title=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" alt=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" />",
+          "link": "https://xkcd.com/2496/",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Mine Captcha"
+        },
+        {
           "id": "https://xkcd.com/2495/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/universal_seat_belt.png\" title=\"The plug fits really snugly, so it should be safe in a crash.\" alt=\"The plug fits really snugly, so it should be safe in a crash.\" />",
@@ -142,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/purity-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nIt's the only way to be sure.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/purity-2",
+          "publishedOn": "2021-07-30T15:49:12.000Z",
+          "wordCount": 63,
+          "title": "Saturday Morning Breakfast Cereal - Purity"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/time-4",
           "author": "tech@thehiveworks.com",
@@ -1174,6 +1192,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3778",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 30th, 2021next\nJuly 30th, 2021: This isn't connected to anything, but yesterday I ate a whole pizza by myself!  It keeps happening and I don't regret it!!  Well bye!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3778",
+          "publishedOn": "2021-07-30T07:00:00.000Z",
+          "wordCount": 202,
+          "title": "in this comic, i recall the invention of memory"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3777",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 28th, 2021next\nJuly 28th, 2021: Can a title be TOO spooky?  What this Dinosaur Comic says is: I dunno, maybe!!\n– Ryan",
@@ -1314,15 +1341,6 @@
           "publishedOn": "2021-07-08T07:01:00.000Z",
           "wordCount": 63,
           "title": "Too Bright"
-        },
-        {
-          "id": "https://www.buttersafe.com/?p=3470",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/-fSVfB0MK3U/",
-          "publishedOn": "2021-07-01T07:01:50.000Z",
-          "wordCount": 71,
-          "title": "Caught in the Waves"
         }
       ]
     },
