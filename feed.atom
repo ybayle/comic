@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T01:06:36.000Z</updated>
+    <updated>2021-08-01T01:15:55.809Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 It's the only way to be sure.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Bat Problems]]></title>
+        <id>https://www.smbc-comics.com/comic/bat-problems</id>
+        <link href="https://www.smbc-comics.com/comic/bat-problems"/>
+        <updated>2021-07-30T15:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Later it turns out the Kratt Brothers were behind everything.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
@@ -1566,20 +1579,6 @@ I call dibs on that button.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the first lesson of FEUD COMICS is not to spell it "FUED COMICS", and it's a lesson i kept having to re-learn throughout writing FUED COMICS]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3766</id>
-        <link href="http://www.qwantz.com/index.php?comic=3766"/>
-        <updated>2021-07-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 2nd, 2021next
-July 2nd, 2021: This comic is NOT inspired by a true story!!  I am not currently feuding with anyone :(
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
         </author>
     </entry>
 </feed>
