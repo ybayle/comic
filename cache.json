@@ -152,6 +152,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/robot-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nPlease show yourself out of the building, using this efficient navigation system.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/robot-2",
+          "publishedOn": "2021-08-01T16:16:51.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Robot"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/purity-2",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nIt's the only way to be sure.\nToday's News:",
@@ -411,15 +420,6 @@
           "publishedOn": "2021-07-03T16:43:31.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Deadline"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/average",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI call dibs on that button.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/average",
-          "publishedOn": "2021-07-02T18:47:12.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Average"
         }
       ]
     },

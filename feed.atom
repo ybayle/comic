@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T01:15:55.809Z</updated>
+    <updated>2021-08-02T01:07:20.546Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Robot]]></title>
+        <id>https://www.smbc-comics.com/comic/robot-2</id>
+        <link href="https://www.smbc-comics.com/comic/robot-2"/>
+        <updated>2021-08-01T16:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Please show yourself out of the building, using this efficient navigation system.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Purity]]></title>
         <id>https://www.smbc-comics.com/comic/purity-2</id>
@@ -1563,19 +1576,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Once we're done with that, we'll switch to how we shall in the future fail.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Average]]></title>
-        <id>https://www.smbc-comics.com/comic/average</id>
-        <link href="https://www.smbc-comics.com/comic/average"/>
-        <updated>2021-07-02T18:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-I call dibs on that button.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
