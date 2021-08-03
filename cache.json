@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2497/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/logic_gates.png\" title=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" alt=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" />",
+          "link": "https://xkcd.com/2497/",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Logic Gates"
+        },
+        {
           "id": "https://xkcd.com/2496/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/mine_captcha.png\" title=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" alt=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" />",
@@ -151,6 +160,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/arts",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you wanted honest recognition of achievement between courteous peers, you should've been a goddamned jock.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/arts",
+          "publishedOn": "2021-08-02T15:30:47.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Arts"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/robot-2",
           "author": "tech@thehiveworks.com",
@@ -411,15 +429,6 @@
           "publishedOn": "2021-07-04T16:55:28.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Constraint"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/deadline",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nOnce we're done with that, we'll switch to how we shall in the future fail.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/deadline",
-          "publishedOn": "2021-07-03T16:43:31.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Deadline"
         }
       ]
     },
@@ -1200,6 +1209,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3779",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 2nd, 2021next\nAugust 2nd, 2021: It IS a distinct feeling though, you know?\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3779",
+          "publishedOn": "2021-08-02T07:00:00.000Z",
+          "wordCount": 201,
+          "title": "in an earlier draft I used the phrase \"human knowledge\"!  geez, ryan!  the lime green skin on your TYRANNOSAURUS REX named T-REX wasn't clue enough that they're not human, huh"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3778",
           "author": null,

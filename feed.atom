@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T01:07:20.546Z</updated>
+    <updated>2021-08-03T01:11:03.212Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Arts]]></title>
+        <id>https://www.smbc-comics.com/comic/arts</id>
+        <link href="https://www.smbc-comics.com/comic/arts"/>
+        <updated>2021-08-02T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+If you wanted honest recognition of achievement between courteous peers, you should've been a goddamned jock.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[in an earlier draft I used the phrase "human knowledge"!  geez, ryan!  the lime green skin on your TYRANNOSAURUS REX named T-REX wasn't clue enough that they're not human, huh]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3779</id>
+        <link href="http://www.qwantz.com/index.php?comic=3779"/>
+        <updated>2021-08-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 2nd, 2021next
+August 2nd, 2021: It IS a distinct feeling though, you know?
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic Gates]]></title>
+        <id>https://xkcd.com/2497/</id>
+        <link href="https://xkcd.com/2497/"/>
+        <updated>2021-08-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/logic_gates.png" title="In C, the multiocular O represents the bitwise norxondor gorgonax." alt="In C, the multiocular O represents the bitwise norxondor gorgonax." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Robot]]></title>
         <id>https://www.smbc-comics.com/comic/robot-2</id>
@@ -1563,19 +1600,6 @@ July 5th, 2021: I am STILL not feuding with anyone >:|
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 I have literally never met a grad student without a 'quit and work on a hippie farm' fantasy.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Deadline]]></title>
-        <id>https://www.smbc-comics.com/comic/deadline</id>
-        <link href="https://www.smbc-comics.com/comic/deadline"/>
-        <updated>2021-07-03T16:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Once we're done with that, we'll switch to how we shall in the future fail.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
