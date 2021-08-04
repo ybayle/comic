@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T01:11:03.212Z</updated>
+    <updated>2021-08-04T01:07:07.831Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Future]]></title>
+        <id>https://www.smbc-comics.com/comic/future-2</id>
+        <link href="https://www.smbc-comics.com/comic/future-2"/>
+        <updated>2021-08-03T15:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+This is why there are no time machines.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outcome variables]]></title>
+        <id>https://www.monkeyuser.com/2021/outcome-variables/</id>
+        <link href="https://www.monkeyuser.com/2021/outcome-variables/"/>
+        <updated>2021-08-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development satire]]></summary>
+        <author>
+            <name>MonkeyUser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Arts]]></title>
         <id>https://www.smbc-comics.com/comic/arts</id>
@@ -1563,43 +1586,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 I spent an embarrassing amount of time on this. 
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the second lesson of FEUD COMICS is that there's no downsides to feud comics!!]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3767</id>
-        <link href="http://www.qwantz.com/index.php?comic=3767"/>
-        <updated>2021-07-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 5th, 2021next
-July 5th, 2021: I am STILL not feuding with anyone >:|
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nightmare Code]]></title>
-        <id>https://xkcd.com/2485/</id>
-        <link href="https://xkcd.com/2485/"/>
-        <updated>2021-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/nightmare_code.png" title="Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out." alt="Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Constraint]]></title>
-        <id>https://www.smbc-comics.com/comic/constraint</id>
-        <link href="https://www.smbc-comics.com/comic/constraint"/>
-        <updated>2021-07-04T16:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-I have literally never met a grad student without a 'quit and work on a hippie farm' fantasy.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

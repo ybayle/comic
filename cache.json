@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-07T00:00:00.000Z",
           "wordCount": 189,
           "title": "Board Game Party Schedule"
-        },
-        {
-          "id": "https://xkcd.com/2485/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/nightmare_code.png\" title=\"Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.\" alt=\"Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.\" />",
-          "link": "https://xkcd.com/2485/",
-          "publishedOn": "2021-07-05T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Nightmare Code"
         }
       ]
     },
@@ -129,6 +120,15 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2021/outcome-variables/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2021/outcome-variables/",
+          "publishedOn": "2021-08-03T00:00:00.000Z",
+          "wordCount": 51,
+          "title": "Outcome variables"
+        },
         {
           "id": "https://www.monkeyuser.com/2021/fill-in-the-gaps/",
           "author": null,
@@ -160,6 +160,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/future-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThis is why there are no time machines.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/future-2",
+          "publishedOn": "2021-08-03T15:31:38.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Future"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/arts",
           "author": "tech@thehiveworks.com",
@@ -420,15 +429,6 @@
           "publishedOn": "2021-07-05T15:58:53.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - PEMDAS"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/constraint",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI have literally never met a grad student without a 'quit and work on a hippie farm' fantasy.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/constraint",
-          "publishedOn": "2021-07-04T16:55:28.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Constraint"
         }
       ]
     },
@@ -1316,15 +1316,6 @@
           "publishedOn": "2021-07-07T07:00:00.000Z",
           "wordCount": 195,
           "title": "the third lesson of feud comics is that batman can feud with anyone, given enough prep time"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3767",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 5th, 2021next\nJuly 5th, 2021: I am STILL not feuding with anyone >:|\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3767",
-          "publishedOn": "2021-07-05T07:00:00.000Z",
-          "wordCount": 174,
-          "title": "the second lesson of FEUD COMICS is that there's no downsides to feud comics!!"
         }
       ]
     },
