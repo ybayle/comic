@@ -161,6 +161,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/sandwich",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\n\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/sandwich",
+          "publishedOn": "2021-08-04T14:38:07.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Sandwich"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/future-2",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nThis is why there are no time machines.\nToday's News:",
@@ -420,15 +429,6 @@
           "publishedOn": "2021-07-06T13:27:14.000Z",
           "wordCount": 63,
           "title": "Saturday Morning Breakfast Cereal - Work Hard"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/pemdas",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI spent an embarrassing amount of time on this. \nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/pemdas",
-          "publishedOn": "2021-07-05T15:58:53.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - PEMDAS"
         }
       ]
     },
@@ -1209,6 +1209,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3780",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 4th, 2021next\nAugust 4th, 2021: I've never died yet so I don't know if the above information is accurate, sorry!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3780",
+          "publishedOn": "2021-08-04T07:00:00.000Z",
+          "wordCount": 184,
+          "title": "in panel 2, \"metaphorically\" would've fit but just with one question mark, and such is my commitment to two question marks that i split the word into two"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3779",
           "author": null,
