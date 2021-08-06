@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2498/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/forest_walk.png\" title=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" alt=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" />",
+          "link": "https://xkcd.com/2498/",
+          "publishedOn": "2021-08-04T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Forest Walk"
+        },
+        {
           "id": "https://xkcd.com/2497/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/logic_gates.png\" title=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" alt=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-07-09T00:00:00.000Z",
           "wordCount": 185,
           "title": "Danger Mnemonic"
-        },
-        {
-          "id": "https://xkcd.com/2486/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/board_game_party_schedule.png\" title=\"Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!\" alt=\"Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!\" />",
-          "link": "https://xkcd.com/2486/",
-          "publishedOn": "2021-07-07T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Board Game Party Schedule"
         }
       ]
     },
@@ -137,15 +137,6 @@
           "publishedOn": "2021-07-27T00:00:00.000Z",
           "wordCount": 50,
           "title": "Fill in the gaps"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/adventure/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/adventure/",
-          "publishedOn": "2021-07-07T00:00:00.000Z",
-          "wordCount": 49,
-          "title": "Adventure"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/chess",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI think I can prove that all SMBC comics are good on a similar basis.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/chess",
+          "publishedOn": "2021-08-05T15:52:39.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Chess"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/sandwich",
           "author": "tech@thehiveworks.com",
@@ -420,15 +420,6 @@
           "publishedOn": "2021-07-07T21:19:38.000Z",
           "wordCount": 63,
           "title": "Saturday Morning Breakfast Cereal - Second Coming"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/work-hard",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you sabotage a peer just right, they'll sabotage other peers so you don't have to.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/work-hard",
-          "publishedOn": "2021-07-06T13:27:14.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Work Hard"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-07-09T07:00:00.000Z",
           "wordCount": 212,
           "title": "authors! there's probably worse names, what do you have to lose"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3768",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 7th, 2021next\nJuly 7th, 2021: Thus concludes FEUD COMICS!!  I want it known that despite writing the word for a week's worth of comics that I still spell it \"fued\" on like half of my attempts; rip me.\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3768",
-          "publishedOn": "2021-07-07T07:00:00.000Z",
-          "wordCount": 195,
-          "title": "the third lesson of feud comics is that batman can feud with anyone, given enough prep time"
         }
       ]
     },

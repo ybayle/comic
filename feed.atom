@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T00:10:11.770Z</updated>
+    <updated>2021-08-06T00:10:25.869Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Chess]]></title>
+        <id>https://www.smbc-comics.com/comic/chess</id>
+        <link href="https://www.smbc-comics.com/comic/chess"/>
+        <updated>2021-08-05T15:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+I think I can prove that all SMBC comics are good on a similar basis.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Sandwich]]></title>
         <id>https://www.smbc-comics.com/comic/sandwich</id>
@@ -31,6 +44,16 @@ August 4th, 2021: I've never died yet so I don't know if the above information i
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forest Walk]]></title>
+        <id>https://xkcd.com/2498/</id>
+        <link href="https://xkcd.com/2498/"/>
+        <updated>2021-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/forest_walk.png" title="The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off." alt="The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1553,53 +1576,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 'Also I hate beach communities.'
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the third lesson of feud comics is that batman can feud with anyone, given enough prep time]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3768</id>
-        <link href="http://www.qwantz.com/index.php?comic=3768"/>
-        <updated>2021-07-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 7th, 2021next
-July 7th, 2021: Thus concludes FEUD COMICS!!  I want it known that despite writing the word for a week's worth of comics that I still spell it "fued" on like half of my attempts; rip me.
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Board Game Party Schedule]]></title>
-        <id>https://xkcd.com/2486/</id>
-        <link href="https://xkcd.com/2486/"/>
-        <updated>2021-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/board_game_party_schedule.png" title="Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!" alt="Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adventure]]></title>
-        <id>https://www.monkeyuser.com/2021/adventure/</id>
-        <link href="https://www.monkeyuser.com/2021/adventure/"/>
-        <updated>2021-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software development satire]]></summary>
-        <author>
-            <name>MonkeyUser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Work Hard]]></title>
-        <id>https://www.smbc-comics.com/comic/work-hard</id>
-        <link href="https://www.smbc-comics.com/comic/work-hard"/>
-        <updated>2021-07-06T13:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-If you sabotage a peer just right, they'll sabotage other peers so you don't have to.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
