@@ -152,6 +152,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nFor the record, missiles and blimps don't really work from a physics standpoint, but don't let that stop you being true to your bloodlust.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust",
+          "publishedOn": "2021-08-06T15:38:16.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Revenge"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/chess",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nI think I can prove that all SMBC comics are good on a similar basis.\nToday's News:",
@@ -411,15 +420,6 @@
           "publishedOn": "2021-07-08T14:51:15.000Z",
           "wordCount": 63,
           "title": "Saturday Morning Breakfast Cereal - Fantasy"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/second-coming-3",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\n'Also I hate beach communities.'\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/second-coming-3",
-          "publishedOn": "2021-07-07T21:19:38.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Second Coming"
         }
       ]
     },
@@ -1201,6 +1201,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3781",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 6th, 2021next\nAugust 6th, 2021: Of all the temperatures of takes, \"hot\" is certainly one of them.\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3781",
+          "publishedOn": "2021-08-06T07:00:00.000Z",
+          "wordCount": 193,
+          "title": "i trained for years to write this comic.  actually wait i guess that's maybe technically true??  huh.  life's funny sometimes"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3780",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 4th, 2021next\nAugust 4th, 2021: I've never died yet so I don't know if the above information is accurate, sorry!\n– Ryan",
@@ -1332,15 +1341,6 @@
           "publishedOn": "2021-07-11T07:01:00.000Z",
           "wordCount": 70,
           "title": "Happy Sunday (and not Tuesday), Saddest Turtle!"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/07/08/toobright/",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/FoxRsc9hST4/",
-          "publishedOn": "2021-07-08T07:01:00.000Z",
-          "wordCount": 63,
-          "title": "Too Bright"
         }
       ]
     },

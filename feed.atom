@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T00:10:25.869Z</updated>
+    <updated>2021-08-07T00:09:28.858Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Revenge]]></title>
+        <id>https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust</id>
+        <link href="https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust"/>
+        <updated>2021-08-06T15:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+For the record, missiles and blimps don't really work from a physics standpoint, but don't let that stop you being true to your bloodlust.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i trained for years to write this comic.  actually wait i guess that's maybe technically true??  huh.  life's funny sometimes]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3781</id>
+        <link href="http://www.qwantz.com/index.php?comic=3781"/>
+        <updated>2021-08-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 6th, 2021next
+August 6th, 2021: Of all the temperatures of takes, "hot" is certainly one of them.
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Chess]]></title>
         <id>https://www.smbc-comics.com/comic/chess</id>
@@ -1554,28 +1581,6 @@ July 9th, 2021: Would Max Payne have been as successful if he was instead "Lotta
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Now he's back to cheetah, which is the higher calling.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Too Bright]]></title>
-        <id>https://www.buttersafe.com/2021/07/08/toobright/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/FoxRsc9hST4/"/>
-        <updated>2021-07-08T07:01:00.000Z</updated>
-        <author>
-            <name>alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Second Coming]]></title>
-        <id>https://www.smbc-comics.com/comic/second-coming-3</id>
-        <link href="https://www.smbc-comics.com/comic/second-coming-3"/>
-        <updated>2021-07-07T21:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-'Also I hate beach communities.'
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
