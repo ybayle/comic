@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T00:09:28.858Z</updated>
+    <updated>2021-08-08T00:10:44.996Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Counting]]></title>
+        <id>https://www.smbc-comics.com/comic/counting</id>
+        <link href="https://www.smbc-comics.com/comic/counting"/>
+        <updated>2021-08-07T14:29:52.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+I wonder if actual farmers also play farming games.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Revenge]]></title>
         <id>https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust</id>
@@ -31,6 +44,16 @@ August 6th, 2021: Of all the temperatures of takes, "hot" is certainly one of th
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abandonment Function]]></title>
+        <id>https://xkcd.com/2499/</id>
+        <link href="https://xkcd.com/2499/"/>
+        <updated>2021-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/abandonment_function.png" title="Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act." alt="Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1531,56 +1554,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Also, if something won't move, rub it with a little duct tape.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Weird]]></title>
-        <id>https://www.smbc-comics.com/comic/weird-2</id>
-        <link href="https://www.smbc-comics.com/comic/weird-2"/>
-        <updated>2021-07-09T11:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-If you are patient, all doomsaying is eventually accurate.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[authors! there's probably worse names, what do you have to lose]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3769</id>
-        <link href="http://www.qwantz.com/index.php?comic=3769"/>
-        <updated>2021-07-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 9th, 2021next
-July 9th, 2021: Would Max Payne have been as successful if he was instead "Lotta Blud"?  It's impossible to say for certain but I think I speak for us all when I say: most definitely
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Danger Mnemonic]]></title>
-        <id>https://xkcd.com/2487/</id>
-        <link href="https://xkcd.com/2487/"/>
-        <updated>2021-07-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/danger_mnemonic.png" title="It's definitely not the time to try drinking beer before liquor." alt="It's definitely not the time to try drinking beer before liquor." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Fantasy]]></title>
-        <id>https://www.smbc-comics.com/comic/fantasy-2</id>
-        <link href="https://www.smbc-comics.com/comic/fantasy-2"/>
-        <updated>2021-07-08T14:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Now he's back to cheetah, which is the higher calling.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

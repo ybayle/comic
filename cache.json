@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2499/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/abandonment_function.png\" title=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" alt=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" />",
+          "link": "https://xkcd.com/2499/",
+          "publishedOn": "2021-08-06T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Abandonment Function"
+        },
+        {
           "id": "https://xkcd.com/2498/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/forest_walk.png\" title=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" alt=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-07-12T00:00:00.000Z",
           "wordCount": 189,
           "title": "Board Game Argument: Legacy"
-        },
-        {
-          "id": "https://xkcd.com/2487/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/danger_mnemonic.png\" title=\"It's definitely not the time to try drinking beer before liquor.\" alt=\"It's definitely not the time to try drinking beer before liquor.\" />",
-          "link": "https://xkcd.com/2487/",
-          "publishedOn": "2021-07-09T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Danger Mnemonic"
         }
       ]
     },
@@ -151,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/counting",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI wonder if actual farmers also play farming games.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/counting",
+          "publishedOn": "2021-08-07T14:29:52.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Counting"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust",
           "author": "tech@thehiveworks.com",
@@ -402,24 +411,6 @@
           "publishedOn": "2021-07-10T18:03:19.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Engineer"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/weird-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you are patient, all doomsaying is eventually accurate.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/weird-2",
-          "publishedOn": "2021-07-09T11:59:22.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Weird"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/fantasy-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nNow he's back to cheetah, which is the higher calling.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/fantasy-2",
-          "publishedOn": "2021-07-08T14:51:15.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Fantasy"
         }
       ]
     },
@@ -1307,15 +1298,6 @@
           "publishedOn": "2021-07-12T07:00:00.000Z",
           "wordCount": 183,
           "title": "wait, i just thought of the best name for a Biblical version of a math textbook"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3769",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 9th, 2021next\nJuly 9th, 2021: Would Max Payne have been as successful if he was instead \"Lotta Blud\"?  It's impossible to say for certain but I think I speak for us all when I say: most definitely\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3769",
-          "publishedOn": "2021-07-09T07:00:00.000Z",
-          "wordCount": 212,
-          "title": "authors! there's probably worse names, what do you have to lose"
         }
       ]
     },
