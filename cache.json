@@ -152,6 +152,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/charitable",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThe good news is we've all been training since, what, myspace?\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/charitable",
+          "publishedOn": "2021-08-08T16:52:41.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Charitable"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/counting",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nI wonder if actual farmers also play farming games.\nToday's News:",
