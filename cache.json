@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2500/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png\" title=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" alt=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" />",
+          "link": "https://xkcd.com/2500/",
+          "publishedOn": "2021-08-09T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Global Temperature Over My Lifetime"
+        },
+        {
           "id": "https://xkcd.com/2499/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/abandonment_function.png\" title=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" alt=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" />",
@@ -151,6 +160,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/twenty",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThe women are shaking like that because in the 21st century disease wasn't cured yet.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/twenty",
+          "publishedOn": "2021-08-09T16:18:29.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Twenty"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/charitable",
           "author": "tech@thehiveworks.com",
@@ -411,15 +429,6 @@
           "publishedOn": "2021-07-11T16:12:35.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Stories"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/engineer",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nAlso, if something won't move, rub it with a little duct tape.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/engineer",
-          "publishedOn": "2021-07-10T18:03:19.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Engineer"
         }
       ]
     },
@@ -1201,6 +1210,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3782",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 9th, 2021next\nAugust 9th, 2021: That percentage is climbing too!  It's only getting MORE CORRECT\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3782",
+          "publishedOn": "2021-08-09T07:00:00.000Z",
+          "wordCount": 180,
+          "title": "they're actually using human lifespans, not dinosaur lifespans, for their calculations. my gift to you"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3781",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 6th, 2021next\nAugust 6th, 2021: Of all the temperatures of takes, \"hot\" is certainly one of them.\n– Ryan",
@@ -1323,15 +1341,6 @@
           "publishedOn": "2021-07-27T07:01:00.000Z",
           "wordCount": 63,
           "title": "How Am I Driving?"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/07/11/happy-sunday-saddest-turtle/",
-          "author": "ray",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/Px5aZpvX61A/",
-          "publishedOn": "2021-07-11T07:01:00.000Z",
-          "wordCount": 70,
-          "title": "Happy Sunday (and not Tuesday), Saddest Turtle!"
         }
       ]
     },

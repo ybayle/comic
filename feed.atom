@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T00:11:52.221Z</updated>
+    <updated>2021-08-10T00:11:11.828Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Twenty]]></title>
+        <id>https://www.smbc-comics.com/comic/twenty</id>
+        <link href="https://www.smbc-comics.com/comic/twenty"/>
+        <updated>2021-08-09T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+The women are shaking like that because in the 21st century disease wasn't cured yet.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[they're actually using human lifespans, not dinosaur lifespans, for their calculations. my gift to you]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3782</id>
+        <link href="http://www.qwantz.com/index.php?comic=3782"/>
+        <updated>2021-08-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 9th, 2021next
+August 9th, 2021: That percentage is climbing too!  It's only getting MORE CORRECT
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Temperature Over My Lifetime]]></title>
+        <id>https://xkcd.com/2500/</id>
+        <link href="https://xkcd.com/2500/"/>
+        <updated>2021-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png" title="I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course." alt="I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Charitable]]></title>
         <id>https://www.smbc-comics.com/comic/charitable</id>
@@ -1545,28 +1582,6 @@ July 12th, 2021: Thank you for reading my comic today!!
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Zorblaxian sad stories involve retrospective analysis of policy changes that diminished quality of life in aggregate.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Sunday (and not Tuesday), Saddest Turtle!]]></title>
-        <id>https://www.buttersafe.com/2021/07/11/happy-sunday-saddest-turtle/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/Px5aZpvX61A/"/>
-        <updated>2021-07-11T07:01:00.000Z</updated>
-        <author>
-            <name>ray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Engineer]]></title>
-        <id>https://www.smbc-comics.com/comic/engineer</id>
-        <link href="https://www.smbc-comics.com/comic/engineer"/>
-        <updated>2021-07-10T18:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Also, if something won't move, rub it with a little duct tape.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
