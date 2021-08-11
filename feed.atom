@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T00:11:11.828Z</updated>
+    <updated>2021-08-11T00:16:09.054Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Number One Dad]]></title>
+        <id>https://www.smbc-comics.com/comic/number-one-dad</id>
+        <link href="https://www.smbc-comics.com/comic/number-one-dad"/>
+        <updated>2021-08-10T14:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Only the orangest of the cheez powders for my children.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Twenty]]></title>
         <id>https://www.smbc-comics.com/comic/twenty</id>
@@ -1545,43 +1558,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 The Weinersmith family crest will also feature a griffin who's sad about being here of all places.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wait, i just thought of the best name for a Biblical version of a math textbook]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3770</id>
-        <link href="http://www.qwantz.com/index.php?comic=3770"/>
-        <updated>2021-07-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 12th, 2021next
-July 12th, 2021: Thank you for reading my comic today!!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Board Game Argument: Legacy]]></title>
-        <id>https://xkcd.com/2488/</id>
-        <link href="https://xkcd.com/2488/"/>
-        <updated>2021-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/board_game_argument_legacy.png" title="Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box." alt="Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Stories]]></title>
-        <id>https://www.smbc-comics.com/comic/stories</id>
-        <link href="https://www.smbc-comics.com/comic/stories"/>
-        <updated>2021-07-11T16:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Zorblaxian sad stories involve retrospective analysis of policy changes that diminished quality of life in aggregate.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

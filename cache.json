@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-14T00:00:00.000Z",
           "wordCount": 193,
           "title": "Bad Map Projection: The Greenland Special"
-        },
-        {
-          "id": "https://xkcd.com/2488/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/board_game_argument_legacy.png\" title=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" alt=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" />",
-          "link": "https://xkcd.com/2488/",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Board Game Argument: Legacy"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/number-one-dad",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nOnly the orangest of the cheez powders for my children.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/number-one-dad",
+          "publishedOn": "2021-08-10T14:38:35.000Z",
+          "wordCount": 64,
+          "title": "Saturday Morning Breakfast Cereal - Number One Dad"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/twenty",
           "author": "tech@thehiveworks.com",
@@ -420,15 +420,6 @@
           "publishedOn": "2021-07-12T18:47:59.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Names"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/stories",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nZorblaxian sad stories involve retrospective analysis of policy changes that diminished quality of life in aggregate.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/stories",
-          "publishedOn": "2021-07-11T16:12:35.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Stories"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-07-14T07:00:00.000Z",
           "wordCount": 179,
           "title": "any chance to work \"spake\" into a comic is one i'll take!!  thus spake me"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3770",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 12th, 2021next\nJuly 12th, 2021: Thank you for reading my comic today!!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3770",
-          "publishedOn": "2021-07-12T07:00:00.000Z",
-          "wordCount": 183,
-          "title": "wait, i just thought of the best name for a Biblical version of a math textbook"
         }
       ]
     },
