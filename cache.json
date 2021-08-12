@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2501/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/average_familiarity.png\" title=\"How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!\" alt=\"How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!\" />",
+          "link": "https://xkcd.com/2501/",
+          "publishedOn": "2021-08-11T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Average Familiarity"
+        },
+        {
           "id": "https://xkcd.com/2500/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png\" title=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" alt=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" />",
@@ -151,6 +160,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/decaf",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nNon-alcoholic vodka, on the other hand, is a genuine mystery.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/decaf",
+          "publishedOn": "2021-08-11T14:41:49.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Decaf"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/number-one-dad",
           "author": "tech@thehiveworks.com",
@@ -411,15 +429,6 @@
           "publishedOn": "2021-07-13T15:50:39.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Care"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/names",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe Weinersmith family crest will also feature a griffin who's sad about being here of all places.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/names",
-          "publishedOn": "2021-07-12T18:47:59.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Names"
         }
       ]
     },
@@ -1200,6 +1209,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3783",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 11th, 2021next\nAugust 11th, 2021: This comic is inspired by a real body!!  MY FABULOUS ONE (also yours)\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3783",
+          "publishedOn": "2021-08-11T07:00:00.000Z",
+          "wordCount": 205,
+          "title": "Inside My Body comix"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3782",
           "author": null,

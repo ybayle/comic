@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T00:16:09.054Z</updated>
+    <updated>2021-08-12T00:10:30.283Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Decaf]]></title>
+        <id>https://www.smbc-comics.com/comic/decaf</id>
+        <link href="https://www.smbc-comics.com/comic/decaf"/>
+        <updated>2021-08-11T14:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Non-alcoholic vodka, on the other hand, is a genuine mystery.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside My Body comix]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3783</id>
+        <link href="http://www.qwantz.com/index.php?comic=3783"/>
+        <updated>2021-08-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 11th, 2021next
+August 11th, 2021: This comic is inspired by a real body!!  MY FABULOUS ONE (also yours)
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Average Familiarity]]></title>
+        <id>https://xkcd.com/2501/</id>
+        <link href="https://xkcd.com/2501/"/>
+        <updated>2021-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/average_familiarity.png" title="How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!" alt="How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Number One Dad]]></title>
         <id>https://www.smbc-comics.com/comic/number-one-dad</id>
@@ -1545,19 +1582,6 @@ July 14th, 2021: The stern voice of philosophy says this is true!  It also says 
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 I don't see why we can't keep boy bands in cages, so they continue performing until their utility is completely dry.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Names]]></title>
-        <id>https://www.smbc-comics.com/comic/names</id>
-        <link href="https://www.smbc-comics.com/comic/names"/>
-        <updated>2021-07-12T18:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-The Weinersmith family crest will also feature a griffin who's sad about being here of all places.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
