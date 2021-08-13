@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T00:10:30.283Z</updated>
+    <updated>2021-08-13T00:10:12.132Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Princess]]></title>
+        <id>https://www.smbc-comics.com/comic/princess-2</id>
+        <link href="https://www.smbc-comics.com/comic/princess-2"/>
+        <updated>2021-08-12T14:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+With no offense meant to batrachological furry community.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Decaf]]></title>
         <id>https://www.smbc-comics.com/comic/decaf</id>
@@ -1545,43 +1558,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 The comics aren't usually autobiographical, but *occasionally*...
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[any chance to work "spake" into a comic is one i'll take!!  thus spake me]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3771</id>
-        <link href="http://www.qwantz.com/index.php?comic=3771"/>
-        <updated>2021-07-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 14th, 2021next
-July 14th, 2021: The stern voice of philosophy says this is true!  It also says don't correct me on this please
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad Map Projection: The Greenland Special]]></title>
-        <id>https://xkcd.com/2489/</id>
-        <link href="https://xkcd.com/2489/"/>
-        <updated>2021-07-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png" title="The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be." alt="The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Care]]></title>
-        <id>https://www.smbc-comics.com/comic/care</id>
-        <link href="https://www.smbc-comics.com/comic/care"/>
-        <updated>2021-07-13T15:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-I don't see why we can't keep boy bands in cages, so they continue performing until their utility is completely dry.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

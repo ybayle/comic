@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-16T00:00:00.000Z",
           "wordCount": 185,
           "title": "Pre-Pandemic Ketchup"
-        },
-        {
-          "id": "https://xkcd.com/2489/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png\" title=\"The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.\" alt=\"The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.\" />",
-          "link": "https://xkcd.com/2489/",
-          "publishedOn": "2021-07-14T00:00:00.000Z",
-          "wordCount": 193,
-          "title": "Bad Map Projection: The Greenland Special"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/princess-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nWith no offense meant to batrachological furry community.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/princess-2",
+          "publishedOn": "2021-08-12T14:02:42.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Princess"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/decaf",
           "author": "tech@thehiveworks.com",
@@ -420,15 +420,6 @@
           "publishedOn": "2021-07-14T13:02:01.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Engage"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/care",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI don't see why we can't keep boy bands in cages, so they continue performing until their utility is completely dry.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/care",
-          "publishedOn": "2021-07-13T15:50:39.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Care"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-07-16T07:00:00.000Z",
           "wordCount": 186,
           "title": "next time this happens please just post this comic and whoever proposed it.  maybe they'll print it out and put it in their wallet, saving us all some effort"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3771",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 14th, 2021next\nJuly 14th, 2021: The stern voice of philosophy says this is true!  It also says don't correct me on this please\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3771",
-          "publishedOn": "2021-07-14T07:00:00.000Z",
-          "wordCount": 179,
-          "title": "any chance to work \"spake\" into a comic is one i'll take!!  thus spake me"
         }
       ]
     },
