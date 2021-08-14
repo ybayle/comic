@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2502/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/every_data_table.png\" title=\"I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.\" alt=\"I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.\" />",
+          "link": "https://xkcd.com/2502/",
+          "publishedOn": "2021-08-13T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Every Data Table"
+        },
+        {
           "id": "https://xkcd.com/2501/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/average_familiarity.png\" title=\"How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!\" alt=\"How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!\" />",
@@ -151,6 +160,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/headset",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nLater he finds a roll-the-ball-up-the-hall game, which mysteriously is not a curse.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/headset",
+          "publishedOn": "2021-08-13T14:20:46.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Headset"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/princess-2",
           "author": "tech@thehiveworks.com",
@@ -411,15 +429,6 @@
           "publishedOn": "2021-07-15T16:35:35.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Death"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/engage",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe comics aren't usually autobiographical, but *occasionally*...\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/engage",
-          "publishedOn": "2021-07-14T13:02:01.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Engage"
         }
       ]
     },
@@ -1200,6 +1209,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3784",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 13th, 2021next\nAugust 13th, 2021: After I heard that \"Ironic\" was written about Full House's Dave Coulier, I've assumed that all songs are written about Full House's Dave Coulier.  Thus far I have never been proven wrong, and Full House's Dave Coulier really needs to pull up his socks!!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3784",
+          "publishedOn": "2021-08-13T07:00:00.000Z",
+          "wordCount": 210,
+          "title": "musicians who aren't composers are sitting there fuming about how i ignored their situation, but i'm safe because they're fully unable to write a song about it"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3783",
           "author": null,
