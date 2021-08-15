@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-19T00:00:00.000Z",
           "wordCount": 185,
           "title": "Immune Factory"
-        },
-        {
-          "id": "https://xkcd.com/2490/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png\" title=\"I wonder what year I'll discard the last weird food item that I bought online in early 2020.\" alt=\"I wonder what year I'll discard the last weird food item that I bought online in early 2020.\" />",
-          "link": "https://xkcd.com/2490/",
-          "publishedOn": "2021-07-16T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Pre-Pandemic Ketchup"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/milkshake",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nOne day, molecular printers will allow starbucks to serve every conceivable food as a whipped topping.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/milkshake",
+          "publishedOn": "2021-08-14T14:33:24.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Milkshake"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/headset",
           "author": "tech@thehiveworks.com",
@@ -420,15 +420,6 @@
           "publishedOn": "2021-07-16T14:30:27.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - AGS"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/death-10",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nTechnically, insurance agencies are weirding you nonstop.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/death-10",
-          "publishedOn": "2021-07-15T16:35:35.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Death"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-07-19T07:00:00.000Z",
           "wordCount": 175,
           "title": "it's utahraptor speaking from offpanel in the final frame.  i believe that makes this comic 50% funnier so please assume it's utahraptor speaking from offpanel in the final frame"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3772",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 16th, 2021next\nJuly 16th, 2021: Yelp for people hasn't been suggested for a few months so, that's something fun to look forward to in the coming weeks!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3772",
-          "publishedOn": "2021-07-16T07:00:00.000Z",
-          "wordCount": 186,
-          "title": "next time this happens please just post this comic and whoever proposed it.  maybe they'll print it out and put it in their wallet, saving us all some effort"
         }
       ]
     },

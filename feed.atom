@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:09:41.382Z</updated>
+    <updated>2021-08-15T00:10:55.802Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Milkshake]]></title>
+        <id>https://www.smbc-comics.com/comic/milkshake</id>
+        <link href="https://www.smbc-comics.com/comic/milkshake"/>
+        <updated>2021-08-14T14:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+One day, molecular printers will allow starbucks to serve every conceivable food as a whipped topping.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Headset]]></title>
         <id>https://www.smbc-comics.com/comic/headset</id>
@@ -1545,43 +1558,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 My favorite finance headlines are the tautological ones, along the lines of 'Stock market down as stock market fails to go up or stay same.'
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[next time this happens please just post this comic and whoever proposed it.  maybe they'll print it out and put it in their wallet, saving us all some effort]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3772</id>
-        <link href="http://www.qwantz.com/index.php?comic=3772"/>
-        <updated>2021-07-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 16th, 2021next
-July 16th, 2021: Yelp for people hasn't been suggested for a few months so, that's something fun to look forward to in the coming weeks!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-Pandemic Ketchup]]></title>
-        <id>https://xkcd.com/2490/</id>
-        <link href="https://xkcd.com/2490/"/>
-        <updated>2021-07-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png" title="I wonder what year I'll discard the last weird food item that I bought online in early 2020." alt="I wonder what year I'll discard the last weird food item that I bought online in early 2020." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Death]]></title>
-        <id>https://www.smbc-comics.com/comic/death-10</id>
-        <link href="https://www.smbc-comics.com/comic/death-10"/>
-        <updated>2021-07-15T16:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Technically, insurance agencies are weirding you nonstop.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
