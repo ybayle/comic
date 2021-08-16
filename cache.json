@@ -152,6 +152,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/burn",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nDesperately hoping my comics never get brought up in a courtroom setting.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/burn",
+          "publishedOn": "2021-08-15T16:40:29.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Burn"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/milkshake",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nOne day, molecular printers will allow starbucks to serve every conceivable food as a whipped topping.\nToday's News:",
@@ -411,15 +420,6 @@
           "publishedOn": "2021-07-17T16:08:17.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Behavior"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/ags",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nMy favorite finance headlines are the tautological ones, along the lines of 'Stock market down as stock market fails to go up or stay same.'\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/ags",
-          "publishedOn": "2021-07-16T14:30:27.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - AGS"
         }
       ]
     },

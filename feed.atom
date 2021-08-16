@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:10:55.802Z</updated>
+    <updated>2021-08-16T00:10:35.864Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Burn]]></title>
+        <id>https://www.smbc-comics.com/comic/burn</id>
+        <link href="https://www.smbc-comics.com/comic/burn"/>
+        <updated>2021-08-15T16:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Desperately hoping my comics never get brought up in a courtroom setting.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Milkshake]]></title>
         <id>https://www.smbc-comics.com/comic/milkshake</id>
@@ -1545,19 +1558,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 This is the best kind of fame, except for Japan-fame.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - AGS]]></title>
-        <id>https://www.smbc-comics.com/comic/ags</id>
-        <link href="https://www.smbc-comics.com/comic/ags"/>
-        <updated>2021-07-16T14:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-My favorite finance headlines are the tautological ones, along the lines of 'Stock market down as stock market fails to go up or stay same.'
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
