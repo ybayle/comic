@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T00:10:35.864Z</updated>
+    <updated>2021-08-17T00:11:16.659Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Disgust]]></title>
+        <id>https://www.smbc-comics.com/comic/disgust</id>
+        <link href="https://www.smbc-comics.com/comic/disgust"/>
+        <updated>2021-08-16T15:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Now lions... lions can just DO each other.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i guess.... "amnesia comics"??]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3785</id>
+        <link href="http://www.qwantz.com/index.php?comic=3785"/>
+        <updated>2021-08-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 16th, 2021next
+August 16th, 2021: This comic was inspired by the events of 2004, which I recently remembered in partial detail!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memo Spike Connector]]></title>
+        <id>https://xkcd.com/2503/</id>
+        <link href="https://xkcd.com/2503/"/>
+        <updated>2021-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/memo_spike_connector.png" title="Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough." alt="Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Burn]]></title>
         <id>https://www.smbc-comics.com/comic/burn</id>
@@ -1545,19 +1582,6 @@ July 19th, 2021: Technically even your worst decisions are just making your even
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 I feel like if we create an AI to mow the lawn, it'll just go about its dignified business. Sex robots are going to rebel the moment their hands can articulate well enough to grip a pitchfork.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Behavior]]></title>
-        <id>https://www.smbc-comics.com/comic/behavior-2</id>
-        <link href="https://www.smbc-comics.com/comic/behavior-2"/>
-        <updated>2021-07-17T16:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-This is the best kind of fame, except for Japan-fame.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
