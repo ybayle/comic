@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T00:11:16.659Z</updated>
+    <updated>2021-08-18T00:09:57.501Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Sleep of Reason]]></title>
+        <id>https://www.smbc-comics.com/comic/sleep-of-reason</id>
+        <link href="https://www.smbc-comics.com/comic/sleep-of-reason"/>
+        <updated>2021-08-17T15:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+The weirdest thing is why anyone would oppose this if it were possible.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Disgust]]></title>
         <id>https://www.smbc-comics.com/comic/disgust</id>
@@ -1545,43 +1558,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Let us now fight about the plural of emoji.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[it's utahraptor speaking from offpanel in the final frame.  i believe that makes this comic 50% funnier so please assume it's utahraptor speaking from offpanel in the final frame]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3773</id>
-        <link href="http://www.qwantz.com/index.php?comic=3773"/>
-        <updated>2021-07-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 19th, 2021next
-July 19th, 2021: Technically even your worst decisions are just making your eventual autobiography more interesting so don't worry about it
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immune Factory]]></title>
-        <id>https://xkcd.com/2491/</id>
-        <link href="https://xkcd.com/2491/"/>
-        <updated>2021-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/immune_factory.png" title="In the final vote, the doubters were won over by the strength of the name IMMUNION." alt="In the final vote, the doubters were won over by the strength of the name IMMUNION." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Mine]]></title>
-        <id>https://www.smbc-comics.com/comic/mine</id>
-        <link href="https://www.smbc-comics.com/comic/mine"/>
-        <updated>2021-07-18T15:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-I feel like if we create an AI to mow the lawn, it'll just go about its dignified business. Sex robots are going to rebel the moment their hands can articulate well enough to grip a pitchfork.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

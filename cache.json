@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-21T00:00:00.000Z",
           "wordCount": 187,
           "title": "Commonly Mispronounced Equations"
-        },
-        {
-          "id": "https://xkcd.com/2491/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/immune_factory.png\" title=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" alt=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" />",
-          "link": "https://xkcd.com/2491/",
-          "publishedOn": "2021-07-19T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Immune Factory"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/sleep-of-reason",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThe weirdest thing is why anyone would oppose this if it were possible.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/sleep-of-reason",
+          "publishedOn": "2021-08-17T15:09:29.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Sleep of Reason"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/disgust",
           "author": "tech@thehiveworks.com",
@@ -420,15 +420,6 @@
           "publishedOn": "2021-07-19T12:25:21.000Z",
           "wordCount": 63,
           "title": "Saturday Morning Breakfast Cereal - Perfect Life"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/mine",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI feel like if we create an AI to mow the lawn, it'll just go about its dignified business. Sex robots are going to rebel the moment their hands can articulate well enough to grip a pitchfork.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/mine",
-          "publishedOn": "2021-07-18T15:39:54.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Mine"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-07-21T07:00:00.000Z",
           "wordCount": 167,
           "title": "\"let's say it's a current-apocalyptic present\" is what all the characters say at the start of a post-apocalyptic future story"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3773",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 19th, 2021next\nJuly 19th, 2021: Technically even your worst decisions are just making your eventual autobiography more interesting so don't worry about it\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3773",
-          "publishedOn": "2021-07-19T07:00:00.000Z",
-          "wordCount": 175,
-          "title": "it's utahraptor speaking from offpanel in the final frame.  i believe that makes this comic 50% funnier so please assume it's utahraptor speaking from offpanel in the final frame"
         }
       ]
     },
