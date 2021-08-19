@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2504/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png\" title=\"Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.\" alt=\"Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.\" />",
+          "link": "https://xkcd.com/2504/",
+          "publishedOn": "2021-08-18T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Fissile Raspberry Isotopes"
+        },
+        {
           "id": "https://xkcd.com/2503/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/memo_spike_connector.png\" title=\"Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.\" alt=\"Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.\" />",
@@ -151,6 +160,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/running",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThe cool thing is the secret regrets are readily available with a small fee to Alexa.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/running",
+          "publishedOn": "2021-08-18T14:16:20.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Running"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/sleep-of-reason",
           "author": "tech@thehiveworks.com",
@@ -411,15 +429,6 @@
           "publishedOn": "2021-07-20T16:11:43.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Gold"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/perfect-life",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nLet us now fight about the plural of emoji.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/perfect-life",
-          "publishedOn": "2021-07-19T12:25:21.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Perfect Life"
         }
       ]
     },
@@ -1201,6 +1210,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3786",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 18th, 2021next\nAugust 18th, 2021: Normalize gluing tail fins onto used cars\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3786",
+          "publishedOn": "2021-08-18T07:00:00.000Z",
+          "wordCount": 214,
+          "title": "i mean, the t-shirt has maintained cultural currency for decades.  at least, this one shirt i wear every day has.  thank you"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3785",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 16th, 2021next\nAugust 16th, 2021: This comic was inspired by the events of 2004, which I recently remembered in partial detail!!\n– Ryan",
@@ -1315,6 +1333,15 @@
       "feedUrl": "https://www.buttersafe.com/feed/",
       "siteUrl": "http://www.buttersafe.com",
       "articles": [
+        {
+          "id": "https://www.buttersafe.com/2021/08/17/my-own-boogeyman/",
+          "author": "ray",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/3gHE1xw4zXY/",
+          "publishedOn": "2021-08-17T07:01:00.000Z",
+          "wordCount": 82,
+          "title": "My Own Boogeyman"
+        },
         {
           "id": "https://www.buttersafe.com/?p=3477",
           "author": "ray",
