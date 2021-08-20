@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-23T00:00:00.000Z",
           "wordCount": 185,
           "title": "Dual USB-C"
-        },
-        {
-          "id": "https://xkcd.com/2492/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png\" title=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" alt=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" />",
-          "link": "https://xkcd.com/2492/",
-          "publishedOn": "2021-07-21T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Commonly Mispronounced Equations"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/surly",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nSorry, didn't mean to hurt your feelings. It was an accident, like your conception.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/surly",
+          "publishedOn": "2021-08-19T14:25:17.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Surly"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/running",
           "author": "tech@thehiveworks.com",
@@ -420,15 +420,6 @@
           "publishedOn": "2021-07-21T13:42:56.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Recording"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/gold-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe take-home question here is whether the fake accent is worse than the economic theory.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/gold-2",
-          "publishedOn": "2021-07-20T16:11:43.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Gold"
         }
       ]
     },
@@ -1316,15 +1307,6 @@
           "publishedOn": "2021-07-23T07:00:00.000Z",
           "wordCount": 198,
           "title": "reincarnation comics, or: \"back once again with the ill behaviour\""
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3774",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 21st, 2021next\nJuly 21st, 2021: We'll fix it in post\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3774",
-          "publishedOn": "2021-07-21T07:00:00.000Z",
-          "wordCount": 167,
-          "title": "\"let's say it's a current-apocalyptic present\" is what all the characters say at the start of a post-apocalyptic future story"
         }
       ]
     },
@@ -1333,6 +1315,15 @@
       "feedUrl": "https://www.buttersafe.com/feed/",
       "siteUrl": "http://www.buttersafe.com",
       "articles": [
+        {
+          "id": "https://www.buttersafe.com/2021/08/19/time-traveling-to-save-my-butt-part-6/",
+          "author": "alex",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/o_hRBcHcBqo/",
+          "publishedOn": "2021-08-19T07:01:00.000Z",
+          "wordCount": 83,
+          "title": "Time Traveling to Save My Butt: Part 6"
+        },
         {
           "id": "https://www.buttersafe.com/2021/08/17/my-own-boogeyman/",
           "author": "ray",
@@ -1343,6 +1334,33 @@
           "title": "My Own Boogeyman"
         },
         {
+          "id": "https://www.buttersafe.com/2021/08/12/time-traveling-to-save-my-butt-part-5/",
+          "author": "alex",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/Go71rtzObIU/",
+          "publishedOn": "2021-08-12T07:01:00.000Z",
+          "wordCount": 74,
+          "title": "Time Traveling to Save My Butt: Part 5"
+        },
+        {
+          "id": "https://www.buttersafe.com/2021/08/05/time-traveling-to-save-my-butt-part-4/",
+          "author": "alex",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/RnaHWL_M5Tw/",
+          "publishedOn": "2021-08-05T07:01:00.000Z",
+          "wordCount": 69,
+          "title": "Time Traveling to Save My Butt: Part 4"
+        },
+        {
+          "id": "https://www.buttersafe.com/2021/07/29/time-traveling-to-save-my-butt-part-3/",
+          "author": "alex",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/qTat4MbhSHs/",
+          "publishedOn": "2021-07-29T07:01:00.000Z",
+          "wordCount": 74,
+          "title": "Time Traveling to Save My Butt: Part 3"
+        },
+        {
           "id": "https://www.buttersafe.com/?p=3477",
           "author": "ray",
           "description": "",
@@ -1350,6 +1368,15 @@
           "publishedOn": "2021-07-27T07:01:00.000Z",
           "wordCount": 63,
           "title": "How Am I Driving?"
+        },
+        {
+          "id": "https://www.buttersafe.com/2021/07/22/time-traveling-to-save-my-butt-part-2/",
+          "author": "alex",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/UVpEC0BnAgc/",
+          "publishedOn": "2021-07-22T07:01:00.000Z",
+          "wordCount": 98,
+          "title": "Time Traveling to Save My Butt: Part 2"
         }
       ]
     },

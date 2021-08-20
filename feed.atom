@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T00:09:06.786Z</updated>
+    <updated>2021-08-20T00:10:05.772Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Surly]]></title>
+        <id>https://www.smbc-comics.com/comic/surly</id>
+        <link href="https://www.smbc-comics.com/comic/surly"/>
+        <updated>2021-08-19T14:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Sorry, didn't mean to hurt your feelings. It was an accident, like your conception.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 6]]></title>
+        <id>https://www.buttersafe.com/2021/08/19/time-traveling-to-save-my-butt-part-6/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/o_hRBcHcBqo/"/>
+        <updated>2021-08-19T07:01:00.000Z</updated>
+        <author>
+            <name>alex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Running]]></title>
         <id>https://www.smbc-comics.com/comic/running</id>
@@ -179,6 +201,15 @@ Today's News:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 5]]></title>
+        <id>https://www.buttersafe.com/2021/08/12/time-traveling-to-save-my-butt-part-5/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/Go71rtzObIU/"/>
+        <updated>2021-08-12T07:01:00.000Z</updated>
+        <author>
+            <name>alex</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Decaf]]></title>
         <id>https://www.smbc-comics.com/comic/decaf</id>
         <link href="https://www.smbc-comics.com/comic/decaf"/>
@@ -339,6 +370,15 @@ I think I can prove that all SMBC comics are good on a similar basis.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 4]]></title>
+        <id>https://www.buttersafe.com/2021/08/05/time-traveling-to-save-my-butt-part-4/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/RnaHWL_M5Tw/"/>
+        <updated>2021-08-05T07:01:00.000Z</updated>
+        <author>
+            <name>alex</name>
         </author>
     </entry>
     <entry>
@@ -512,6 +552,15 @@ Space was invented because before space the universe was really cramped.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 3]]></title>
+        <id>https://www.buttersafe.com/2021/07/29/time-traveling-to-save-my-butt-part-3/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/qTat4MbhSHs/"/>
+        <updated>2021-07-29T07:01:00.000Z</updated>
+        <author>
+            <name>alex</name>
         </author>
     </entry>
     <entry>
@@ -694,6 +743,15 @@ This comic is only pessimistic if you are a human.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 2]]></title>
+        <id>https://www.buttersafe.com/2021/07/22/time-traveling-to-save-my-butt-part-2/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/UVpEC0BnAgc/"/>
+        <updated>2021-07-22T07:01:00.000Z</updated>
+        <author>
+            <name>alex</name>
         </author>
     </entry>
     <entry>
@@ -1554,43 +1612,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 If you had a movie that was just 6 hours of anyone's life it'd be simultaneously too obscene and too boring to screen in theatres.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["let's say it's a current-apocalyptic present" is what all the characters say at the start of a post-apocalyptic future story]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3774</id>
-        <link href="http://www.qwantz.com/index.php?comic=3774"/>
-        <updated>2021-07-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 21st, 2021next
-July 21st, 2021: We'll fix it in post
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commonly Mispronounced Equations]]></title>
-        <id>https://xkcd.com/2492/</id>
-        <link href="https://xkcd.com/2492/"/>
-        <updated>2021-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png" title="&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom" alt="&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Gold]]></title>
-        <id>https://www.smbc-comics.com/comic/gold-2</id>
-        <link href="https://www.smbc-comics.com/comic/gold-2"/>
-        <updated>2021-07-20T16:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-The take-home question here is whether the fake accent is worse than the economic theory.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
