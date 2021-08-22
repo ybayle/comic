@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-26T00:00:00.000Z",
           "wordCount": 185,
           "title": "Flawed Data"
-        },
-        {
-          "id": "https://xkcd.com/2493/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/dual_usb_c.png\" title=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" alt=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" />",
-          "link": "https://xkcd.com/2493/",
-          "publishedOn": "2021-07-23T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Dual USB-C"
         }
       ]
     },
@@ -170,6 +161,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/order",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nAlso pugs. They've suffered enough.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/order",
+          "publishedOn": "2021-08-21T13:51:04.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Order"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/starstuff",
           "author": "tech@thehiveworks.com",
@@ -430,15 +430,6 @@
           "publishedOn": "2021-07-23T14:23:22.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Origins"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/wow",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThis comic is only pessimistic if you are a human.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/wow",
-          "publishedOn": "2021-07-22T15:46:19.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Wow!"
         }
       ]
     },
@@ -446,7 +437,773 @@
       "title": "Three Word Phrase",
       "feedUrl": "http://www.threewordphrase.com/rss.xml",
       "siteUrl": "http://www.threewordphrase.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://threewordphrase.com/subdue.htm",
+          "author": null,
+          "description": "Don't make me fire a third round, sir",
+          "link": "http://threewordphrase.com/subdue.htm",
+          "publishedOn": "2021-08-22T00:10:46.864Z",
+          "wordCount": null,
+          "title": "Subdue"
+        },
+        {
+          "id": "http://threewordphrase.com/whoaman.htm",
+          "author": null,
+          "description": "Eagle, more like PEEgle",
+          "link": "http://threewordphrase.com/whoaman.htm",
+          "publishedOn": "2021-08-22T00:10:46.862Z",
+          "wordCount": null,
+          "title": "Whoa Man (Guest Strip)"
+        },
+        {
+          "id": "http://threewordphrase.com/symbols.htm",
+          "author": null,
+          "description": "fluffy puppy dickens",
+          "link": "http://threewordphrase.com/symbols.htm",
+          "publishedOn": "2021-08-22T00:10:46.340Z",
+          "wordCount": 12,
+          "title": "Symbols"
+        },
+        {
+          "id": "http://threewordphrase.com/conscience.htm",
+          "author": null,
+          "description": "good dogs eat the poop",
+          "link": "http://threewordphrase.com/conscience.htm",
+          "publishedOn": "2021-08-22T00:10:46.335Z",
+          "wordCount": 12,
+          "title": "Conscience"
+        },
+        {
+          "id": "http://threewordphrase.com/kill.htm",
+          "author": null,
+          "description": "Life does not go on forever",
+          "link": "http://threewordphrase.com/kill.htm",
+          "publishedOn": "2021-08-22T00:10:46.334Z",
+          "wordCount": 12,
+          "title": "Kill"
+        },
+        {
+          "id": "http://threewordphrase.com/mansion.htm",
+          "author": null,
+          "description": "just like in all of those movies",
+          "link": "http://threewordphrase.com/mansion.htm",
+          "publishedOn": "2021-08-22T00:10:46.316Z",
+          "wordCount": 12,
+          "title": "Mansion"
+        },
+        {
+          "id": "http://threewordphrase.com/spit.htm",
+          "author": null,
+          "description": "ha ha ha huhhhhgh",
+          "link": "http://threewordphrase.com/spit.htm",
+          "publishedOn": "2021-08-22T00:10:46.309Z",
+          "wordCount": 12,
+          "title": "Spit Take"
+        },
+        {
+          "id": "http://threewordphrase.com/auntie.htm",
+          "author": null,
+          "description": "*cough*",
+          "link": "http://threewordphrase.com/auntie.htm",
+          "publishedOn": "2021-08-22T00:10:46.304Z",
+          "wordCount": 12,
+          "title": "Auntie"
+        },
+        {
+          "id": "http://threewordphrase.com/charles.htm",
+          "author": null,
+          "description": "Charles is dead now",
+          "link": "http://threewordphrase.com/charles.htm",
+          "publishedOn": "2021-08-22T00:10:46.293Z",
+          "wordCount": 12,
+          "title": "Charles"
+        },
+        {
+          "id": "http://threewordphrase.com/coconut.htm",
+          "author": null,
+          "description": "I FUCKING LOVE MY BRO MOM BRO",
+          "link": "http://threewordphrase.com/coconut.htm",
+          "publishedOn": "2021-08-22T00:10:46.270Z",
+          "wordCount": 12,
+          "title": "Coconut"
+        },
+        {
+          "id": "http://threewordphrase.com/backseat.htm",
+          "author": null,
+          "description": "You did this too",
+          "link": "http://threewordphrase.com/backseat.htm",
+          "publishedOn": "2021-08-22T00:10:46.261Z",
+          "wordCount": 12,
+          "title": "Back Seat"
+        },
+        {
+          "id": "http://threewordphrase.com/favor.htm",
+          "author": null,
+          "description": "I'm not gonna lie to you, it's gross",
+          "link": "http://threewordphrase.com/favor.htm",
+          "publishedOn": "2021-08-22T00:10:46.260Z",
+          "wordCount": 12,
+          "title": "Favor"
+        },
+        {
+          "id": "http://threewordphrase.com/grody.htm",
+          "author": null,
+          "description": "ew ew ew ew ew",
+          "link": "http://threewordphrase.com/grody.htm",
+          "publishedOn": "2021-08-22T00:10:46.257Z",
+          "wordCount": 12,
+          "title": "Grody"
+        },
+        {
+          "id": "http://threewordphrase.com/fathersday.htm",
+          "author": null,
+          "description": "love those dads",
+          "link": "http://threewordphrase.com/fathersday.htm",
+          "publishedOn": "2021-08-22T00:10:46.254Z",
+          "wordCount": 12,
+          "title": "Father's Day"
+        },
+        {
+          "id": "http://threewordphrase.com/nautical.htm",
+          "author": null,
+          "description": "Deep dickin'",
+          "link": "http://threewordphrase.com/nautical.htm",
+          "publishedOn": "2021-08-22T00:10:46.252Z",
+          "wordCount": 12,
+          "title": "Nautical Comics"
+        },
+        {
+          "id": "http://threewordphrase.com/crime.htm",
+          "author": null,
+          "description": "It's true",
+          "link": "http://threewordphrase.com/crime.htm",
+          "publishedOn": "2021-08-22T00:10:46.251Z",
+          "wordCount": 12,
+          "title": "Crime"
+        },
+        {
+          "id": "http://threewordphrase.com/bugcall.htm",
+          "author": null,
+          "description": "Eat that neck",
+          "link": "http://threewordphrase.com/bugcall.htm",
+          "publishedOn": "2021-08-22T00:10:46.250Z",
+          "wordCount": 12,
+          "title": "Bug Call"
+        },
+        {
+          "id": "http://threewordphrase.com/hockey.htm",
+          "author": null,
+          "description": "So uh uh you know uh",
+          "link": "http://threewordphrase.com/hockey.htm",
+          "publishedOn": "2021-08-22T00:10:46.249Z",
+          "wordCount": 12,
+          "title": "Hockey"
+        },
+        {
+          "id": "http://threewordphrase.com/gotme.htm",
+          "author": null,
+          "description": "Open your fucking ears! I said I have a real bad tummy ache!",
+          "link": "http://threewordphrase.com/gotme.htm",
+          "publishedOn": "2021-08-22T00:10:46.247Z",
+          "wordCount": 12,
+          "title": "Got Me"
+        },
+        {
+          "id": "http://threewordphrase.com/vikings.htm",
+          "author": null,
+          "description": "So sick",
+          "link": "http://threewordphrase.com/vikings.htm",
+          "publishedOn": "2021-08-22T00:10:46.246Z",
+          "wordCount": 12,
+          "title": "Vikings"
+        },
+        {
+          "id": "http://threewordphrase.com/blackhole.htm",
+          "author": null,
+          "description": "Mission Control check out my dick",
+          "link": "http://threewordphrase.com/blackhole.htm",
+          "publishedOn": "2021-08-22T00:10:46.245Z",
+          "wordCount": 12,
+          "title": "Black Hole"
+        },
+        {
+          "id": "http://threewordphrase.com/lostdog.htm",
+          "author": null,
+          "description": ":-(",
+          "link": "http://threewordphrase.com/lostdog.htm",
+          "publishedOn": "2021-08-22T00:10:46.244Z",
+          "wordCount": 12,
+          "title": "Lost Dog"
+        },
+        {
+          "id": "http://threewordphrase.com/dignity.htm",
+          "author": null,
+          "description": "whump whump whump whump whump",
+          "link": "http://threewordphrase.com/dignity.htm",
+          "publishedOn": "2021-08-22T00:10:46.243Z",
+          "wordCount": 12,
+          "title": "Dignity"
+        },
+        {
+          "id": "http://threewordphrase.com/boss.htm",
+          "author": null,
+          "description": "um, aaaa",
+          "link": "http://threewordphrase.com/boss.htm",
+          "publishedOn": "2021-08-22T00:10:46.240Z",
+          "wordCount": 12,
+          "title": "Look Damned"
+        },
+        {
+          "id": "http://threewordphrase.com/amazing.htm",
+          "author": null,
+          "description": "Now is it bigger than a truck? Nobody knows",
+          "link": "http://threewordphrase.com/amazing.htm",
+          "publishedOn": "2021-08-22T00:10:46.238Z",
+          "wordCount": 12,
+          "title": "Amazing"
+        },
+        {
+          "id": "http://threewordphrase.com/neckbeard.htm",
+          "author": null,
+          "description": "Heh. Heh. Heh. heh",
+          "link": "http://threewordphrase.com/neckbeard.htm",
+          "publishedOn": "2021-08-22T00:10:46.237Z",
+          "wordCount": 12,
+          "title": "Neckbeard"
+        },
+        {
+          "id": "http://threewordphrase.com/bearapy.htm",
+          "author": null,
+          "description": "Right?",
+          "link": "http://threewordphrase.com/bearapy.htm",
+          "publishedOn": "2021-08-22T00:10:46.235Z",
+          "wordCount": 12,
+          "title": "Bearapy"
+        },
+        {
+          "id": "http://threewordphrase.com/explorer.htm",
+          "author": null,
+          "description": "nature does not care",
+          "link": "http://threewordphrase.com/explorer.htm",
+          "publishedOn": "2021-08-22T00:10:46.234Z",
+          "wordCount": 12,
+          "title": "Jungle Explorer"
+        },
+        {
+          "id": "http://threewordphrase.com/shining.htm",
+          "author": null,
+          "description": "All work and no play makes Jon a dull boy",
+          "link": "http://threewordphrase.com/shining.htm",
+          "publishedOn": "2021-08-22T00:10:46.231Z",
+          "wordCount": 12,
+          "title": "Horror Comics"
+        },
+        {
+          "id": "http://threewordphrase.com/bugs.htm",
+          "author": null,
+          "description": "bugs",
+          "link": "http://threewordphrase.com/bugs.htm",
+          "publishedOn": "2021-08-22T00:10:46.228Z",
+          "wordCount": 12,
+          "title": "Bugs"
+        },
+        {
+          "id": "http://threewordphrase.com/condiment.htm",
+          "author": null,
+          "description": "frrtt",
+          "link": "http://threewordphrase.com/condiment.htm",
+          "publishedOn": "2021-08-22T00:10:46.227Z",
+          "wordCount": 12,
+          "title": "Condiment"
+        },
+        {
+          "id": "http://threewordphrase.com/trepanning.htm",
+          "author": null,
+          "description": "S O C O O L",
+          "link": "http://threewordphrase.com/trepanning.htm",
+          "publishedOn": "2021-08-22T00:10:46.225Z",
+          "wordCount": 12,
+          "title": "Trepanning"
+        },
+        {
+          "id": "http://threewordphrase.com/technique.htm",
+          "author": null,
+          "description": "I WANT IT I WANT IT I WANT IT",
+          "link": "http://threewordphrase.com/technique.htm",
+          "publishedOn": "2021-08-22T00:10:46.219Z",
+          "wordCount": 12,
+          "title": "Technique"
+        },
+        {
+          "id": "http://threewordphrase.com/flattered.htm",
+          "author": null,
+          "description": "Seriously though thanks for touching my dick.",
+          "link": "http://threewordphrase.com/flattered.htm",
+          "publishedOn": "2021-08-22T00:10:46.218Z",
+          "wordCount": 12,
+          "title": "Flattered"
+        },
+        {
+          "id": "http://threewordphrase.com/depression.htm",
+          "author": null,
+          "description": "zeros across the board",
+          "link": "http://threewordphrase.com/depression.htm",
+          "publishedOn": "2021-08-22T00:10:46.217Z",
+          "wordCount": 12,
+          "title": "Questionnaire"
+        },
+        {
+          "id": "http://threewordphrase.com/crossover.htm",
+          "author": null,
+          "description": "And I dunno, Alf. Alf is in the movie?",
+          "link": "http://threewordphrase.com/crossover.htm",
+          "publishedOn": "2021-08-22T00:10:46.216Z",
+          "wordCount": 12,
+          "title": "Crossover"
+        },
+        {
+          "id": "http://threewordphrase.com/organs.htm",
+          "author": null,
+          "description": "Put those organs in there",
+          "link": "http://threewordphrase.com/organs.htm",
+          "publishedOn": "2021-08-22T00:10:46.214Z",
+          "wordCount": 12,
+          "title": "Organs"
+        },
+        {
+          "id": "http://threewordphrase.com/song.htm",
+          "author": null,
+          "description": "HN",
+          "link": "http://threewordphrase.com/song.htm",
+          "publishedOn": "2021-08-22T00:10:46.202Z",
+          "wordCount": 12,
+          "title": "Song"
+        },
+        {
+          "id": "http://threewordphrase.com/exam.htm",
+          "author": null,
+          "description": "the other arm says \"THERE ARE A LOT OF FACTORS TO CONSIDER\"",
+          "link": "http://threewordphrase.com/exam.htm",
+          "publishedOn": "2021-08-22T00:10:46.199Z",
+          "wordCount": 12,
+          "title": "Exam"
+        },
+        {
+          "id": "http://threewordphrase.com/ducks.htm",
+          "author": null,
+          "description": "that's a thing about ducks",
+          "link": "http://threewordphrase.com/ducks.htm",
+          "publishedOn": "2021-08-22T00:10:46.198Z",
+          "wordCount": 12,
+          "title": "Ducks"
+        },
+        {
+          "id": "http://threewordphrase.com/balogna.htm",
+          "author": null,
+          "description": "Alternate jokes: Roast Bleef, Slalamli, Tlurkey Breast",
+          "link": "http://threewordphrase.com/balogna.htm",
+          "publishedOn": "2021-08-22T00:10:46.197Z",
+          "wordCount": 12,
+          "title": "Sadwich"
+        },
+        {
+          "id": "http://threewordphrase.com/searches.htm",
+          "author": null,
+          "description": ":I",
+          "link": "http://threewordphrase.com/searches.htm",
+          "publishedOn": "2021-08-22T00:10:45.984Z",
+          "wordCount": 12,
+          "title": "Searches"
+        },
+        {
+          "id": "http://threewordphrase.com/fifi.htm",
+          "author": null,
+          "description": "Lady, seriously?",
+          "link": "http://threewordphrase.com/fifi.htm",
+          "publishedOn": "2021-08-22T00:10:45.983Z",
+          "wordCount": 12,
+          "title": "Fifi"
+        },
+        {
+          "id": "http://threewordphrase.com/kingbutt.htm",
+          "author": null,
+          "description": "Take that butt right off",
+          "link": "http://threewordphrase.com/kingbutt.htm",
+          "publishedOn": "2021-08-22T00:10:45.977Z",
+          "wordCount": 12,
+          "title": "Butt Touches"
+        },
+        {
+          "id": "http://threewordphrase.com/donor.htm",
+          "author": null,
+          "description": "This is a real thing",
+          "link": "http://threewordphrase.com/donor.htm",
+          "publishedOn": "2021-08-22T00:10:45.967Z",
+          "wordCount": 12,
+          "title": "Donor"
+        },
+        {
+          "id": "http://threewordphrase.com/pride.htm",
+          "author": null,
+          "description": "chirp",
+          "link": "http://threewordphrase.com/pride.htm",
+          "publishedOn": "2021-08-22T00:10:45.959Z",
+          "wordCount": 12,
+          "title": "Pride"
+        },
+        {
+          "id": "http://threewordphrase.com/thanksgiving.htm",
+          "author": null,
+          "description": "Oh heck eh",
+          "link": "http://threewordphrase.com/thanksgiving.htm",
+          "publishedOn": "2021-08-22T00:10:45.957Z",
+          "wordCount": 12,
+          "title": "Canadian Thanksgiving"
+        },
+        {
+          "id": "http://threewordphrase.com/supertiny.htm",
+          "author": null,
+          "description": "Those darn fingers are too small, darn it!",
+          "link": "http://threewordphrase.com/supertiny.htm",
+          "publishedOn": "2021-08-22T00:10:45.956Z",
+          "wordCount": 12,
+          "title": "Super Tiny"
+        },
+        {
+          "id": "http://threewordphrase.com/jock.htm",
+          "author": null,
+          "description": "Gonna do it",
+          "link": "http://threewordphrase.com/jock.htm",
+          "publishedOn": "2021-08-22T00:10:45.953Z",
+          "wordCount": 12,
+          "title": "Angry Jock Comics"
+        },
+        {
+          "id": "http://threewordphrase.com/beedoc.htm",
+          "author": null,
+          "description": "Bzzzzzzzzzzz Bzzz bzzz bzz",
+          "link": "http://threewordphrase.com/beedoc.htm",
+          "publishedOn": "2021-08-22T00:10:45.946Z",
+          "wordCount": 12,
+          "title": "Masters"
+        },
+        {
+          "id": "http://threewordphrase.com/hoarder.htm",
+          "author": null,
+          "description": "These penises are badly water damaged",
+          "link": "http://threewordphrase.com/hoarder.htm",
+          "publishedOn": "2021-08-22T00:10:45.941Z",
+          "wordCount": 12,
+          "title": "Hoarder"
+        },
+        {
+          "id": "http://threewordphrase.com/bed.htm",
+          "author": null,
+          "description": "Welp, seeya later!",
+          "link": "http://threewordphrase.com/bed.htm",
+          "publishedOn": "2021-08-22T00:10:45.918Z",
+          "wordCount": 12,
+          "title": "Really Nice Time"
+        },
+        {
+          "id": "http://threewordphrase.com/surlybaby.htm",
+          "author": null,
+          "description": "I don't even know that I have a tongue yet",
+          "link": "http://threewordphrase.com/surlybaby.htm",
+          "publishedOn": "2021-08-22T00:10:45.917Z",
+          "wordCount": 12,
+          "title": "Surly Baby"
+        },
+        {
+          "id": "http://threewordphrase.com/teens.htm",
+          "author": null,
+          "description": "Typical!",
+          "link": "http://threewordphrase.com/teens.htm",
+          "publishedOn": "2021-08-22T00:10:45.916Z",
+          "wordCount": 12,
+          "title": "Teens"
+        },
+        {
+          "id": "http://threewordphrase.com/dump.htm",
+          "author": null,
+          "description": "Hnnnn...*sob*",
+          "link": "http://threewordphrase.com/dump.htm",
+          "publishedOn": "2021-08-22T00:10:45.912Z",
+          "wordCount": 12,
+          "title": "Dumped"
+        },
+        {
+          "id": "http://threewordphrase.com/vitamins.htm",
+          "author": null,
+          "description": "And your purse and lipstick and stuff",
+          "link": "http://threewordphrase.com/vitamins.htm",
+          "publishedOn": "2021-08-22T00:10:45.903Z",
+          "wordCount": 12,
+          "title": "Vitamins"
+        },
+        {
+          "id": "http://threewordphrase.com/mlady.htm",
+          "author": null,
+          "description": "Barfin' Lady",
+          "link": "http://threewordphrase.com/mlady.htm",
+          "publishedOn": "2021-08-22T00:10:45.902Z",
+          "wordCount": 12,
+          "title": "M'Lady"
+        },
+        {
+          "id": "http://threewordphrase.com/tattoo.htm",
+          "author": null,
+          "description": "I HATE BIRDS",
+          "link": "http://threewordphrase.com/tattoo.htm",
+          "publishedOn": "2021-08-22T00:10:45.899Z",
+          "wordCount": 12,
+          "title": "Tattoo"
+        },
+        {
+          "id": "http://threewordphrase.com/tarot.htm",
+          "author": null,
+          "description": "Dookie",
+          "link": "http://threewordphrase.com/tarot.htm",
+          "publishedOn": "2021-08-22T00:10:45.897Z",
+          "wordCount": 12,
+          "title": "Tarot"
+        },
+        {
+          "id": "http://threewordphrase.com/procedure.htm",
+          "author": null,
+          "description": "Make my skeleton kiss me on my skinlips",
+          "link": "http://threewordphrase.com/procedure.htm",
+          "publishedOn": "2021-08-22T00:10:45.896Z",
+          "wordCount": 12,
+          "title": "Procedure"
+        },
+        {
+          "id": "http://threewordphrase.com/tramp.htm",
+          "author": null,
+          "description": "sick tramp",
+          "link": "http://threewordphrase.com/tramp.htm",
+          "publishedOn": "2021-08-22T00:10:45.895Z",
+          "wordCount": 12,
+          "title": "Tramp"
+        },
+        {
+          "id": "http://threewordphrase.com/freudian.htm",
+          "author": null,
+          "description": "The regular eagle just wants to see you succeed",
+          "link": "http://threewordphrase.com/freudian.htm",
+          "publishedOn": "2021-08-22T00:10:45.453Z",
+          "wordCount": 12,
+          "title": "Freudian"
+        },
+        {
+          "id": "http://threewordphrase.com/honour.htm",
+          "author": null,
+          "description": "Ssssssssssssssshoot",
+          "link": "http://threewordphrase.com/honour.htm",
+          "publishedOn": "2021-08-22T00:10:45.447Z",
+          "wordCount": 12,
+          "title": "Honour"
+        },
+        {
+          "id": "http://threewordphrase.com/pardonme.htm",
+          "author": null,
+          "description": "Who doesn't want a slippery butt. Get that butt as slippery as you can, please.",
+          "link": "http://threewordphrase.com/pardonme.htm",
+          "publishedOn": "2021-08-22T00:10:45.443Z",
+          "wordCount": 12,
+          "title": "Reasons"
+        },
+        {
+          "id": "http://threewordphrase.com/apocalypse.htm",
+          "author": null,
+          "description": "Also you're dying",
+          "link": "http://threewordphrase.com/apocalypse.htm",
+          "publishedOn": "2021-08-22T00:10:45.438Z",
+          "wordCount": 12,
+          "title": "Apocalypse"
+        },
+        {
+          "id": "http://threewordphrase.com/moon.htm",
+          "author": null,
+          "description": "Us guys here in space. Spaceguys.",
+          "link": "http://threewordphrase.com/moon.htm",
+          "publishedOn": "2021-08-22T00:10:45.435Z",
+          "wordCount": 12,
+          "title": "Moon"
+        },
+        {
+          "id": "http://threewordphrase.com/crowdsourcing.htm",
+          "author": null,
+          "description": "Goku, bro",
+          "link": "http://threewordphrase.com/crowdsourcing.htm",
+          "publishedOn": "2021-08-22T00:10:45.432Z",
+          "wordCount": 12,
+          "title": "Crowdsourcing"
+        },
+        {
+          "id": "http://threewordphrase.com/soap.htm",
+          "author": null,
+          "description": "X _ X",
+          "link": "http://threewordphrase.com/soap.htm",
+          "publishedOn": "2021-08-22T00:10:45.407Z",
+          "wordCount": 12,
+          "title": "The soap"
+        },
+        {
+          "id": "http://threewordphrase.com/surgery.htm",
+          "author": null,
+          "description": "it is true",
+          "link": "http://threewordphrase.com/surgery.htm",
+          "publishedOn": "2021-08-22T00:10:45.404Z",
+          "wordCount": 12,
+          "title": "Surgery"
+        },
+        {
+          "id": "http://threewordphrase.com/singularity.htm",
+          "author": null,
+          "description": "Beep boop don't be a homo beep",
+          "link": "http://threewordphrase.com/singularity.htm",
+          "publishedOn": "2021-08-22T00:10:45.372Z",
+          "wordCount": 12,
+          "title": "The Singularity"
+        },
+        {
+          "id": "http://threewordphrase.com/beatit.htm",
+          "author": null,
+          "description": "Two sort of offensive strips in a row *fistpump*",
+          "link": "http://threewordphrase.com/beatit.htm",
+          "publishedOn": "2021-08-22T00:10:45.369Z",
+          "wordCount": 12,
+          "title": "Beat It"
+        },
+        {
+          "id": "http://threewordphrase.com/shy.htm",
+          "author": null,
+          "description": "Hhhhhhhhh heh ha hhh gh ghhhh",
+          "link": "http://threewordphrase.com/shy.htm",
+          "publishedOn": "2021-08-22T00:10:45.368Z",
+          "wordCount": 12,
+          "title": "Shy Doctor"
+        },
+        {
+          "id": "http://threewordphrase.com/story.htm",
+          "author": null,
+          "description": "Once upon a time, there was a murderhole",
+          "link": "http://threewordphrase.com/story.htm",
+          "publishedOn": "2021-08-22T00:10:45.367Z",
+          "wordCount": 12,
+          "title": "Short Story"
+        },
+        {
+          "id": "http://threewordphrase.com/defense.htm",
+          "author": null,
+          "description": "kick kick kick kick kick awk awwwkk kick",
+          "link": "http://threewordphrase.com/defense.htm",
+          "publishedOn": "2021-08-22T00:10:45.365Z",
+          "wordCount": 12,
+          "title": "Defense"
+        },
+        {
+          "id": "http://threewordphrase.com/finally.htm",
+          "author": null,
+          "description": "Haha! Ha! Hahaha!",
+          "link": "http://threewordphrase.com/finally.htm",
+          "publishedOn": "2021-08-22T00:10:45.364Z",
+          "wordCount": 12,
+          "title": "Finally!!!"
+        },
+        {
+          "id": "http://threewordphrase.com/friday.htm",
+          "author": null,
+          "description": "MY DICK, BRO",
+          "link": "http://threewordphrase.com/friday.htm",
+          "publishedOn": "2021-08-22T00:10:45.347Z",
+          "wordCount": 12,
+          "title": "Friday Night Comics"
+        },
+        {
+          "id": "http://threewordphrase.com/basilisk.htm",
+          "author": null,
+          "description": "It's Basil!",
+          "link": "http://threewordphrase.com/basilisk.htm",
+          "publishedOn": "2021-08-22T00:10:45.343Z",
+          "wordCount": 12,
+          "title": "Basilisk"
+        },
+        {
+          "id": "http://threewordphrase.com/digestion.htm",
+          "author": null,
+          "description": "The slimy thing is called that because it is slimy",
+          "link": "http://threewordphrase.com/digestion.htm",
+          "publishedOn": "2021-08-22T00:10:45.339Z",
+          "wordCount": 12,
+          "title": "Digestion"
+        },
+        {
+          "id": "http://threewordphrase.com/saved.htm",
+          "author": null,
+          "description": "Sometimes things work out for the best",
+          "link": "http://threewordphrase.com/saved.htm",
+          "publishedOn": "2021-08-22T00:10:45.338Z",
+          "wordCount": 12,
+          "title": "Saved"
+        },
+        {
+          "id": "http://threewordphrase.com/floaters.htm",
+          "author": null,
+          "description": "AaaaaaaaAAAA",
+          "link": "http://threewordphrase.com/floaters.htm",
+          "publishedOn": "2021-08-22T00:10:45.335Z",
+          "wordCount": 11,
+          "title": "Floaters"
+        },
+        {
+          "id": "http://threewordphrase.com/internetmom.htm",
+          "author": null,
+          "description": "Initializing",
+          "link": "http://threewordphrase.com/internetmom.htm",
+          "publishedOn": "2021-08-22T00:10:45.332Z",
+          "wordCount": 12,
+          "title": "Internet Mom"
+        },
+        {
+          "id": "http://threewordphrase.com/xray.htm",
+          "author": null,
+          "description": "The joke is that the nerd character is monstrously evil",
+          "link": "http://threewordphrase.com/xray.htm",
+          "publishedOn": "2021-08-22T00:10:45.329Z",
+          "wordCount": 12,
+          "title": "X-Ray"
+        },
+        {
+          "id": "http://threewordphrase.com/art.htm",
+          "author": null,
+          "description": "That is what a taint is, in my art",
+          "link": "http://threewordphrase.com/art.htm",
+          "publishedOn": "2021-08-22T00:10:45.325Z",
+          "wordCount": 12,
+          "title": "Art Show"
+        },
+        {
+          "id": "http://threewordphrase.com/portrait.htm",
+          "author": null,
+          "description": "Local artist commits suicide",
+          "link": "http://threewordphrase.com/portrait.htm",
+          "publishedOn": "2021-08-22T00:10:45.301Z",
+          "wordCount": 12,
+          "title": "Portrait"
+        },
+        {
+          "id": "http://threewordphrase.com/offender.htm",
+          "author": null,
+          "description": ":|",
+          "link": "http://threewordphrase.com/offender.htm",
+          "publishedOn": "2021-08-22T00:10:45.263Z",
+          "wordCount": 12,
+          "title": "Offender"
+        }
+      ]
     },
     {
       "title": "Dinosaur Comics!",
@@ -560,15 +1317,6 @@
           "publishedOn": "2021-07-26T07:00:00.000Z",
           "wordCount": 180,
           "title": "reincarnation comics! they're back! in retrospect we should've seen this coming"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3775",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 23rd, 2021next\nJuly 23rd, 2021: Reincarnation comics will be back with the next update!  It's only thematically appropriate!!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3775",
-          "publishedOn": "2021-07-23T07:00:00.000Z",
-          "wordCount": 198,
-          "title": "reincarnation comics, or: \"back once again with the ill behaviour\""
         }
       ]
     },

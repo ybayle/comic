@@ -2,10 +2,873 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T00:10:00.727Z</updated>
+    <updated>2021-08-22T00:10:47.150Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subdue]]></title>
+        <id>http://threewordphrase.com/subdue.htm</id>
+        <link href="http://threewordphrase.com/subdue.htm"/>
+        <updated>2021-08-22T00:10:46.864Z</updated>
+        <summary type="html"><![CDATA[Don't make me fire a third round, sir]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoa Man (Guest Strip)]]></title>
+        <id>http://threewordphrase.com/whoaman.htm</id>
+        <link href="http://threewordphrase.com/whoaman.htm"/>
+        <updated>2021-08-22T00:10:46.862Z</updated>
+        <summary type="html"><![CDATA[Eagle, more like PEEgle]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symbols]]></title>
+        <id>http://threewordphrase.com/symbols.htm</id>
+        <link href="http://threewordphrase.com/symbols.htm"/>
+        <updated>2021-08-22T00:10:46.340Z</updated>
+        <summary type="html"><![CDATA[fluffy puppy dickens]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conscience]]></title>
+        <id>http://threewordphrase.com/conscience.htm</id>
+        <link href="http://threewordphrase.com/conscience.htm"/>
+        <updated>2021-08-22T00:10:46.335Z</updated>
+        <summary type="html"><![CDATA[good dogs eat the poop]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kill]]></title>
+        <id>http://threewordphrase.com/kill.htm</id>
+        <link href="http://threewordphrase.com/kill.htm"/>
+        <updated>2021-08-22T00:10:46.334Z</updated>
+        <summary type="html"><![CDATA[Life does not go on forever]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mansion]]></title>
+        <id>http://threewordphrase.com/mansion.htm</id>
+        <link href="http://threewordphrase.com/mansion.htm"/>
+        <updated>2021-08-22T00:10:46.316Z</updated>
+        <summary type="html"><![CDATA[just like in all of those movies]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spit Take]]></title>
+        <id>http://threewordphrase.com/spit.htm</id>
+        <link href="http://threewordphrase.com/spit.htm"/>
+        <updated>2021-08-22T00:10:46.309Z</updated>
+        <summary type="html"><![CDATA[ha ha ha huhhhhgh]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auntie]]></title>
+        <id>http://threewordphrase.com/auntie.htm</id>
+        <link href="http://threewordphrase.com/auntie.htm"/>
+        <updated>2021-08-22T00:10:46.304Z</updated>
+        <summary type="html"><![CDATA[*cough*]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles]]></title>
+        <id>http://threewordphrase.com/charles.htm</id>
+        <link href="http://threewordphrase.com/charles.htm"/>
+        <updated>2021-08-22T00:10:46.293Z</updated>
+        <summary type="html"><![CDATA[Charles is dead now]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coconut]]></title>
+        <id>http://threewordphrase.com/coconut.htm</id>
+        <link href="http://threewordphrase.com/coconut.htm"/>
+        <updated>2021-08-22T00:10:46.270Z</updated>
+        <summary type="html"><![CDATA[I FUCKING LOVE MY BRO MOM BRO]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back Seat]]></title>
+        <id>http://threewordphrase.com/backseat.htm</id>
+        <link href="http://threewordphrase.com/backseat.htm"/>
+        <updated>2021-08-22T00:10:46.261Z</updated>
+        <summary type="html"><![CDATA[You did this too]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favor]]></title>
+        <id>http://threewordphrase.com/favor.htm</id>
+        <link href="http://threewordphrase.com/favor.htm"/>
+        <updated>2021-08-22T00:10:46.260Z</updated>
+        <summary type="html"><![CDATA[I'm not gonna lie to you, it's gross]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grody]]></title>
+        <id>http://threewordphrase.com/grody.htm</id>
+        <link href="http://threewordphrase.com/grody.htm"/>
+        <updated>2021-08-22T00:10:46.257Z</updated>
+        <summary type="html"><![CDATA[ew ew ew ew ew]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Father's Day]]></title>
+        <id>http://threewordphrase.com/fathersday.htm</id>
+        <link href="http://threewordphrase.com/fathersday.htm"/>
+        <updated>2021-08-22T00:10:46.254Z</updated>
+        <summary type="html"><![CDATA[love those dads]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nautical Comics]]></title>
+        <id>http://threewordphrase.com/nautical.htm</id>
+        <link href="http://threewordphrase.com/nautical.htm"/>
+        <updated>2021-08-22T00:10:46.252Z</updated>
+        <summary type="html"><![CDATA[Deep dickin']]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crime]]></title>
+        <id>http://threewordphrase.com/crime.htm</id>
+        <link href="http://threewordphrase.com/crime.htm"/>
+        <updated>2021-08-22T00:10:46.251Z</updated>
+        <summary type="html"><![CDATA[It's true]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Call]]></title>
+        <id>http://threewordphrase.com/bugcall.htm</id>
+        <link href="http://threewordphrase.com/bugcall.htm"/>
+        <updated>2021-08-22T00:10:46.250Z</updated>
+        <summary type="html"><![CDATA[Eat that neck]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hockey]]></title>
+        <id>http://threewordphrase.com/hockey.htm</id>
+        <link href="http://threewordphrase.com/hockey.htm"/>
+        <updated>2021-08-22T00:10:46.249Z</updated>
+        <summary type="html"><![CDATA[So uh uh you know uh]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Got Me]]></title>
+        <id>http://threewordphrase.com/gotme.htm</id>
+        <link href="http://threewordphrase.com/gotme.htm"/>
+        <updated>2021-08-22T00:10:46.247Z</updated>
+        <summary type="html"><![CDATA[Open your fucking ears! I said I have a real bad tummy ache!]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikings]]></title>
+        <id>http://threewordphrase.com/vikings.htm</id>
+        <link href="http://threewordphrase.com/vikings.htm"/>
+        <updated>2021-08-22T00:10:46.246Z</updated>
+        <summary type="html"><![CDATA[So sick]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hole]]></title>
+        <id>http://threewordphrase.com/blackhole.htm</id>
+        <link href="http://threewordphrase.com/blackhole.htm"/>
+        <updated>2021-08-22T00:10:46.245Z</updated>
+        <summary type="html"><![CDATA[Mission Control check out my dick]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost Dog]]></title>
+        <id>http://threewordphrase.com/lostdog.htm</id>
+        <link href="http://threewordphrase.com/lostdog.htm"/>
+        <updated>2021-08-22T00:10:46.244Z</updated>
+        <summary type="html"><![CDATA[:-(]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dignity]]></title>
+        <id>http://threewordphrase.com/dignity.htm</id>
+        <link href="http://threewordphrase.com/dignity.htm"/>
+        <updated>2021-08-22T00:10:46.243Z</updated>
+        <summary type="html"><![CDATA[whump whump whump whump whump]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look Damned]]></title>
+        <id>http://threewordphrase.com/boss.htm</id>
+        <link href="http://threewordphrase.com/boss.htm"/>
+        <updated>2021-08-22T00:10:46.240Z</updated>
+        <summary type="html"><![CDATA[um, aaaa]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazing]]></title>
+        <id>http://threewordphrase.com/amazing.htm</id>
+        <link href="http://threewordphrase.com/amazing.htm"/>
+        <updated>2021-08-22T00:10:46.238Z</updated>
+        <summary type="html"><![CDATA[Now is it bigger than a truck? Nobody knows]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neckbeard]]></title>
+        <id>http://threewordphrase.com/neckbeard.htm</id>
+        <link href="http://threewordphrase.com/neckbeard.htm"/>
+        <updated>2021-08-22T00:10:46.237Z</updated>
+        <summary type="html"><![CDATA[Heh. Heh. Heh. heh]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bearapy]]></title>
+        <id>http://threewordphrase.com/bearapy.htm</id>
+        <link href="http://threewordphrase.com/bearapy.htm"/>
+        <updated>2021-08-22T00:10:46.235Z</updated>
+        <summary type="html"><![CDATA[Right?]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jungle Explorer]]></title>
+        <id>http://threewordphrase.com/explorer.htm</id>
+        <link href="http://threewordphrase.com/explorer.htm"/>
+        <updated>2021-08-22T00:10:46.234Z</updated>
+        <summary type="html"><![CDATA[nature does not care]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horror Comics]]></title>
+        <id>http://threewordphrase.com/shining.htm</id>
+        <link href="http://threewordphrase.com/shining.htm"/>
+        <updated>2021-08-22T00:10:46.231Z</updated>
+        <summary type="html"><![CDATA[All work and no play makes Jon a dull boy]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bugs]]></title>
+        <id>http://threewordphrase.com/bugs.htm</id>
+        <link href="http://threewordphrase.com/bugs.htm"/>
+        <updated>2021-08-22T00:10:46.228Z</updated>
+        <summary type="html"><![CDATA[bugs]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Condiment]]></title>
+        <id>http://threewordphrase.com/condiment.htm</id>
+        <link href="http://threewordphrase.com/condiment.htm"/>
+        <updated>2021-08-22T00:10:46.227Z</updated>
+        <summary type="html"><![CDATA[frrtt]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trepanning]]></title>
+        <id>http://threewordphrase.com/trepanning.htm</id>
+        <link href="http://threewordphrase.com/trepanning.htm"/>
+        <updated>2021-08-22T00:10:46.225Z</updated>
+        <summary type="html"><![CDATA[S O C O O L]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technique]]></title>
+        <id>http://threewordphrase.com/technique.htm</id>
+        <link href="http://threewordphrase.com/technique.htm"/>
+        <updated>2021-08-22T00:10:46.219Z</updated>
+        <summary type="html"><![CDATA[I WANT IT I WANT IT I WANT IT]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flattered]]></title>
+        <id>http://threewordphrase.com/flattered.htm</id>
+        <link href="http://threewordphrase.com/flattered.htm"/>
+        <updated>2021-08-22T00:10:46.218Z</updated>
+        <summary type="html"><![CDATA[Seriously though thanks for touching my dick.]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questionnaire]]></title>
+        <id>http://threewordphrase.com/depression.htm</id>
+        <link href="http://threewordphrase.com/depression.htm"/>
+        <updated>2021-08-22T00:10:46.217Z</updated>
+        <summary type="html"><![CDATA[zeros across the board]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crossover]]></title>
+        <id>http://threewordphrase.com/crossover.htm</id>
+        <link href="http://threewordphrase.com/crossover.htm"/>
+        <updated>2021-08-22T00:10:46.216Z</updated>
+        <summary type="html"><![CDATA[And I dunno, Alf. Alf is in the movie?]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organs]]></title>
+        <id>http://threewordphrase.com/organs.htm</id>
+        <link href="http://threewordphrase.com/organs.htm"/>
+        <updated>2021-08-22T00:10:46.214Z</updated>
+        <summary type="html"><![CDATA[Put those organs in there]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Song]]></title>
+        <id>http://threewordphrase.com/song.htm</id>
+        <link href="http://threewordphrase.com/song.htm"/>
+        <updated>2021-08-22T00:10:46.202Z</updated>
+        <summary type="html"><![CDATA[HN]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exam]]></title>
+        <id>http://threewordphrase.com/exam.htm</id>
+        <link href="http://threewordphrase.com/exam.htm"/>
+        <updated>2021-08-22T00:10:46.199Z</updated>
+        <summary type="html"><![CDATA[the other arm says "THERE ARE A LOT OF FACTORS TO CONSIDER"]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ducks]]></title>
+        <id>http://threewordphrase.com/ducks.htm</id>
+        <link href="http://threewordphrase.com/ducks.htm"/>
+        <updated>2021-08-22T00:10:46.198Z</updated>
+        <summary type="html"><![CDATA[that's a thing about ducks]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadwich]]></title>
+        <id>http://threewordphrase.com/balogna.htm</id>
+        <link href="http://threewordphrase.com/balogna.htm"/>
+        <updated>2021-08-22T00:10:46.197Z</updated>
+        <summary type="html"><![CDATA[Alternate jokes: Roast Bleef, Slalamli, Tlurkey Breast]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searches]]></title>
+        <id>http://threewordphrase.com/searches.htm</id>
+        <link href="http://threewordphrase.com/searches.htm"/>
+        <updated>2021-08-22T00:10:45.984Z</updated>
+        <summary type="html"><![CDATA[:I]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fifi]]></title>
+        <id>http://threewordphrase.com/fifi.htm</id>
+        <link href="http://threewordphrase.com/fifi.htm"/>
+        <updated>2021-08-22T00:10:45.983Z</updated>
+        <summary type="html"><![CDATA[Lady, seriously?]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Butt Touches]]></title>
+        <id>http://threewordphrase.com/kingbutt.htm</id>
+        <link href="http://threewordphrase.com/kingbutt.htm"/>
+        <updated>2021-08-22T00:10:45.977Z</updated>
+        <summary type="html"><![CDATA[Take that butt right off]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donor]]></title>
+        <id>http://threewordphrase.com/donor.htm</id>
+        <link href="http://threewordphrase.com/donor.htm"/>
+        <updated>2021-08-22T00:10:45.967Z</updated>
+        <summary type="html"><![CDATA[This is a real thing]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pride]]></title>
+        <id>http://threewordphrase.com/pride.htm</id>
+        <link href="http://threewordphrase.com/pride.htm"/>
+        <updated>2021-08-22T00:10:45.959Z</updated>
+        <summary type="html"><![CDATA[chirp]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian Thanksgiving]]></title>
+        <id>http://threewordphrase.com/thanksgiving.htm</id>
+        <link href="http://threewordphrase.com/thanksgiving.htm"/>
+        <updated>2021-08-22T00:10:45.957Z</updated>
+        <summary type="html"><![CDATA[Oh heck eh]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Tiny]]></title>
+        <id>http://threewordphrase.com/supertiny.htm</id>
+        <link href="http://threewordphrase.com/supertiny.htm"/>
+        <updated>2021-08-22T00:10:45.956Z</updated>
+        <summary type="html"><![CDATA[Those darn fingers are too small, darn it!]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angry Jock Comics]]></title>
+        <id>http://threewordphrase.com/jock.htm</id>
+        <link href="http://threewordphrase.com/jock.htm"/>
+        <updated>2021-08-22T00:10:45.953Z</updated>
+        <summary type="html"><![CDATA[Gonna do it]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masters]]></title>
+        <id>http://threewordphrase.com/beedoc.htm</id>
+        <link href="http://threewordphrase.com/beedoc.htm"/>
+        <updated>2021-08-22T00:10:45.946Z</updated>
+        <summary type="html"><![CDATA[Bzzzzzzzzzzz Bzzz bzzz bzz]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoarder]]></title>
+        <id>http://threewordphrase.com/hoarder.htm</id>
+        <link href="http://threewordphrase.com/hoarder.htm"/>
+        <updated>2021-08-22T00:10:45.941Z</updated>
+        <summary type="html"><![CDATA[These penises are badly water damaged]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Really Nice Time]]></title>
+        <id>http://threewordphrase.com/bed.htm</id>
+        <link href="http://threewordphrase.com/bed.htm"/>
+        <updated>2021-08-22T00:10:45.918Z</updated>
+        <summary type="html"><![CDATA[Welp, seeya later!]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surly Baby]]></title>
+        <id>http://threewordphrase.com/surlybaby.htm</id>
+        <link href="http://threewordphrase.com/surlybaby.htm"/>
+        <updated>2021-08-22T00:10:45.917Z</updated>
+        <summary type="html"><![CDATA[I don't even know that I have a tongue yet]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teens]]></title>
+        <id>http://threewordphrase.com/teens.htm</id>
+        <link href="http://threewordphrase.com/teens.htm"/>
+        <updated>2021-08-22T00:10:45.916Z</updated>
+        <summary type="html"><![CDATA[Typical!]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dumped]]></title>
+        <id>http://threewordphrase.com/dump.htm</id>
+        <link href="http://threewordphrase.com/dump.htm"/>
+        <updated>2021-08-22T00:10:45.912Z</updated>
+        <summary type="html"><![CDATA[Hnnnn...*sob*]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitamins]]></title>
+        <id>http://threewordphrase.com/vitamins.htm</id>
+        <link href="http://threewordphrase.com/vitamins.htm"/>
+        <updated>2021-08-22T00:10:45.903Z</updated>
+        <summary type="html"><![CDATA[And your purse and lipstick and stuff]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M'Lady]]></title>
+        <id>http://threewordphrase.com/mlady.htm</id>
+        <link href="http://threewordphrase.com/mlady.htm"/>
+        <updated>2021-08-22T00:10:45.902Z</updated>
+        <summary type="html"><![CDATA[Barfin' Lady]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tattoo]]></title>
+        <id>http://threewordphrase.com/tattoo.htm</id>
+        <link href="http://threewordphrase.com/tattoo.htm"/>
+        <updated>2021-08-22T00:10:45.899Z</updated>
+        <summary type="html"><![CDATA[I HATE BIRDS]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tarot]]></title>
+        <id>http://threewordphrase.com/tarot.htm</id>
+        <link href="http://threewordphrase.com/tarot.htm"/>
+        <updated>2021-08-22T00:10:45.897Z</updated>
+        <summary type="html"><![CDATA[Dookie]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procedure]]></title>
+        <id>http://threewordphrase.com/procedure.htm</id>
+        <link href="http://threewordphrase.com/procedure.htm"/>
+        <updated>2021-08-22T00:10:45.896Z</updated>
+        <summary type="html"><![CDATA[Make my skeleton kiss me on my skinlips]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tramp]]></title>
+        <id>http://threewordphrase.com/tramp.htm</id>
+        <link href="http://threewordphrase.com/tramp.htm"/>
+        <updated>2021-08-22T00:10:45.895Z</updated>
+        <summary type="html"><![CDATA[sick tramp]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freudian]]></title>
+        <id>http://threewordphrase.com/freudian.htm</id>
+        <link href="http://threewordphrase.com/freudian.htm"/>
+        <updated>2021-08-22T00:10:45.453Z</updated>
+        <summary type="html"><![CDATA[The regular eagle just wants to see you succeed]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honour]]></title>
+        <id>http://threewordphrase.com/honour.htm</id>
+        <link href="http://threewordphrase.com/honour.htm"/>
+        <updated>2021-08-22T00:10:45.447Z</updated>
+        <summary type="html"><![CDATA[Ssssssssssssssshoot]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons]]></title>
+        <id>http://threewordphrase.com/pardonme.htm</id>
+        <link href="http://threewordphrase.com/pardonme.htm"/>
+        <updated>2021-08-22T00:10:45.443Z</updated>
+        <summary type="html"><![CDATA[Who doesn't want a slippery butt. Get that butt as slippery as you can, please.]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apocalypse]]></title>
+        <id>http://threewordphrase.com/apocalypse.htm</id>
+        <link href="http://threewordphrase.com/apocalypse.htm"/>
+        <updated>2021-08-22T00:10:45.438Z</updated>
+        <summary type="html"><![CDATA[Also you're dying]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moon]]></title>
+        <id>http://threewordphrase.com/moon.htm</id>
+        <link href="http://threewordphrase.com/moon.htm"/>
+        <updated>2021-08-22T00:10:45.435Z</updated>
+        <summary type="html"><![CDATA[Us guys here in space. Spaceguys.]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crowdsourcing]]></title>
+        <id>http://threewordphrase.com/crowdsourcing.htm</id>
+        <link href="http://threewordphrase.com/crowdsourcing.htm"/>
+        <updated>2021-08-22T00:10:45.432Z</updated>
+        <summary type="html"><![CDATA[Goku, bro]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The soap]]></title>
+        <id>http://threewordphrase.com/soap.htm</id>
+        <link href="http://threewordphrase.com/soap.htm"/>
+        <updated>2021-08-22T00:10:45.407Z</updated>
+        <summary type="html"><![CDATA[X _ X]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surgery]]></title>
+        <id>http://threewordphrase.com/surgery.htm</id>
+        <link href="http://threewordphrase.com/surgery.htm"/>
+        <updated>2021-08-22T00:10:45.404Z</updated>
+        <summary type="html"><![CDATA[it is true]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Singularity]]></title>
+        <id>http://threewordphrase.com/singularity.htm</id>
+        <link href="http://threewordphrase.com/singularity.htm"/>
+        <updated>2021-08-22T00:10:45.372Z</updated>
+        <summary type="html"><![CDATA[Beep boop don't be a homo beep]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beat It]]></title>
+        <id>http://threewordphrase.com/beatit.htm</id>
+        <link href="http://threewordphrase.com/beatit.htm"/>
+        <updated>2021-08-22T00:10:45.369Z</updated>
+        <summary type="html"><![CDATA[Two sort of offensive strips in a row *fistpump*]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shy Doctor]]></title>
+        <id>http://threewordphrase.com/shy.htm</id>
+        <link href="http://threewordphrase.com/shy.htm"/>
+        <updated>2021-08-22T00:10:45.368Z</updated>
+        <summary type="html"><![CDATA[Hhhhhhhhh heh ha hhh gh ghhhh]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short Story]]></title>
+        <id>http://threewordphrase.com/story.htm</id>
+        <link href="http://threewordphrase.com/story.htm"/>
+        <updated>2021-08-22T00:10:45.367Z</updated>
+        <summary type="html"><![CDATA[Once upon a time, there was a murderhole]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defense]]></title>
+        <id>http://threewordphrase.com/defense.htm</id>
+        <link href="http://threewordphrase.com/defense.htm"/>
+        <updated>2021-08-22T00:10:45.365Z</updated>
+        <summary type="html"><![CDATA[kick kick kick kick kick awk awwwkk kick]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally!!!]]></title>
+        <id>http://threewordphrase.com/finally.htm</id>
+        <link href="http://threewordphrase.com/finally.htm"/>
+        <updated>2021-08-22T00:10:45.364Z</updated>
+        <summary type="html"><![CDATA[Haha! Ha! Hahaha!]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday Night Comics]]></title>
+        <id>http://threewordphrase.com/friday.htm</id>
+        <link href="http://threewordphrase.com/friday.htm"/>
+        <updated>2021-08-22T00:10:45.347Z</updated>
+        <summary type="html"><![CDATA[MY DICK, BRO]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basilisk]]></title>
+        <id>http://threewordphrase.com/basilisk.htm</id>
+        <link href="http://threewordphrase.com/basilisk.htm"/>
+        <updated>2021-08-22T00:10:45.343Z</updated>
+        <summary type="html"><![CDATA[It's Basil!]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digestion]]></title>
+        <id>http://threewordphrase.com/digestion.htm</id>
+        <link href="http://threewordphrase.com/digestion.htm"/>
+        <updated>2021-08-22T00:10:45.339Z</updated>
+        <summary type="html"><![CDATA[The slimy thing is called that because it is slimy]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saved]]></title>
+        <id>http://threewordphrase.com/saved.htm</id>
+        <link href="http://threewordphrase.com/saved.htm"/>
+        <updated>2021-08-22T00:10:45.338Z</updated>
+        <summary type="html"><![CDATA[Sometimes things work out for the best]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floaters]]></title>
+        <id>http://threewordphrase.com/floaters.htm</id>
+        <link href="http://threewordphrase.com/floaters.htm"/>
+        <updated>2021-08-22T00:10:45.335Z</updated>
+        <summary type="html"><![CDATA[AaaaaaaaAAAA]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Mom]]></title>
+        <id>http://threewordphrase.com/internetmom.htm</id>
+        <link href="http://threewordphrase.com/internetmom.htm"/>
+        <updated>2021-08-22T00:10:45.332Z</updated>
+        <summary type="html"><![CDATA[Initializing]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-Ray]]></title>
+        <id>http://threewordphrase.com/xray.htm</id>
+        <link href="http://threewordphrase.com/xray.htm"/>
+        <updated>2021-08-22T00:10:45.329Z</updated>
+        <summary type="html"><![CDATA[The joke is that the nerd character is monstrously evil]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Art Show]]></title>
+        <id>http://threewordphrase.com/art.htm</id>
+        <link href="http://threewordphrase.com/art.htm"/>
+        <updated>2021-08-22T00:10:45.325Z</updated>
+        <summary type="html"><![CDATA[That is what a taint is, in my art]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portrait]]></title>
+        <id>http://threewordphrase.com/portrait.htm</id>
+        <link href="http://threewordphrase.com/portrait.htm"/>
+        <updated>2021-08-22T00:10:45.301Z</updated>
+        <summary type="html"><![CDATA[Local artist commits suicide]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offender]]></title>
+        <id>http://threewordphrase.com/offender.htm</id>
+        <link href="http://threewordphrase.com/offender.htm"/>
+        <updated>2021-08-22T00:10:45.263Z</updated>
+        <summary type="html"><![CDATA[:|]]></summary>
+        <author>
+            <name>Three Word Phrase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Order]]></title>
+        <id>https://www.smbc-comics.com/comic/order</id>
+        <link href="https://www.smbc-comics.com/comic/order"/>
+        <updated>2021-08-21T13:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Also pugs. They've suffered enough.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Starstuff]]></title>
         <id>https://www.smbc-comics.com/comic/starstuff</id>
@@ -764,43 +1627,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Relative dick moves have of course been possible since RNA world.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[reincarnation comics, or: "back once again with the ill behaviour"]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3775</id>
-        <link href="http://www.qwantz.com/index.php?comic=3775"/>
-        <updated>2021-07-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 23rd, 2021next
-July 23rd, 2021: Reincarnation comics will be back with the next update!  It's only thematically appropriate!!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual USB-C]]></title>
-        <id>https://xkcd.com/2493/</id>
-        <link href="https://xkcd.com/2493/"/>
-        <updated>2021-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/dual_usb_c.png" title="Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground." alt="Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Wow!]]></title>
-        <id>https://www.smbc-comics.com/comic/wow</id>
-        <link href="https://www.smbc-comics.com/comic/wow"/>
-        <updated>2021-07-22T15:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-This comic is only pessimistic if you are a human.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
