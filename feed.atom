@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T00:10:47.150Z</updated>
+    <updated>2021-08-23T00:10:49.274Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Bunny]]></title>
+        <id>https://www.smbc-comics.com/comic/bunny</id>
+        <link href="https://www.smbc-comics.com/comic/bunny"/>
+        <updated>2021-08-22T16:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Of course the real concern is precisely how the Easter Bunny feels about its state.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subdue]]></title>
         <id>http://threewordphrase.com/subdue.htm</id>
@@ -1614,19 +1627,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 We actually manage to overturn the robot revolution while they're distracted by this sort of thing.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Origins]]></title>
-        <id>https://www.smbc-comics.com/comic/origins</id>
-        <link href="https://www.smbc-comics.com/comic/origins"/>
-        <updated>2021-07-23T14:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Relative dick moves have of course been possible since RNA world.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

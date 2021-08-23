@@ -162,6 +162,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/bunny",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nOf course the real concern is precisely how the Easter Bunny feels about its state.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/bunny",
+          "publishedOn": "2021-08-22T16:20:22.000Z",
+          "wordCount": 63,
+          "title": "Saturday Morning Breakfast Cereal - Bunny"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/order",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nAlso pugs. They've suffered enough.\nToday's News:",
@@ -421,15 +430,6 @@
           "publishedOn": "2021-07-24T15:31:38.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Auto"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/origins",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nRelative dick moves have of course been possible since RNA world.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/origins",
-          "publishedOn": "2021-07-23T14:23:22.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Origins"
         }
       ]
     },
