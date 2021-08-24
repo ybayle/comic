@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2506/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/projecting.png\" title=\"This is something we all need to work on, but especially you all.\" alt=\"This is something we all need to work on, but especially you all.\" />",
+          "link": "https://xkcd.com/2506/",
+          "publishedOn": "2021-08-23T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Projecting"
+        },
+        {
           "id": "https://xkcd.com/2505/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/news_story_reaction.png\" title=\"Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;\" alt=\"Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;\" />",
@@ -161,6 +170,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/criteria",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nShe's gonna get a really bad score on 'ignoring the way I'm perpetually judging her'.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/criteria",
+          "publishedOn": "2021-08-23T16:08:27.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Criteria"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/bunny",
           "author": "tech@thehiveworks.com",
@@ -421,15 +439,6 @@
           "publishedOn": "2021-07-25T14:27:17.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - PCED"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/auto-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nWe actually manage to overturn the robot revolution while they're distracted by this sort of thing.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/auto-2",
-          "publishedOn": "2021-07-24T15:31:38.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Auto"
         }
       ]
     },
@@ -1210,6 +1219,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3788",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 23rd, 2021next\nAugust 23rd, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3788",
+          "publishedOn": "2021-08-23T07:00:00.000Z",
+          "wordCount": 233,
+          "title": "the comic that only sexy people read"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3787",
           "author": null,

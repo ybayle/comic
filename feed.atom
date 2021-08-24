@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T00:10:49.274Z</updated>
+    <updated>2021-08-24T00:11:34.578Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Criteria]]></title>
+        <id>https://www.smbc-comics.com/comic/criteria</id>
+        <link href="https://www.smbc-comics.com/comic/criteria"/>
+        <updated>2021-08-23T16:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+She's gonna get a really bad score on 'ignoring the way I'm perpetually judging her'.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the comic that only sexy people read]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3788</id>
+        <link href="http://www.qwantz.com/index.php?comic=3788"/>
+        <updated>2021-08-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 23rd, 2021next
+August 23rd, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Projecting]]></title>
+        <id>https://xkcd.com/2506/</id>
+        <link href="https://xkcd.com/2506/"/>
+        <updated>2021-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/projecting.png" title="This is something we all need to work on, but especially you all." alt="This is something we all need to work on, but especially you all." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Bunny]]></title>
         <id>https://www.smbc-comics.com/comic/bunny</id>
@@ -1614,19 +1651,6 @@ July 26th, 2021: I AM AS GOOD AS MY WORD (vis-a-vis the comments underneath the 
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 95% of PCED calls will be eliminated as soon as we have self-driving trolleys.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Auto]]></title>
-        <id>https://www.smbc-comics.com/comic/auto-2</id>
-        <link href="https://www.smbc-comics.com/comic/auto-2"/>
-        <updated>2021-07-24T15:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-We actually manage to overturn the robot revolution while they're distracted by this sort of thing.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
