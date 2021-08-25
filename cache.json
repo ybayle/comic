@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-28T00:00:00.000Z",
           "wordCount": 187,
           "title": "Universal Seat Belt"
-        },
-        {
-          "id": "https://xkcd.com/2494/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/flawed_data.png\" title=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" alt=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" />",
-          "link": "https://xkcd.com/2494/",
-          "publishedOn": "2021-07-26T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Flawed Data"
         }
       ]
     },
@@ -170,6 +161,33 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/new-boardgame",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThanks, everyone. We hope you like it!\nToday's News:\n\nThanks geeks! Click here to check it out.",
+          "link": "https://www.smbc-comics.com/comic/new-boardgame",
+          "publishedOn": "2021-08-24T13:56:56.000Z",
+          "wordCount": 87,
+          "title": "Saturday Morning Breakfast Cereal - New Boardgame"
+        },
+        {
+          "id": "https://www.smbc-comics.com/comic/agi-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nGPT-3 kept telling me not to post this, so I made it mop my floor.\nToday's News:\n\nKickstarter launch in 6 minutes dorkwads! Please give it a look!",
+          "link": "https://www.smbc-comics.com/comic/agi-2",
+          "publishedOn": "2021-08-24T13:53:19.000Z",
+          "wordCount": 79,
+          "title": "Saturday Morning Breakfast Cereal - AGI"
+        },
+        {
+          "id": "https://www.smbc-comics.com/comic/slain",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nYou know, Randall Munroe may be smarter, Kate Beaton funnier, Allie Brosh more insightful, Ryan North just wayyyy more attractive, and Boulet basically me but taller, better at art, and French, BUT I have the very most Alexander Pope quotes.\nToday's News:\n\nKickstarter launching in 12 minutes! Stay tuned for bonus update...",
+          "link": "https://www.smbc-comics.com/comic/slain",
+          "publishedOn": "2021-08-24T13:46:32.000Z",
+          "wordCount": 71,
+          "title": "Saturday Morning Breakfast Cereal - Slain"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/criteria",
           "author": "tech@thehiveworks.com",
@@ -430,15 +448,6 @@
           "publishedOn": "2021-07-26T16:22:09.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Fable"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/pced",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\n95% of PCED calls will be eliminated as soon as we have self-driving trolleys.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/pced",
-          "publishedOn": "2021-07-25T14:27:17.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - PCED"
         }
       ]
     },
@@ -1326,15 +1335,6 @@
           "publishedOn": "2021-07-28T07:00:00.000Z",
           "wordCount": 188,
           "title": "t-rex and the spookums"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3776",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 26th, 2021next\nJuly 26th, 2021: I AM AS GOOD AS MY WORD (vis-a-vis the comments underneath the previous comic on this self-same website at least)\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3776",
-          "publishedOn": "2021-07-26T07:00:00.000Z",
-          "wordCount": 180,
-          "title": "reincarnation comics! they're back! in retrospect we should've seen this coming"
         }
       ]
     },
