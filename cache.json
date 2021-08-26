@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2507/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/usv_c.png\" title=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" alt=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" />",
+          "link": "https://xkcd.com/2507/",
+          "publishedOn": "2021-08-25T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "USV-C"
+        },
+        {
           "id": "https://xkcd.com/2506/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/projecting.png\" title=\"This is something we all need to work on, but especially you all.\" alt=\"This is something we all need to work on, but especially you all.\" />",
@@ -121,6 +130,15 @@
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
         {
+          "id": "https://www.monkeyuser.com/2021/meaning/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2021/meaning/",
+          "publishedOn": "2021-08-25T00:00:00.000Z",
+          "wordCount": 48,
+          "title": "Meaning"
+        },
+        {
           "id": "https://www.monkeyuser.com/2021/outcome-variables/",
           "author": null,
           "description": "Software development satire",
@@ -128,15 +146,6 @@
           "publishedOn": "2021-08-03T00:00:00.000Z",
           "wordCount": 51,
           "title": "Outcome variables"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/fill-in-the-gaps/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/fill-in-the-gaps/",
-          "publishedOn": "2021-07-27T00:00:00.000Z",
-          "wordCount": 50,
-          "title": "Fill in the gaps"
         }
       ]
     },
@@ -144,23 +153,22 @@
       "title": "PHD Comics",
       "feedUrl": "http://phdcomics.com/gradfeed.php",
       "siteUrl": "http://www.phdcomics.com",
-      "articles": [
-        {
-          "id": "http://www.phdcomics.com/comics.php?f=2043",
-          "author": null,
-          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"The best thesis\" - originally published \n8/20/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
-          "link": "http://www.phdcomics.com/comics.php?f=2043",
-          "publishedOn": "2021-07-26T22:36:57.000Z",
-          "wordCount": 353,
-          "title": "08/20/21 PHD comic: 'The best thesis'"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Saturday Morning Breakfast Cereal",
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/matrix",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThank you! Our kickstarter as funded 3.66 times over in its first 24 hours! Nerdy boardgame INCOMING\nToday's News:\n\nTHANKYOUUUUUUUU!",
+          "link": "https://www.smbc-comics.com/comic/matrix",
+          "publishedOn": "2021-08-25T16:37:04.000Z",
+          "wordCount": 86,
+          "title": "Saturday Morning Breakfast Cereal - Matrix"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/new-boardgame",
           "author": "tech@thehiveworks.com",
@@ -439,15 +447,6 @@
           "publishedOn": "2021-07-27T17:00:42.000Z",
           "wordCount": 64,
           "title": "Saturday Morning Breakfast Cereal - Math"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/fable",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe fact that tiny gas-masks would be really cute has actually sold me on bunker life.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/fable",
-          "publishedOn": "2021-07-26T16:22:09.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Fable"
         }
       ]
     },
@@ -1229,6 +1228,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3789",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 25th, 2021next\nAugust 25th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3789",
+          "publishedOn": "2021-08-25T07:00:00.000Z",
+          "wordCount": 241,
+          "title": "liking easy things is easy, liking hard things is hard.  thank u"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3788",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 23rd, 2021next\nAugust 23rd, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
@@ -1344,6 +1352,15 @@
       "siteUrl": "http://www.buttersafe.com",
       "articles": [
         {
+          "id": "https://www.buttersafe.com/2021/08/24/no-poopin-indoors/",
+          "author": "ray",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/ZU0AQqvXOmg/",
+          "publishedOn": "2021-08-24T07:01:00.000Z",
+          "wordCount": 64,
+          "title": "No Poopin’ Indoors"
+        },
+        {
           "id": "https://www.buttersafe.com/2021/08/19/time-traveling-to-save-my-butt-part-6/",
           "author": "alex",
           "description": "",
@@ -1387,15 +1404,6 @@
           "publishedOn": "2021-07-29T07:01:00.000Z",
           "wordCount": 74,
           "title": "Time Traveling to Save My Butt: Part 3"
-        },
-        {
-          "id": "https://www.buttersafe.com/?p=3477",
-          "author": "ray",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/M6pP7dM7ats/",
-          "publishedOn": "2021-07-27T07:01:00.000Z",
-          "wordCount": 63,
-          "title": "How Am I Driving?"
         }
       ]
     },

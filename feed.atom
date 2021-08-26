@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T00:10:46.475Z</updated>
+    <updated>2021-08-26T00:10:09.139Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Matrix]]></title>
+        <id>https://www.smbc-comics.com/comic/matrix</id>
+        <link href="https://www.smbc-comics.com/comic/matrix"/>
+        <updated>2021-08-25T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Thank you! Our kickstarter as funded 3.66 times over in its first 24 hours! Nerdy boardgame INCOMING
+Today's News:
+
+THANKYOUUUUUUUU!]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[liking easy things is easy, liking hard things is hard.  thank u]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3789</id>
+        <link href="http://www.qwantz.com/index.php?comic=3789"/>
+        <updated>2021-08-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 25th, 2021next
+August 25th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USV-C]]></title>
+        <id>https://xkcd.com/2507/</id>
+        <link href="https://xkcd.com/2507/"/>
+        <updated>2021-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/usv_c.png" title="Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time." alt="Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meaning]]></title>
+        <id>https://www.monkeyuser.com/2021/meaning/</id>
+        <link href="https://www.monkeyuser.com/2021/meaning/"/>
+        <updated>2021-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development satire]]></summary>
+        <author>
+            <name>MonkeyUser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - New Boardgame]]></title>
         <id>https://www.smbc-comics.com/comic/new-boardgame</id>
@@ -49,6 +98,15 @@ Today's News:
 Kickstarter launching in 12 minutes! Stay tuned for bonus update...]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Poopin’ Indoors]]></title>
+        <id>https://www.buttersafe.com/2021/08/24/no-poopin-indoors/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/ZU0AQqvXOmg/"/>
+        <updated>2021-08-24T07:01:00.000Z</updated>
+        <author>
+            <name>ray</name>
         </author>
     </entry>
     <entry>
@@ -1604,61 +1662,6 @@ July 28th, 2021: Can a title be TOO spooky?  What this Dinosaur Comic says is: I
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Have you noticed that people act like it's weird that the universe follows rules, but not that one apple and one apple equals two apples?
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Am I Driving?]]></title>
-        <id>https://www.buttersafe.com/?p=3477</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/M6pP7dM7ats/"/>
-        <updated>2021-07-27T07:01:00.000Z</updated>
-        <author>
-            <name>ray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fill in the gaps]]></title>
-        <id>https://www.monkeyuser.com/2021/fill-in-the-gaps/</id>
-        <link href="https://www.monkeyuser.com/2021/fill-in-the-gaps/"/>
-        <updated>2021-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software development satire]]></summary>
-        <author>
-            <name>MonkeyUser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[08/20/21 PHD comic: 'The best thesis']]></title>
-        <id>http://www.phdcomics.com/comics.php?f=2043</id>
-        <link href="http://www.phdcomics.com/comics.php?f=2043"/>
-        <updated>2021-07-26T22:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Piled Higher
-        & Deeper  by Jorge
-        Cham
-       
-      
-        
-www.phdcomics.com
-
-    
-title:
-          "The best thesis" - originally published 
-8/20/2021  
-        
-For the latest news in PHD Comics, CLICK HERE!]]></summary>
-        <author>
-            <name>PHD Comics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Fable]]></title>
-        <id>https://www.smbc-comics.com/comic/fable</id>
-        <link href="https://www.smbc-comics.com/comic/fable"/>
-        <updated>2021-07-26T16:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-The fact that tiny gas-masks would be really cute has actually sold me on bunker life.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
