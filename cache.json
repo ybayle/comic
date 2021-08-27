@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-30T00:00:00.000Z",
           "wordCount": 185,
           "title": "Mine Captcha"
-        },
-        {
-          "id": "https://xkcd.com/2495/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/universal_seat_belt.png\" title=\"The plug fits really snugly, so it should be safe in a crash.\" alt=\"The plug fits really snugly, so it should be safe in a crash.\" />",
-          "link": "https://xkcd.com/2495/",
-          "publishedOn": "2021-07-28T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Universal Seat Belt"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/math-3",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI've been told by programmers that physicists make the worst code because they want all the variables to be single letters instead of descriptions of what the variable means.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/math-3",
+          "publishedOn": "2021-08-26T13:10:28.000Z",
+          "wordCount": 90,
+          "title": "Saturday Morning Breakfast Cereal - Math"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/matrix",
           "author": "tech@thehiveworks.com",
@@ -438,15 +438,6 @@
           "publishedOn": "2021-07-28T15:48:00.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Inadquate"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/math-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nHave you noticed that people act like it's weird that the universe follows rules, but not that one apple and one apple equals two apples?\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/math-2",
-          "publishedOn": "2021-07-27T17:00:42.000Z",
-          "wordCount": 64,
-          "title": "Saturday Morning Breakfast Cereal - Math"
         }
       ]
     },
@@ -1334,15 +1325,6 @@
           "publishedOn": "2021-07-30T07:00:00.000Z",
           "wordCount": 202,
           "title": "in this comic, i recall the invention of memory"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3777",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 28th, 2021next\nJuly 28th, 2021: Can a title be TOO spooky?  What this Dinosaur Comic says is: I dunno, maybe!!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3777",
-          "publishedOn": "2021-07-28T07:00:00.000Z",
-          "wordCount": 188,
-          "title": "t-rex and the spookums"
         }
       ]
     },

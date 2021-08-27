@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T00:10:09.139Z</updated>
+    <updated>2021-08-27T00:11:42.632Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Math]]></title>
+        <id>https://www.smbc-comics.com/comic/math-3</id>
+        <link href="https://www.smbc-comics.com/comic/math-3"/>
+        <updated>2021-08-26T13:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+I've been told by programmers that physicists make the worst code because they want all the variables to be single letters instead of descriptions of what the variable means.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Matrix]]></title>
         <id>https://www.smbc-comics.com/comic/matrix</id>
@@ -1625,43 +1638,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Also I'm one millionth as good at basketball as Michael Jordan, but I've only spent one trillionth as much time practicing.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[t-rex and the spookums]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3777</id>
-        <link href="http://www.qwantz.com/index.php?comic=3777"/>
-        <updated>2021-07-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousJuly 28th, 2021next
-July 28th, 2021: Can a title be TOO spooky?  What this Dinosaur Comic says is: I dunno, maybe!!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Seat Belt]]></title>
-        <id>https://xkcd.com/2495/</id>
-        <link href="https://xkcd.com/2495/"/>
-        <updated>2021-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/universal_seat_belt.png" title="The plug fits really snugly, so it should be safe in a crash." alt="The plug fits really snugly, so it should be safe in a crash." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Math]]></title>
-        <id>https://www.smbc-comics.com/comic/math-2</id>
-        <link href="https://www.smbc-comics.com/comic/math-2"/>
-        <updated>2021-07-27T17:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Have you noticed that people act like it's weird that the universe follows rules, but not that one apple and one apple equals two apples?
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
