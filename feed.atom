@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T00:11:42.632Z</updated>
+    <updated>2021-08-28T00:11:51.593Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Double-Edged]]></title>
+        <id>https://www.smbc-comics.com/comic/double-edged</id>
+        <link href="https://www.smbc-comics.com/comic/double-edged"/>
+        <updated>2021-08-27T20:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Fortunately, nobody reads newspapers.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[08/27/21 PHD comic: 'Alexa']]></title>
+        <id>http://www.phdcomics.com/comics.php?f=2044</id>
+        <link href="http://www.phdcomics.com/comics.php?f=2044"/>
+        <updated>2021-08-27T17:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Piled Higher
+        & Deeper  by Jorge
+        Cham
+       
+      
+        
+www.phdcomics.com
+
+    
+title:
+          "Alexa" - originally published 
+8/27/2021  
+        
+For the latest news in PHD Comics, CLICK HERE!]]></summary>
+        <author>
+            <name>PHD Comics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i shall call it, "The Opera For Sensible Chuckles, Once You Recognize The Origin Of That Particular Leitmotif"]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3790</id>
+        <link href="http://www.qwantz.com/index.php?comic=3790"/>
+        <updated>2021-08-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 27th, 2021next
+August 27th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circumappendiceal Somectomy]]></title>
+        <id>https://xkcd.com/2508/</id>
+        <link href="https://xkcd.com/2508/"/>
+        <updated>2021-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png" title="Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time." alt="Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Math]]></title>
         <id>https://www.smbc-comics.com/comic/math-3</id>
@@ -1064,6 +1124,29 @@ Hey I was finally able to announce my new book this week!  It's called HOW TO TA
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[08/27/21 PHD comic: 'Alexa']]></title>
+        <id>http://www.phdcomics.com/comics.php?f=2044</id>
+        <link href="http://www.phdcomics.com/comics.php?f=2044"/>
+        <updated>2021-08-20T06:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Piled Higher
+        & Deeper  by Jorge
+        Cham
+       
+      
+        
+www.phdcomics.com
+
+    
+title:
+          "Alexa" - originally published 
+8/27/2021  
+        
+For the latest news in PHD Comics, CLICK HERE!]]></summary>
+        <author>
+            <name>PHD Comics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[News Story Reaction]]></title>
         <id>https://xkcd.com/2505/</id>
         <link href="https://xkcd.com/2505/"/>
@@ -1616,28 +1699,6 @@ July 30th, 2021: This isn't connected to anything, but yesterday I ate a whole p
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Space was invented because before space the universe was really cramped.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 3]]></title>
-        <id>https://www.buttersafe.com/2021/07/29/time-traveling-to-save-my-butt-part-3/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/qTat4MbhSHs/"/>
-        <updated>2021-07-29T07:01:00.000Z</updated>
-        <author>
-            <name>alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Inadquate]]></title>
-        <id>https://www.smbc-comics.com/comic/inadquate</id>
-        <link href="https://www.smbc-comics.com/comic/inadquate"/>
-        <updated>2021-07-28T15:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Also I'm one millionth as good at basketball as Michael Jordan, but I've only spent one trillionth as much time practicing.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2508/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png\" title=\"Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.\" alt=\"Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.\" />",
+          "link": "https://xkcd.com/2508/",
+          "publishedOn": "2021-08-27T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Circumappendiceal Somectomy"
+        },
+        {
           "id": "https://xkcd.com/2507/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/usv_c.png\" title=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" alt=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" />",
@@ -144,13 +153,41 @@
       "title": "PHD Comics",
       "feedUrl": "http://phdcomics.com/gradfeed.php",
       "siteUrl": "http://www.phdcomics.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.phdcomics.com/comics.php?f=2044",
+          "author": null,
+          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Alexa\" - originally published \n8/27/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
+          "link": "http://www.phdcomics.com/comics.php?f=2044",
+          "publishedOn": "2021-08-27T17:26:51.000Z",
+          "wordCount": 367,
+          "title": "08/27/21 PHD comic: 'Alexa'"
+        },
+        {
+          "id": "http://www.phdcomics.com/comics.php?f=2044",
+          "author": null,
+          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Alexa\" - originally published \n8/27/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
+          "link": "http://www.phdcomics.com/comics.php?f=2044",
+          "publishedOn": "2021-08-20T06:32:50.000Z",
+          "wordCount": 367,
+          "title": "08/27/21 PHD comic: 'Alexa'"
+        }
+      ]
     },
     {
       "title": "Saturday Morning Breakfast Cereal",
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/double-edged",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nFortunately, nobody reads newspapers.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/double-edged",
+          "publishedOn": "2021-08-27T20:42:05.000Z",
+          "wordCount": 77,
+          "title": "Saturday Morning Breakfast Cereal - Double-Edged"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/math-3",
           "author": "tech@thehiveworks.com",
@@ -429,15 +466,6 @@
           "publishedOn": "2021-07-29T15:24:01.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Time"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/inadquate",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nAlso I'm one millionth as good at basketball as Michael Jordan, but I've only spent one trillionth as much time practicing.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/inadquate",
-          "publishedOn": "2021-07-28T15:48:00.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Inadquate"
         }
       ]
     },
@@ -1219,6 +1247,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3790",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 27th, 2021next\nAugust 27th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3790",
+          "publishedOn": "2021-08-27T07:00:00.000Z",
+          "wordCount": 252,
+          "title": "i shall call it, \"The Opera For Sensible Chuckles, Once You Recognize The Origin Of That Particular Leitmotif\""
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3789",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 25th, 2021next\nAugust 25th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
@@ -1377,15 +1414,6 @@
           "publishedOn": "2021-08-05T07:01:00.000Z",
           "wordCount": 69,
           "title": "Time Traveling to Save My Butt: Part 4"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/07/29/time-traveling-to-save-my-butt-part-3/",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/qTat4MbhSHs/",
-          "publishedOn": "2021-07-29T07:01:00.000Z",
-          "wordCount": 74,
-          "title": "Time Traveling to Save My Butt: Part 3"
         }
       ]
     },
