@@ -112,15 +112,6 @@
           "publishedOn": "2021-08-02T00:00:00.000Z",
           "wordCount": 185,
           "title": "Logic Gates"
-        },
-        {
-          "id": "https://xkcd.com/2496/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/mine_captcha.png\" title=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" alt=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" />",
-          "link": "https://xkcd.com/2496/",
-          "publishedOn": "2021-07-30T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Mine Captcha"
         }
       ]
     },
@@ -179,6 +170,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/rationalist",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nAbsolutely locking up the rationalist-theory-of-war/comics crossover audience today.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/rationalist",
+          "publishedOn": "2021-08-28T15:43:44.000Z",
+          "wordCount": 69,
+          "title": "Saturday Morning Breakfast Cereal - Rationalist"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/double-edged",
           "author": "tech@thehiveworks.com",
@@ -457,15 +457,6 @@
           "publishedOn": "2021-07-30T15:48:06.000Z",
           "wordCount": 63,
           "title": "Saturday Morning Breakfast Cereal - Bat Problems"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/time-4",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nSpace was invented because before space the universe was really cramped.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/time-4",
-          "publishedOn": "2021-07-29T15:24:01.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Time"
         }
       ]
     },
@@ -1353,15 +1344,6 @@
           "publishedOn": "2021-08-02T07:00:00.000Z",
           "wordCount": 201,
           "title": "in an earlier draft I used the phrase \"human knowledge\"!  geez, ryan!  the lime green skin on your TYRANNOSAURUS REX named T-REX wasn't clue enough that they're not human, huh"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3778",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousJuly 30th, 2021next\nJuly 30th, 2021: This isn't connected to anything, but yesterday I ate a whole pizza by myself!  It keeps happening and I don't regret it!!  Well bye!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3778",
-          "publishedOn": "2021-07-30T07:00:00.000Z",
-          "wordCount": 202,
-          "title": "in this comic, i recall the invention of memory"
         }
       ]
     },
