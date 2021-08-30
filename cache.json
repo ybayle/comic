@@ -171,6 +171,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/emotion-4",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nIn the future, entirely new excretory orifices can be created to express wholly novel categorize of feeling.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/emotion-4",
+          "publishedOn": "2021-08-29T15:40:18.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Emotion"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/rationalist",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nAbsolutely locking up the rationalist-theory-of-war/comics crossover audience today.\nToday's News:",
@@ -439,24 +448,6 @@
           "publishedOn": "2021-08-01T16:16:51.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Robot"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/purity-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nIt's the only way to be sure.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/purity-2",
-          "publishedOn": "2021-07-30T15:49:12.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Purity"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/bat-problems",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nLater it turns out the Kratt Brothers were behind everything.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/bat-problems",
-          "publishedOn": "2021-07-30T15:48:06.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Bat Problems"
         }
       ]
     },

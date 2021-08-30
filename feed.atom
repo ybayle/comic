@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T00:11:26.358Z</updated>
+    <updated>2021-08-30T00:11:06.169Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Emotion]]></title>
+        <id>https://www.smbc-comics.com/comic/emotion-4</id>
+        <link href="https://www.smbc-comics.com/comic/emotion-4"/>
+        <updated>2021-08-29T15:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+In the future, entirely new excretory orifices can be created to express wholly novel categorize of feeling.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Rationalist]]></title>
         <id>https://www.smbc-comics.com/comic/rationalist</id>
@@ -1649,32 +1662,6 @@ August 2nd, 2021: It IS a distinct feeling though, you know?
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Please show yourself out of the building, using this efficient navigation system.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Purity]]></title>
-        <id>https://www.smbc-comics.com/comic/purity-2</id>
-        <link href="https://www.smbc-comics.com/comic/purity-2"/>
-        <updated>2021-07-30T15:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-It's the only way to be sure.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Bat Problems]]></title>
-        <id>https://www.smbc-comics.com/comic/bat-problems</id>
-        <link href="https://www.smbc-comics.com/comic/bat-problems"/>
-        <updated>2021-07-30T15:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Later it turns out the Kratt Brothers were behind everything.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
