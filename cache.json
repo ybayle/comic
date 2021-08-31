@@ -171,6 +171,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/hot-sets",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nAnyway, back to my time machine to bring up dongs with Archimedes.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/hot-sets",
+          "publishedOn": "2021-08-30T17:52:10.000Z",
+          "wordCount": 61,
+          "title": "Saturday Morning Breakfast Cereal - Hot Sets"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/emotion-4",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nIn the future, entirely new excretory orifices can be created to express wholly novel categorize of feeling.\nToday's News:",
@@ -1228,6 +1237,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3791",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 30th, 2021next\nAugust 30th, 2021: Language Log wrote about yesterday's comic in this post and this followup!  In it they request your \"I don't know\" hums and I sent in my own.  This is your chance to contribute your \"I don't know\" hum!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3791",
+          "publishedOn": "2021-08-30T07:00:00.000Z",
+          "wordCount": 217,
+          "title": "when words can't contain the emotions i'm trying to express... that's when i hum"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3790",
           "author": null,

@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T00:11:06.169Z</updated>
+    <updated>2021-08-31T00:10:53.544Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Hot Sets]]></title>
+        <id>https://www.smbc-comics.com/comic/hot-sets</id>
+        <link href="https://www.smbc-comics.com/comic/hot-sets"/>
+        <updated>2021-08-30T17:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Anyway, back to my time machine to bring up dongs with Archimedes.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[when words can't contain the emotions i'm trying to express... that's when i hum]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3791</id>
+        <link href="http://www.qwantz.com/index.php?comic=3791"/>
+        <updated>2021-08-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousAugust 30th, 2021next
+August 30th, 2021: Language Log wrote about yesterday's comic in this post and this followup!  In it they request your "I don't know" hums and I sent in my own.  This is your chance to contribute your "I don't know" hum!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Emotion]]></title>
         <id>https://www.smbc-comics.com/comic/emotion-4</id>
