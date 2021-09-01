@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2509/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/useful_geometry_formulas.png\" title=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" alt=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" />",
+          "link": "https://xkcd.com/2509/",
+          "publishedOn": "2021-08-30T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Useful Geometry Formulas"
+        },
+        {
           "id": "https://xkcd.com/2508/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png\" title=\"Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.\" alt=\"Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-08-04T00:00:00.000Z",
           "wordCount": 185,
           "title": "Forest Walk"
-        },
-        {
-          "id": "https://xkcd.com/2497/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/logic_gates.png\" title=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" alt=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" />",
-          "link": "https://xkcd.com/2497/",
-          "publishedOn": "2021-08-02T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Logic Gates"
         }
       ]
     },
@@ -170,6 +170,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/volcano",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nThere's always a catch.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/volcano",
+          "publishedOn": "2021-08-31T17:37:50.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Volcano"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/hot-sets",
           "author": "tech@thehiveworks.com",
@@ -448,15 +457,6 @@
           "publishedOn": "2021-08-02T15:30:47.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Arts"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/robot-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nPlease show yourself out of the building, using this efficient navigation system.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/robot-2",
-          "publishedOn": "2021-08-01T16:16:51.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Robot"
         }
       ]
     },
@@ -1344,15 +1344,6 @@
           "publishedOn": "2021-08-04T07:00:00.000Z",
           "wordCount": 184,
           "title": "in panel 2, \"metaphorically\" would've fit but just with one question mark, and such is my commitment to two question marks that i split the word into two"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3779",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 2nd, 2021next\nAugust 2nd, 2021: It IS a distinct feeling though, you know?\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3779",
-          "publishedOn": "2021-08-02T07:00:00.000Z",
-          "wordCount": 201,
-          "title": "in an earlier draft I used the phrase \"human knowledge\"!  geez, ryan!  the lime green skin on your TYRANNOSAURUS REX named T-REX wasn't clue enough that they're not human, huh"
         }
       ]
     },

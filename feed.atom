@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-31T00:10:53.544Z</updated>
+    <updated>2021-09-01T00:11:07.881Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Volcano]]></title>
+        <id>https://www.smbc-comics.com/comic/volcano</id>
+        <link href="https://www.smbc-comics.com/comic/volcano"/>
+        <updated>2021-08-31T17:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+There's always a catch.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Hot Sets]]></title>
         <id>https://www.smbc-comics.com/comic/hot-sets</id>
@@ -31,6 +44,16 @@ August 30th, 2021: Language Log wrote about yesterday's comic in this post and t
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Geometry Formulas]]></title>
+        <id>https://xkcd.com/2509/</id>
+        <link href="https://xkcd.com/2509/"/>
+        <updated>2021-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/useful_geometry_formulas.png" title="Geometry textbooks always try to trick you by adding decorative stripes and dotted lines." alt="Geometry textbooks always try to trick you by adding decorative stripes and dotted lines." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1652,43 +1675,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 If you wanted honest recognition of achievement between courteous peers, you should've been a goddamned jock.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[in an earlier draft I used the phrase "human knowledge"!  geez, ryan!  the lime green skin on your TYRANNOSAURUS REX named T-REX wasn't clue enough that they're not human, huh]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3779</id>
-        <link href="http://www.qwantz.com/index.php?comic=3779"/>
-        <updated>2021-08-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 2nd, 2021next
-August 2nd, 2021: It IS a distinct feeling though, you know?
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic Gates]]></title>
-        <id>https://xkcd.com/2497/</id>
-        <link href="https://xkcd.com/2497/"/>
-        <updated>2021-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/logic_gates.png" title="In C, the multiocular O represents the bitwise norxondor gorgonax." alt="In C, the multiocular O represents the bitwise norxondor gorgonax." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Robot]]></title>
-        <id>https://www.smbc-comics.com/comic/robot-2</id>
-        <link href="https://www.smbc-comics.com/comic/robot-2"/>
-        <updated>2021-08-01T16:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Please show yourself out of the building, using this efficient navigation system.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
