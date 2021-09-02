@@ -128,15 +128,6 @@
           "publishedOn": "2021-08-25T00:00:00.000Z",
           "wordCount": 48,
           "title": "Meaning"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/outcome-variables/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/outcome-variables/",
-          "publishedOn": "2021-08-03T00:00:00.000Z",
-          "wordCount": 51,
-          "title": "Outcome variables"
         }
       ]
     },
@@ -170,6 +161,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/true-name",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nMy real name is Dongcrafter.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/true-name",
+          "publishedOn": "2021-09-01T16:52:41.000Z",
+          "wordCount": 61,
+          "title": "Saturday Morning Breakfast Cereal - True Name"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/volcano",
           "author": "tech@thehiveworks.com",
@@ -448,15 +448,6 @@
           "publishedOn": "2021-08-03T15:31:38.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Future"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/arts",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you wanted honest recognition of achievement between courteous peers, you should've been a goddamned jock.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/arts",
-          "publishedOn": "2021-08-02T15:30:47.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Arts"
         }
       ]
     },
@@ -1237,6 +1228,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3792",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 1st, 2021next\nSeptember 1st, 2021: Language Log wrote about the previous two comics in this post and this followup and THIS new followup!  Linguistics: always awesome.\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3792",
+          "publishedOn": "2021-09-01T07:00:00.000Z",
+          "wordCount": 189,
+          "title": "this comic is unRTKOable"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3791",
           "author": null,

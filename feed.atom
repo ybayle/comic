@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-01T00:11:07.881Z</updated>
+    <updated>2021-09-02T00:10:45.033Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - True Name]]></title>
+        <id>https://www.smbc-comics.com/comic/true-name</id>
+        <link href="https://www.smbc-comics.com/comic/true-name"/>
+        <updated>2021-09-01T16:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+My real name is Dongcrafter.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[this comic is unRTKOable]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3792</id>
+        <link href="http://www.qwantz.com/index.php?comic=3792"/>
+        <updated>2021-09-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousSeptember 1st, 2021next
+September 1st, 2021: Language Log wrote about the previous two comics in this post and this followup and THIS new followup!  Linguistics: always awesome.
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Volcano]]></title>
         <id>https://www.smbc-comics.com/comic/volcano</id>
@@ -1652,29 +1679,6 @@ August 4th, 2021: I've never died yet so I don't know if the above information i
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 This is why there are no time machines.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outcome variables]]></title>
-        <id>https://www.monkeyuser.com/2021/outcome-variables/</id>
-        <link href="https://www.monkeyuser.com/2021/outcome-variables/"/>
-        <updated>2021-08-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software development satire]]></summary>
-        <author>
-            <name>MonkeyUser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Arts]]></title>
-        <id>https://www.smbc-comics.com/comic/arts</id>
-        <link href="https://www.smbc-comics.com/comic/arts"/>
-        <updated>2021-08-02T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-If you wanted honest recognition of achievement between courteous peers, you should've been a goddamned jock.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
