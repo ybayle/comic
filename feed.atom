@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T00:10:45.033Z</updated>
+    <updated>2021-09-03T00:10:16.349Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Plutoid]]></title>
+        <id>https://www.smbc-comics.com/comic/plutoid</id>
+        <link href="https://www.smbc-comics.com/comic/plutoid"/>
+        <updated>2021-09-02T17:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Finally, some topical humor.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - True Name]]></title>
         <id>https://www.smbc-comics.com/comic/true-name</id>
@@ -34,6 +47,16 @@ September 1st, 2021: Language Log wrote about the previous two comics in this po
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Modern Tools]]></title>
+        <id>https://xkcd.com/2510/</id>
+        <link href="https://xkcd.com/2510/"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/modern_tools.png" title="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." alt="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Volcano]]></title>
         <id>https://www.smbc-comics.com/comic/volcano</id>
         <link href="https://www.smbc-comics.com/comic/volcano"/>
@@ -44,6 +67,15 @@ There's always a catch.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Invention]]></title>
+        <id>https://www.buttersafe.com/2021/08/31/dream-invention/</id>
+        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/H4VAXQ4YO70/"/>
+        <updated>2021-08-31T07:01:00.000Z</updated>
+        <author>
+            <name>ray</name>
         </author>
     </entry>
     <entry>
@@ -1642,43 +1674,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[in panel 2, "metaphorically" would've fit but just with one question mark, and such is my commitment to two question marks that i split the word into two]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3780</id>
-        <link href="http://www.qwantz.com/index.php?comic=3780"/>
-        <updated>2021-08-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 4th, 2021next
-August 4th, 2021: I've never died yet so I don't know if the above information is accurate, sorry!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forest Walk]]></title>
-        <id>https://xkcd.com/2498/</id>
-        <link href="https://xkcd.com/2498/"/>
-        <updated>2021-08-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/forest_walk.png" title="The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off." alt="The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Future]]></title>
-        <id>https://www.smbc-comics.com/comic/future-2</id>
-        <link href="https://www.smbc-comics.com/comic/future-2"/>
-        <updated>2021-08-03T15:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-This is why there are no time machines.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

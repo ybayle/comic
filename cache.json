@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2510/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/modern_tools.png\" title=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" alt=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" />",
+          "link": "https://xkcd.com/2510/",
+          "publishedOn": "2021-09-01T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Modern Tools"
+        },
+        {
           "id": "https://xkcd.com/2509/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/useful_geometry_formulas.png\" title=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" alt=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-08-06T00:00:00.000Z",
           "wordCount": 185,
           "title": "Abandonment Function"
-        },
-        {
-          "id": "https://xkcd.com/2498/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/forest_walk.png\" title=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" alt=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" />",
-          "link": "https://xkcd.com/2498/",
-          "publishedOn": "2021-08-04T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Forest Walk"
         }
       ]
     },
@@ -161,6 +161,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/plutoid",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nFinally, some topical humor.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/plutoid",
+          "publishedOn": "2021-09-02T17:48:06.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Plutoid"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/true-name",
           "author": "tech@thehiveworks.com",
@@ -439,15 +448,6 @@
           "publishedOn": "2021-08-04T14:38:07.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Sandwich"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/future-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThis is why there are no time machines.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/future-2",
-          "publishedOn": "2021-08-03T15:31:38.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Future"
         }
       ]
     },
@@ -1335,15 +1335,6 @@
           "publishedOn": "2021-08-06T07:00:00.000Z",
           "wordCount": 193,
           "title": "i trained for years to write this comic.  actually wait i guess that's maybe technically true??  huh.  life's funny sometimes"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3780",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 4th, 2021next\nAugust 4th, 2021: I've never died yet so I don't know if the above information is accurate, sorry!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3780",
-          "publishedOn": "2021-08-04T07:00:00.000Z",
-          "wordCount": 184,
-          "title": "in panel 2, \"metaphorically\" would've fit but just with one question mark, and such is my commitment to two question marks that i split the word into two"
         }
       ]
     },
@@ -1352,6 +1343,15 @@
       "feedUrl": "https://www.buttersafe.com/feed/",
       "siteUrl": "http://www.buttersafe.com",
       "articles": [
+        {
+          "id": "https://www.buttersafe.com/2021/08/31/dream-invention/",
+          "author": "ray",
+          "description": "",
+          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/H4VAXQ4YO70/",
+          "publishedOn": "2021-08-31T07:01:00.000Z",
+          "wordCount": 68,
+          "title": "Dream Invention"
+        },
         {
           "id": "https://www.buttersafe.com/2021/08/24/no-poopin-indoors/",
           "author": "ray",
