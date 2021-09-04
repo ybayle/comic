@@ -162,6 +162,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/software",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nAll examples from the book Noise, by Kahneman, Sibony, and Sunstein, which I'm enjoying right now.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/software",
+          "publishedOn": "2021-09-03T14:40:36.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Software"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/plutoid",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nFinally, some topical humor.\nToday's News:",
@@ -439,15 +448,6 @@
           "publishedOn": "2021-08-05T15:52:39.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Chess"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/sandwich",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\n\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/sandwich",
-          "publishedOn": "2021-08-04T14:38:07.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Sandwich"
         }
       ]
     },
@@ -1229,6 +1229,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3793",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 3rd, 2021next\nSeptember 3rd, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3793",
+          "publishedOn": "2021-09-03T07:00:00.000Z",
+          "wordCount": 238,
+          "title": "listen: living in a hostile universe where TOUCHING THINGS is deadly will do that to you"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3792",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 1st, 2021next\nSeptember 1st, 2021: Language Log wrote about the previous two comics in this post and this followup and THIS new followup!  Linguistics: always awesome.\n– Ryan",
@@ -1387,15 +1396,6 @@
           "publishedOn": "2021-08-12T07:01:00.000Z",
           "wordCount": 74,
           "title": "Time Traveling to Save My Butt: Part 5"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/08/05/time-traveling-to-save-my-butt-part-4/",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/RnaHWL_M5Tw/",
-          "publishedOn": "2021-08-05T07:01:00.000Z",
-          "wordCount": 69,
-          "title": "Time Traveling to Save My Butt: Part 4"
         }
       ]
     },
