@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T00:10:11.872Z</updated>
+    <updated>2021-09-05T00:11:30.948Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Sometimes]]></title>
+        <id>https://www.smbc-comics.com/comic/sometimes</id>
+        <link href="https://www.smbc-comics.com/comic/sometimes"/>
+        <updated>2021-09-04T16:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+You know what, I'm going to go make cookies.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09/03/21 PHD comic: 'Lab coat']]></title>
+        <id>http://www.phdcomics.com/comics.php?f=2045</id>
+        <link href="http://www.phdcomics.com/comics.php?f=2045"/>
+        <updated>2021-09-04T08:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Piled Higher
+        & Deeper  by Jorge
+        Cham
+       
+      
+        
+www.phdcomics.com
+
+    
+title:
+          "Lab coat" - originally published 
+9/3/2021  
+        
+For the latest news in PHD Comics, CLICK HERE!]]></summary>
+        <author>
+            <name>PHD Comics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Software]]></title>
         <id>https://www.smbc-comics.com/comic/software</id>
@@ -31,6 +67,16 @@ September 3rd, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD 
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreate the Conditions]]></title>
+        <id>https://xkcd.com/2511/</id>
+        <link href="https://xkcd.com/2511/"/>
+        <updated>2021-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/recreate_the_conditions.png" title="We've almost finished constructing the piña collider." alt="We've almost finished constructing the piña collider." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1642,43 +1688,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 For the record, missiles and blimps don't really work from a physics standpoint, but don't let that stop you being true to your bloodlust.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i trained for years to write this comic.  actually wait i guess that's maybe technically true??  huh.  life's funny sometimes]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3781</id>
-        <link href="http://www.qwantz.com/index.php?comic=3781"/>
-        <updated>2021-08-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 6th, 2021next
-August 6th, 2021: Of all the temperatures of takes, "hot" is certainly one of them.
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abandonment Function]]></title>
-        <id>https://xkcd.com/2499/</id>
-        <link href="https://xkcd.com/2499/"/>
-        <updated>2021-08-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/abandonment_function.png" title="Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act." alt="Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Chess]]></title>
-        <id>https://www.smbc-comics.com/comic/chess</id>
-        <link href="https://www.smbc-comics.com/comic/chess"/>
-        <updated>2021-08-05T15:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-I think I can prove that all SMBC comics are good on a similar basis.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

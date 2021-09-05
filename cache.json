@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2511/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/recreate_the_conditions.png\" title=\"We've almost finished constructing the piña collider.\" alt=\"We've almost finished constructing the piña collider.\" />",
+          "link": "https://xkcd.com/2511/",
+          "publishedOn": "2021-09-03T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Recreate the Conditions"
+        },
+        {
           "id": "https://xkcd.com/2510/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/modern_tools.png\" title=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" alt=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-08-09T00:00:00.000Z",
           "wordCount": 191,
           "title": "Global Temperature Over My Lifetime"
-        },
-        {
-          "id": "https://xkcd.com/2499/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/abandonment_function.png\" title=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" alt=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" />",
-          "link": "https://xkcd.com/2499/",
-          "publishedOn": "2021-08-06T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Abandonment Function"
         }
       ]
     },
@@ -137,6 +137,15 @@
       "siteUrl": "http://www.phdcomics.com",
       "articles": [
         {
+          "id": "http://www.phdcomics.com/comics.php?f=2045",
+          "author": null,
+          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Lab coat\" - originally published \n9/3/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
+          "link": "http://www.phdcomics.com/comics.php?f=2045",
+          "publishedOn": "2021-09-04T08:29:51.000Z",
+          "wordCount": 352,
+          "title": "09/03/21 PHD comic: 'Lab coat'"
+        },
+        {
           "id": "http://www.phdcomics.com/comics.php?f=2044",
           "author": null,
           "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Alexa\" - originally published \n8/27/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
@@ -161,6 +170,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/sometimes",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nYou know what, I'm going to go make cookies.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/sometimes",
+          "publishedOn": "2021-09-04T16:27:31.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Sometimes"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/software",
           "author": "tech@thehiveworks.com",
@@ -439,15 +457,6 @@
           "publishedOn": "2021-08-06T15:38:16.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Revenge"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/chess",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI think I can prove that all SMBC comics are good on a similar basis.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/chess",
-          "publishedOn": "2021-08-05T15:52:39.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Chess"
         }
       ]
     },
@@ -1335,15 +1344,6 @@
           "publishedOn": "2021-08-09T07:00:00.000Z",
           "wordCount": 180,
           "title": "they're actually using human lifespans, not dinosaur lifespans, for their calculations. my gift to you"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3781",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 6th, 2021next\nAugust 6th, 2021: Of all the temperatures of takes, \"hot\" is certainly one of them.\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3781",
-          "publishedOn": "2021-08-06T07:00:00.000Z",
-          "wordCount": 193,
-          "title": "i trained for years to write this comic.  actually wait i guess that's maybe technically true??  huh.  life's funny sometimes"
         }
       ]
     },
