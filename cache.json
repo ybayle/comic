@@ -171,6 +171,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/villain",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI don't see the Dursleys owning any elves is all I'm saying.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/villain",
+          "publishedOn": "2021-09-05T15:25:28.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Villain"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/sometimes",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nYou know what, I'm going to go make cookies.\nToday's News:",
@@ -448,15 +457,6 @@
           "publishedOn": "2021-08-07T14:29:52.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Counting"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nFor the record, missiles and blimps don't really work from a physics standpoint, but don't let that stop you being true to your bloodlust.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust",
-          "publishedOn": "2021-08-06T15:38:16.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Revenge"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T00:11:30.948Z</updated>
+    <updated>2021-09-06T01:13:19.404Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Villain]]></title>
+        <id>https://www.smbc-comics.com/comic/villain</id>
+        <link href="https://www.smbc-comics.com/comic/villain"/>
+        <updated>2021-09-05T15:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+I don't see the Dursleys owning any elves is all I'm saying.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Sometimes]]></title>
         <id>https://www.smbc-comics.com/comic/sometimes</id>
@@ -1675,19 +1688,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 I wonder if actual farmers also play farming games.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Revenge]]></title>
-        <id>https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust</id>
-        <link href="https://www.smbc-comics.com/comic/for-the-record-missiles-and-blimps-dont-really-work-from-a-physics-standpoint-but-dont-let-that-stop-you-being-true-to-your-bloodlust"/>
-        <updated>2021-08-06T15:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-For the record, missiles and blimps don't really work from a physics standpoint, but don't let that stop you being true to your bloodlust.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
