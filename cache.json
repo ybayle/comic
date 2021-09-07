@@ -171,6 +171,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/quilt",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nNo, next you get one of the other forty.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/quilt",
+          "publishedOn": "2021-09-06T16:54:00.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Quilt"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/villain",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nI don't see the Dursleys owning any elves is all I'm saying.\nToday's News:",
@@ -448,15 +457,6 @@
           "publishedOn": "2021-08-08T16:52:41.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Charitable"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/counting",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nI wonder if actual farmers also play farming games.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/counting",
-          "publishedOn": "2021-08-07T14:29:52.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Counting"
         }
       ]
     },
@@ -1237,6 +1237,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3794",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 6th, 2021next\nSeptember 6th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3794",
+          "publishedOn": "2021-09-06T07:00:00.000Z",
+          "wordCount": 240,
+          "title": "public speaking laffs!!"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3793",
           "author": null,
