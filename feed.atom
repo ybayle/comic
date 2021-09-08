@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-07T01:04:45.570Z</updated>
+    <updated>2021-09-08T01:05:25.681Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Parts]]></title>
+        <id>https://www.smbc-comics.com/comic/parts</id>
+        <link href="https://www.smbc-comics.com/comic/parts"/>
+        <updated>2021-09-07T20:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Can we just cancel sex? Is it too late? The whole thing just got creepy.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reusable Components]]></title>
+        <id>https://www.monkeyuser.com/2021/reusable-components/</id>
+        <link href="https://www.monkeyuser.com/2021/reusable-components/"/>
+        <updated>2021-09-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development satire]]></summary>
+        <author>
+            <name>MonkeyUser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Quilt]]></title>
         <id>https://www.smbc-comics.com/comic/quilt</id>
@@ -31,6 +54,16 @@ September 6th, 2021: I WROTE A NEW BOOK! It's called HOW TO TAKE OVER THE WORLD 
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revelation]]></title>
+        <id>https://xkcd.com/2512/</id>
+        <link href="https://xkcd.com/2512/"/>
+        <updated>2021-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/revelation.png" title="And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite." alt="And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1665,43 +1698,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 The women are shaking like that because in the 21st century disease wasn't cured yet.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[they're actually using human lifespans, not dinosaur lifespans, for their calculations. my gift to you]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3782</id>
-        <link href="http://www.qwantz.com/index.php?comic=3782"/>
-        <updated>2021-08-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 9th, 2021next
-August 9th, 2021: That percentage is climbing too!  It's only getting MORE CORRECT
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Temperature Over My Lifetime]]></title>
-        <id>https://xkcd.com/2500/</id>
-        <link href="https://xkcd.com/2500/"/>
-        <updated>2021-08-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png" title="I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course." alt="I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Charitable]]></title>
-        <id>https://www.smbc-comics.com/comic/charitable</id>
-        <link href="https://www.smbc-comics.com/comic/charitable"/>
-        <updated>2021-08-08T16:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-The good news is we've all been training since, what, myspace?
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

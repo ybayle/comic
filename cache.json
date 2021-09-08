@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2512/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/revelation.png\" title=\"And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.\" alt=\"And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.\" />",
+          "link": "https://xkcd.com/2512/",
+          "publishedOn": "2021-09-06T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Revelation"
+        },
+        {
           "id": "https://xkcd.com/2511/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/recreate_the_conditions.png\" title=\"We've almost finished constructing the piña collider.\" alt=\"We've almost finished constructing the piña collider.\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-08-11T00:00:00.000Z",
           "wordCount": 185,
           "title": "Average Familiarity"
-        },
-        {
-          "id": "https://xkcd.com/2500/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png\" title=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" alt=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" />",
-          "link": "https://xkcd.com/2500/",
-          "publishedOn": "2021-08-09T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Global Temperature Over My Lifetime"
         }
       ]
     },
@@ -120,6 +120,15 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2021/reusable-components/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2021/reusable-components/",
+          "publishedOn": "2021-09-07T00:00:00.000Z",
+          "wordCount": 49,
+          "title": "Reusable Components"
+        },
         {
           "id": "https://www.monkeyuser.com/2021/meaning/",
           "author": null,
@@ -170,6 +179,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/parts",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nCan we just cancel sex? Is it too late? The whole thing just got creepy.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/parts",
+          "publishedOn": "2021-09-07T20:12:19.000Z",
+          "wordCount": 64,
+          "title": "Saturday Morning Breakfast Cereal - Parts"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/quilt",
           "author": "tech@thehiveworks.com",
@@ -448,15 +466,6 @@
           "publishedOn": "2021-08-09T16:18:29.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Twenty"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/charitable",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe good news is we've all been training since, what, myspace?\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/charitable",
-          "publishedOn": "2021-08-08T16:52:41.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Charitable"
         }
       ]
     },
@@ -1344,15 +1353,6 @@
           "publishedOn": "2021-08-11T07:00:00.000Z",
           "wordCount": 205,
           "title": "Inside My Body comix"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3782",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 9th, 2021next\nAugust 9th, 2021: That percentage is climbing too!  It's only getting MORE CORRECT\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3782",
-          "publishedOn": "2021-08-09T07:00:00.000Z",
-          "wordCount": 180,
-          "title": "they're actually using human lifespans, not dinosaur lifespans, for their calculations. my gift to you"
         }
       ]
     },
