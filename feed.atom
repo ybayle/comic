@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-08T01:05:25.681Z</updated>
+    <updated>2021-09-09T01:10:36.031Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Complex]]></title>
+        <id>https://www.smbc-comics.com/comic/complex-2</id>
+        <link href="https://www.smbc-comics.com/comic/complex-2"/>
+        <updated>2021-09-08T16:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Diagrams will be included in the conference proceedings volume.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[robyn is back, baby!  she never left, but her adventures between then and now just haven't been of note, she's been doing super normal stuff quietly and efficiently!!]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3795</id>
+        <link href="http://www.qwantz.com/index.php?comic=3795"/>
+        <updated>2021-09-08T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousSeptember 8th, 2021next
+September 8th, 2021: COMING OUT on FRIDAY (two days!) is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturn Hexagon]]></title>
+        <id>https://xkcd.com/2513/</id>
+        <link href="https://xkcd.com/2513/"/>
+        <updated>2021-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/saturn_hexagon.png" title="Sorry, in SI units that's &quot;there's a big football in there.&quot;" alt="Sorry, in SI units that's &quot;there's a big football in there.&quot;" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Parts]]></title>
         <id>https://www.smbc-comics.com/comic/parts</id>
@@ -1685,19 +1722,6 @@ August 11th, 2021: This comic is inspired by a real body!!  MY FABULOUS ONE (als
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Only the orangest of the cheez powders for my children.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Twenty]]></title>
-        <id>https://www.smbc-comics.com/comic/twenty</id>
-        <link href="https://www.smbc-comics.com/comic/twenty"/>
-        <updated>2021-08-09T16:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-The women are shaking like that because in the 21st century disease wasn't cured yet.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
