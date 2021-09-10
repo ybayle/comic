@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-09T01:10:36.031Z</updated>
+    <updated>2021-09-10T01:12:16.570Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Whisk]]></title>
+        <id>https://www.smbc-comics.com/comic/whisk</id>
+        <link href="https://www.smbc-comics.com/comic/whisk"/>
+        <updated>2021-09-09T20:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Any time you have two consonants in a row, if you flip them, you're now speaking Odl Enlgihs.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Complex]]></title>
         <id>https://www.smbc-comics.com/comic/complex-2</id>
@@ -1685,43 +1698,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Non-alcoholic vodka, on the other hand, is a genuine mystery.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside My Body comix]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3783</id>
-        <link href="http://www.qwantz.com/index.php?comic=3783"/>
-        <updated>2021-08-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 11th, 2021next
-August 11th, 2021: This comic is inspired by a real body!!  MY FABULOUS ONE (also yours)
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Average Familiarity]]></title>
-        <id>https://xkcd.com/2501/</id>
-        <link href="https://xkcd.com/2501/"/>
-        <updated>2021-08-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/average_familiarity.png" title="How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!" alt="How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Number One Dad]]></title>
-        <id>https://www.smbc-comics.com/comic/number-one-dad</id>
-        <link href="https://www.smbc-comics.com/comic/number-one-dad"/>
-        <updated>2021-08-10T14:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Only the orangest of the cheez powders for my children.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
