@@ -146,6 +146,15 @@
       "siteUrl": "http://www.phdcomics.com",
       "articles": [
         {
+          "id": "http://www.phdcomics.com/comics.php?f=2046",
+          "author": null,
+          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Insult to injury\" - originally published \n9/10/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
+          "link": "http://www.phdcomics.com/comics.php?f=2046",
+          "publishedOn": "2021-09-10T21:28:23.000Z",
+          "wordCount": 371,
+          "title": "09/10/21 PHD comic: 'Insult to injury'"
+        },
+        {
           "id": "http://www.phdcomics.com/comics.php?f=2045",
           "author": null,
           "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Lab coat\" - originally published \n9/3/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
@@ -179,6 +188,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/the-son",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nPour me a Mint (king of the Jews)lep.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/the-son",
+          "publishedOn": "2021-09-10T16:03:51.000Z",
+          "wordCount": 63,
+          "title": "Saturday Morning Breakfast Cereal - The Son"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/whisk",
           "author": "tech@thehiveworks.com",
@@ -457,15 +475,6 @@
           "publishedOn": "2021-08-12T14:02:42.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Princess"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/decaf",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nNon-alcoholic vodka, on the other hand, is a genuine mystery.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/decaf",
-          "publishedOn": "2021-08-11T14:41:49.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Decaf"
         }
       ]
     },
@@ -1247,6 +1256,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3796",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 9th, 2021next\nSeptember 9th, 2021: OUT TODAY is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3796",
+          "publishedOn": "2021-09-09T07:00:00.000Z",
+          "wordCount": 200,
+          "title": "i am the (zombie in the) night"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3795",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 8th, 2021next\nSeptember 8th, 2021: COMING OUT on FRIDAY (two days!) is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!\n– Ryan",
@@ -1396,15 +1414,6 @@
           "publishedOn": "2021-08-17T07:01:00.000Z",
           "wordCount": 82,
           "title": "My Own Boogeyman"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/08/12/time-traveling-to-save-my-butt-part-5/",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/Go71rtzObIU/",
-          "publishedOn": "2021-08-12T07:01:00.000Z",
-          "wordCount": 74,
-          "title": "Time Traveling to Save My Butt: Part 5"
         }
       ]
     },

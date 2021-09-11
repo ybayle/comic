@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-10T01:12:16.570Z</updated>
+    <updated>2021-09-11T01:06:17.075Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[09/10/21 PHD comic: 'Insult to injury']]></title>
+        <id>http://www.phdcomics.com/comics.php?f=2046</id>
+        <link href="http://www.phdcomics.com/comics.php?f=2046"/>
+        <updated>2021-09-10T21:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Piled Higher
+        & Deeper  by Jorge
+        Cham
+       
+      
+        
+www.phdcomics.com
+
+    
+title:
+          "Insult to injury" - originally published 
+9/10/2021  
+        
+For the latest news in PHD Comics, CLICK HERE!]]></summary>
+        <author>
+            <name>PHD Comics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - The Son]]></title>
+        <id>https://www.smbc-comics.com/comic/the-son</id>
+        <link href="https://www.smbc-comics.com/comic/the-son"/>
+        <updated>2021-09-10T16:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Pour me a Mint (king of the Jews)lep.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Whisk]]></title>
         <id>https://www.smbc-comics.com/comic/whisk</id>
@@ -17,6 +53,20 @@ Any time you have two consonants in a row, if you flip them, you're now speaking
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i am the (zombie in the) night]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3796</id>
+        <link href="http://www.qwantz.com/index.php?comic=3796"/>
+        <updated>2021-09-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousSeptember 9th, 2021next
+September 9th, 2021: OUT TODAY is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
         </author>
     </entry>
     <entry>
@@ -1676,28 +1726,6 @@ August 13th, 2021: After I heard that "Ironic" was written about Full House's Da
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 With no offense meant to batrachological furry community.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Traveling to Save My Butt: Part 5]]></title>
-        <id>https://www.buttersafe.com/2021/08/12/time-traveling-to-save-my-butt-part-5/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/Go71rtzObIU/"/>
-        <updated>2021-08-12T07:01:00.000Z</updated>
-        <author>
-            <name>alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Decaf]]></title>
-        <id>https://www.smbc-comics.com/comic/decaf</id>
-        <link href="https://www.smbc-comics.com/comic/decaf"/>
-        <updated>2021-08-11T14:41:49.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Non-alcoholic vodka, on the other hand, is a genuine mystery.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
