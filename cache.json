@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2514/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/lab_equipment.png\" title=\"I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though.\" alt=\"I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though.\" />",
+          "link": "https://xkcd.com/2514/",
+          "publishedOn": "2021-09-10T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Lab Equipment"
+        },
+        {
           "id": "https://xkcd.com/2513/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/saturn_hexagon.png\" title=\"Sorry, in SI units that's &quot;there's a big football in there.&quot;\" alt=\"Sorry, in SI units that's &quot;there's a big football in there.&quot;\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-08-16T00:00:00.000Z",
           "wordCount": 187,
           "title": "Memo Spike Connector"
-        },
-        {
-          "id": "https://xkcd.com/2502/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/every_data_table.png\" title=\"I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.\" alt=\"I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.\" />",
-          "link": "https://xkcd.com/2502/",
-          "publishedOn": "2021-08-13T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Every Data Table"
         }
       ]
     },
@@ -188,6 +188,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/siren",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you look at the history of depictions of Sirens it goes from weird bird-ladies to sneaky fish ladies to naked chubby girls. This is progress we can believe in.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/siren",
+          "publishedOn": "2021-09-11T14:58:21.000Z",
+          "wordCount": 62,
+          "title": "Saturday Morning Breakfast Cereal - Siren"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/the-son",
           "author": "tech@thehiveworks.com",
@@ -466,15 +475,6 @@
           "publishedOn": "2021-08-13T14:20:46.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Headset"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/princess-2",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nWith no offense meant to batrachological furry community.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/princess-2",
-          "publishedOn": "2021-08-12T14:02:42.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Princess"
         }
       ]
     },
@@ -1362,15 +1362,6 @@
           "publishedOn": "2021-08-16T07:00:00.000Z",
           "wordCount": 185,
           "title": "i guess.... \"amnesia comics\"??"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3784",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 13th, 2021next\nAugust 13th, 2021: After I heard that \"Ironic\" was written about Full House's Dave Coulier, I've assumed that all songs are written about Full House's Dave Coulier.  Thus far I have never been proven wrong, and Full House's Dave Coulier really needs to pull up his socks!!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3784",
-          "publishedOn": "2021-08-13T07:00:00.000Z",
-          "wordCount": 210,
-          "title": "musicians who aren't composers are sitting there fuming about how i ignored their situation, but i'm safe because they're fully unable to write a song about it"
         }
       ]
     },

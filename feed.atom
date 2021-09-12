@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T01:06:17.075Z</updated>
+    <updated>2021-09-12T01:10:10.589Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Siren]]></title>
+        <id>https://www.smbc-comics.com/comic/siren</id>
+        <link href="https://www.smbc-comics.com/comic/siren"/>
+        <updated>2021-09-11T14:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+If you look at the history of depictions of Sirens it goes from weird bird-ladies to sneaky fish ladies to naked chubby girls. This is progress we can believe in.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[09/10/21 PHD comic: 'Insult to injury']]></title>
         <id>http://www.phdcomics.com/comics.php?f=2046</id>
@@ -40,6 +53,16 @@ Pour me a Mint (king of the Jews)lep.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab Equipment]]></title>
+        <id>https://xkcd.com/2514/</id>
+        <link href="https://xkcd.com/2514/"/>
+        <updated>2021-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/lab_equipment.png" title="I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though." alt="I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1689,43 +1712,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Later he finds a roll-the-ball-up-the-hall game, which mysteriously is not a curse.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[musicians who aren't composers are sitting there fuming about how i ignored their situation, but i'm safe because they're fully unable to write a song about it]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3784</id>
-        <link href="http://www.qwantz.com/index.php?comic=3784"/>
-        <updated>2021-08-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 13th, 2021next
-August 13th, 2021: After I heard that "Ironic" was written about Full House's Dave Coulier, I've assumed that all songs are written about Full House's Dave Coulier.  Thus far I have never been proven wrong, and Full House's Dave Coulier really needs to pull up his socks!!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Data Table]]></title>
-        <id>https://xkcd.com/2502/</id>
-        <link href="https://xkcd.com/2502/"/>
-        <updated>2021-08-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/every_data_table.png" title="I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger." alt="I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Princess]]></title>
-        <id>https://www.smbc-comics.com/comic/princess-2</id>
-        <link href="https://www.smbc-comics.com/comic/princess-2"/>
-        <updated>2021-08-12T14:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-With no offense meant to batrachological furry community.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
