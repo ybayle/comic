@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-12T01:10:10.589Z</updated>
+    <updated>2021-09-13T01:09:46.762Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Pragmatic Rebellion]]></title>
+        <id>https://www.smbc-comics.com/comic/pragmatic-rebellion</id>
+        <link href="https://www.smbc-comics.com/comic/pragmatic-rebellion"/>
+        <updated>2021-09-12T15:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+I've had enough of your domineering, when considered in light of macroeconomic conditions!
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Siren]]></title>
         <id>https://www.smbc-comics.com/comic/siren</id>
@@ -1699,19 +1712,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 One day, molecular printers will allow starbucks to serve every conceivable food as a whipped topping.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Headset]]></title>
-        <id>https://www.smbc-comics.com/comic/headset</id>
-        <link href="https://www.smbc-comics.com/comic/headset"/>
-        <updated>2021-08-13T14:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Later he finds a roll-the-ball-up-the-hall game, which mysteriously is not a curse.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

@@ -189,6 +189,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/pragmatic-rebellion",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI've had enough of your domineering, when considered in light of macroeconomic conditions!\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/pragmatic-rebellion",
+          "publishedOn": "2021-09-12T15:56:48.000Z",
+          "wordCount": 61,
+          "title": "Saturday Morning Breakfast Cereal - Pragmatic Rebellion"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/siren",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nIf you look at the history of depictions of Sirens it goes from weird bird-ladies to sneaky fish ladies to naked chubby girls. This is progress we can believe in.\nToday's News:",
@@ -466,15 +475,6 @@
           "publishedOn": "2021-08-14T14:33:24.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Milkshake"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/headset",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nLater he finds a roll-the-ball-up-the-hall game, which mysteriously is not a curse.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/headset",
-          "publishedOn": "2021-08-13T14:20:46.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Headset"
         }
       ]
     },
