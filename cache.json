@@ -189,6 +189,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/fire-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nCan we bring back the hats without bringing back the people-burning?\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/fire-2",
+          "publishedOn": "2021-09-13T16:36:24.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Fire"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/pragmatic-rebellion",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nI've had enough of your domineering, when considered in light of macroeconomic conditions!\nToday's News:",
@@ -466,15 +475,6 @@
           "publishedOn": "2021-08-15T16:40:29.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Burn"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/milkshake",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nOne day, molecular printers will allow starbucks to serve every conceivable food as a whipped topping.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/milkshake",
-          "publishedOn": "2021-08-14T14:33:24.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Milkshake"
         }
       ]
     },
@@ -1255,6 +1255,15 @@
       "feedUrl": "https://qwantz.com/rssfeed.php",
       "siteUrl": "http://www.qwantz.com",
       "articles": [
+        {
+          "id": "http://www.qwantz.com/index.php?comic=3797",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 13th, 2021next\nSeptember 13th, 2021: OUT NOW is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3797",
+          "publishedOn": "2021-09-13T07:00:00.000Z",
+          "wordCount": 207,
+          "title": "if you can't write a book after this comic i don't know what to tell you; i've done all that ANYONE can do"
+        },
         {
           "id": "http://www.qwantz.com/index.php?comic=3796",
           "author": null,

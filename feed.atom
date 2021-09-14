@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T01:09:46.762Z</updated>
+    <updated>2021-09-14T01:11:03.586Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Fire]]></title>
+        <id>https://www.smbc-comics.com/comic/fire-2</id>
+        <link href="https://www.smbc-comics.com/comic/fire-2"/>
+        <updated>2021-09-13T16:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Can we bring back the hats without bringing back the people-burning?
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if you can't write a book after this comic i don't know what to tell you; i've done all that ANYONE can do]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3797</id>
+        <link href="http://www.qwantz.com/index.php?comic=3797"/>
+        <updated>2021-09-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousSeptember 13th, 2021next
+September 13th, 2021: OUT NOW is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Pragmatic Rebellion]]></title>
         <id>https://www.smbc-comics.com/comic/pragmatic-rebellion</id>
@@ -1699,19 +1726,6 @@ August 16th, 2021: This comic was inspired by the events of 2004, which I recent
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Desperately hoping my comics never get brought up in a courtroom setting.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Milkshake]]></title>
-        <id>https://www.smbc-comics.com/comic/milkshake</id>
-        <link href="https://www.smbc-comics.com/comic/milkshake"/>
-        <updated>2021-08-14T14:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-One day, molecular printers will allow starbucks to serve every conceivable food as a whipped topping.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
