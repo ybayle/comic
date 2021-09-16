@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T01:07:33.566Z</updated>
+    <updated>2021-09-16T01:12:08.587Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Your Father's Sword]]></title>
+        <id>https://www.smbc-comics.com/comic/your-fathers-sword</id>
+        <link href="https://www.smbc-comics.com/comic/your-fathers-sword"/>
+        <updated>2021-09-15T14:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+Oh, and the handle has lead paint all over it, so wash your hands really well between uses.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if these comics had bad puns, they'd be... wine and cheese]]></title>
+        <id>http://www.qwantz.com/index.php?comic=3798</id>
+        <link href="http://www.qwantz.com/index.php?comic=3798"/>
+        <updated>2021-09-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
+
+← previousSeptember 15th, 2021next
+September 15th, 2021: OUT NOW is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!
+– Ryan]]></summary>
+        <author>
+            <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hubble Tension]]></title>
+        <id>https://xkcd.com/2516/</id>
+        <link href="https://xkcd.com/2516/"/>
+        <updated>2021-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/hubble_tension.png" title="Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!" alt="Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Roach]]></title>
         <id>https://www.smbc-comics.com/comic/roach</id>
@@ -1692,28 +1729,6 @@ August 18th, 2021: Normalize gluing tail fins onto used cars
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 The weirdest thing is why anyone would oppose this if it were possible.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Own Boogeyman]]></title>
-        <id>https://www.buttersafe.com/2021/08/17/my-own-boogeyman/</id>
-        <link href="http://feedproxy.google.com/~r/Buttersafe/~3/3gHE1xw4zXY/"/>
-        <updated>2021-08-17T07:01:00.000Z</updated>
-        <author>
-            <name>ray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Disgust]]></title>
-        <id>https://www.smbc-comics.com/comic/disgust</id>
-        <link href="https://www.smbc-comics.com/comic/disgust"/>
-        <updated>2021-08-16T15:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Now lions... lions can just DO each other.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

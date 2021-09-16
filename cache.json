@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2516/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/hubble_tension.png\" title=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" alt=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" />",
+          "link": "https://xkcd.com/2516/",
+          "publishedOn": "2021-09-15T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Hubble Tension"
+        },
+        {
           "id": "https://xkcd.com/2515/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/vaccine_research.png\" title=\"Honestly feel a little sheepish about the amount of time and effort I spent confirming &quot;yes, the vaccine helps protect people from getting sick and dying&quot; but I guess everyone needs a hobby.\" alt=\"Honestly feel a little sheepish about the amount of time and effort I spent confirming &quot;yes, the vaccine helps protect people from getting sick and dying&quot; but I guess everyone needs a hobby.\" />",
@@ -188,6 +197,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/your-fathers-sword",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nOh, and the handle has lead paint all over it, so wash your hands really well between uses.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/your-fathers-sword",
+          "publishedOn": "2021-09-15T14:30:50.000Z",
+          "wordCount": 66,
+          "title": "Saturday Morning Breakfast Cereal - Your Father's Sword"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/roach",
           "author": "tech@thehiveworks.com",
@@ -466,15 +484,6 @@
           "publishedOn": "2021-08-17T15:09:29.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Sleep of Reason"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/disgust",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nNow lions... lions can just DO each other.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/disgust",
-          "publishedOn": "2021-08-16T15:01:18.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Disgust"
         }
       ]
     },
@@ -1256,6 +1265,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3798",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 15th, 2021next\nSeptember 15th, 2021: OUT NOW is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3798",
+          "publishedOn": "2021-09-15T07:00:00.000Z",
+          "wordCount": 192,
+          "title": "if these comics had bad puns, they'd be... wine and cheese"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3797",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 13th, 2021next\nSeptember 13th, 2021: OUT NOW is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!\n– Ryan",
@@ -1396,15 +1414,6 @@
           "publishedOn": "2021-08-19T07:01:00.000Z",
           "wordCount": 83,
           "title": "Time Traveling to Save My Butt: Part 6"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/08/17/my-own-boogeyman/",
-          "author": "ray",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/3gHE1xw4zXY/",
-          "publishedOn": "2021-08-17T07:01:00.000Z",
-          "wordCount": 82,
-          "title": "My Own Boogeyman"
         }
       ]
     },
