@@ -112,15 +112,6 @@
           "publishedOn": "2021-08-20T00:00:00.000Z",
           "wordCount": 187,
           "title": "News Story Reaction"
-        },
-        {
-          "id": "https://xkcd.com/2504/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png\" title=\"Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.\" alt=\"Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.\" />",
-          "link": "https://xkcd.com/2504/",
-          "publishedOn": "2021-08-18T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Fissile Raspberry Isotopes"
         }
       ]
     },
@@ -197,6 +188,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/flossing",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI'm amazed nobody else has come up with this way to lie to medical caregivers.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/flossing",
+          "publishedOn": "2021-09-16T14:51:46.000Z",
+          "wordCount": 64,
+          "title": "Saturday Morning Breakfast Cereal - Flossing"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/your-fathers-sword",
           "author": "tech@thehiveworks.com",
@@ -475,15 +475,6 @@
           "publishedOn": "2021-08-18T14:16:20.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Running"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/sleep-of-reason",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe weirdest thing is why anyone would oppose this if it were possible.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/sleep-of-reason",
-          "publishedOn": "2021-08-17T15:09:29.000Z",
-          "wordCount": 62,
-          "title": "Saturday Morning Breakfast Cereal - Sleep of Reason"
         }
       ]
     },
@@ -1371,15 +1362,6 @@
           "publishedOn": "2021-08-20T07:00:00.000Z",
           "wordCount": 242,
           "title": "All men are great in their dreams, reality just narrows the competition.\" -Sherlock Holmes??"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3786",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 18th, 2021next\nAugust 18th, 2021: Normalize gluing tail fins onto used cars\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3786",
-          "publishedOn": "2021-08-18T07:00:00.000Z",
-          "wordCount": 214,
-          "title": "i mean, the t-shirt has maintained cultural currency for decades.  at least, this one shirt i wear every day has.  thank you"
         }
       ]
     },
@@ -1424,5 +1406,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.1"
 }

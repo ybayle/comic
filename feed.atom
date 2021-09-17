@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T01:12:08.587Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-09-17T01:15:55.094Z</updated>
+    <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Flossing]]></title>
+        <id>https://www.smbc-comics.com/comic/flossing</id>
+        <link href="https://www.smbc-comics.com/comic/flossing"/>
+        <updated>2021-09-16T14:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+I'm amazed nobody else has come up with this way to lie to medical caregivers.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Your Father's Sword]]></title>
         <id>https://www.smbc-comics.com/comic/your-fathers-sword</id>
@@ -1692,43 +1705,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 The cool thing is the secret regrets are readily available with a small fee to Alexa.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i mean, the t-shirt has maintained cultural currency for decades.  at least, this one shirt i wear every day has.  thank you]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3786</id>
-        <link href="http://www.qwantz.com/index.php?comic=3786"/>
-        <updated>2021-08-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 18th, 2021next
-August 18th, 2021: Normalize gluing tail fins onto used cars
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fissile Raspberry Isotopes]]></title>
-        <id>https://xkcd.com/2504/</id>
-        <link href="https://xkcd.com/2504/"/>
-        <updated>2021-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png" title="Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation." alt="Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Sleep of Reason]]></title>
-        <id>https://www.smbc-comics.com/comic/sleep-of-reason</id>
-        <link href="https://www.smbc-comics.com/comic/sleep-of-reason"/>
-        <updated>2021-08-17T15:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-The weirdest thing is why anyone would oppose this if it were possible.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
