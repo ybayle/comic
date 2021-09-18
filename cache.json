@@ -189,6 +189,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/stop",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nI hate when they do this, and they don't even care!\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/stop",
+          "publishedOn": "2021-09-17T16:03:57.000Z",
+          "wordCount": 66,
+          "title": "Saturday Morning Breakfast Cereal - Stop"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/flossing",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nI'm amazed nobody else has come up with this way to lie to medical caregivers.\nToday's News:",
@@ -466,15 +475,6 @@
           "publishedOn": "2021-08-19T14:25:17.000Z",
           "wordCount": 60,
           "title": "Saturday Morning Breakfast Cereal - Surly"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/running",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nThe cool thing is the secret regrets are readily available with a small fee to Alexa.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/running",
-          "publishedOn": "2021-08-18T14:16:20.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Running"
         }
       ]
     },
@@ -1256,6 +1256,15 @@
       "siteUrl": "http://www.qwantz.com",
       "articles": [
         {
+          "id": "http://www.qwantz.com/index.php?comic=3799",
+          "author": null,
+          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 17th, 2021next\nSeptember 17th, 2021: Listen, some days you gast the flabbers, some days the flabbers gast you.  Ain't that always the way\n– Ryan",
+          "link": "http://www.qwantz.com/index.php?comic=3799",
+          "publishedOn": "2021-09-17T07:00:00.000Z",
+          "wordCount": 195,
+          "title": "WORDS ADDED TO SPELL CHECK TODAY: flabbergastingly, flabbers, gasted, gast, gasting"
+        },
+        {
           "id": "http://www.qwantz.com/index.php?comic=3798",
           "author": null,
           "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousSeptember 15th, 2021next\nSeptember 15th, 2021: OUT NOW is LOST IN RANDOM, a super fun action adventure game that I wrote all the dialogue for!  CHECK IT OUT and I hope you like it, I really do!!\n– Ryan",
@@ -1387,15 +1396,6 @@
           "publishedOn": "2021-08-24T07:01:00.000Z",
           "wordCount": 64,
           "title": "No Poopin’ Indoors"
-        },
-        {
-          "id": "https://www.buttersafe.com/2021/08/19/time-traveling-to-save-my-butt-part-6/",
-          "author": "alex",
-          "description": "",
-          "link": "http://feedproxy.google.com/~r/Buttersafe/~3/o_hRBcHcBqo/",
-          "publishedOn": "2021-08-19T07:01:00.000Z",
-          "wordCount": 83,
-          "title": "Time Traveling to Save My Butt: Part 6"
         }
       ]
     },
