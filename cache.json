@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2517/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/rover_replies.png\" title=\"I'm so glad NASA let you take your phone to Mars!\" alt=\"I'm so glad NASA let you take your phone to Mars!\" />",
+          "link": "https://xkcd.com/2517/",
+          "publishedOn": "2021-09-17T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Rover Replies"
+        },
+        {
           "id": "https://xkcd.com/2516/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/hubble_tension.png\" title=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" alt=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" />",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-08-23T00:00:00.000Z",
           "wordCount": 183,
           "title": "Projecting"
-        },
-        {
-          "id": "https://xkcd.com/2505/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/news_story_reaction.png\" title=\"Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;\" alt=\"Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;\" />",
-          "link": "https://xkcd.com/2505/",
-          "publishedOn": "2021-08-20T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "News Story Reaction"
         }
       ]
     },
@@ -146,6 +146,15 @@
       "siteUrl": "http://www.phdcomics.com",
       "articles": [
         {
+          "id": "http://www.phdcomics.com/comics.php?f=2047",
+          "author": null,
+          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"The COVID-19 Virus Explained\" - originally published \n9/17/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
+          "link": "http://www.phdcomics.com/comics.php?f=2047",
+          "publishedOn": "2021-09-18T18:13:40.000Z",
+          "wordCount": 452,
+          "title": "09/17/21 PHD comic: 'The COVID-19 Virus Explained'"
+        },
+        {
           "id": "http://www.phdcomics.com/comics.php?f=2046",
           "author": null,
           "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Insult to injury\" - originally published \n9/10/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
@@ -171,15 +180,6 @@
           "publishedOn": "2021-08-27T17:26:51.000Z",
           "wordCount": 367,
           "title": "08/27/21 PHD comic: 'Alexa'"
-        },
-        {
-          "id": "http://www.phdcomics.com/comics.php?f=2044",
-          "author": null,
-          "description": "Piled Higher\n        & Deeper  by Jorge\n        Cham\n       \n      \n        \nwww.phdcomics.com\n\n    \ntitle:\n          \"Alexa\" - originally published \n8/27/2021  \n        \nFor the latest news in PHD Comics, CLICK HERE!",
-          "link": "http://www.phdcomics.com/comics.php?f=2044",
-          "publishedOn": "2021-08-20T06:32:50.000Z",
-          "wordCount": 367,
-          "title": "08/27/21 PHD comic: 'Alexa'"
         }
       ]
     },
@@ -188,6 +188,15 @@
       "feedUrl": "https://www.smbc-comics.com/comic/rss",
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
+        {
+          "id": "https://www.smbc-comics.com/comic/short",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you enjoyed this comic, I just slightly murdered you.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/short",
+          "publishedOn": "2021-09-18T12:08:11.000Z",
+          "wordCount": 66,
+          "title": "Saturday Morning Breakfast Cereal - Short"
+        },
         {
           "id": "https://www.smbc-comics.com/comic/stop",
           "author": "tech@thehiveworks.com",
@@ -466,15 +475,6 @@
           "publishedOn": "2021-08-20T14:13:45.000Z",
           "wordCount": 63,
           "title": "Saturday Morning Breakfast Cereal - Starstuff"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/surly",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nSorry, didn't mean to hurt your feelings. It was an accident, like your conception.\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/surly",
-          "publishedOn": "2021-08-19T14:25:17.000Z",
-          "wordCount": 60,
-          "title": "Saturday Morning Breakfast Cereal - Surly"
         }
       ]
     },
@@ -1362,15 +1362,6 @@
           "publishedOn": "2021-08-23T07:00:00.000Z",
           "wordCount": 233,
           "title": "the comic that only sexy people read"
-        },
-        {
-          "id": "http://www.qwantz.com/index.php?comic=3787",
-          "author": null,
-          "description": "archive - contact - sexy exciting merchandise - search - about\n\n← previousAugust 20th, 2021next\nAugust 20th, 2021: Behold: the Reichenbach Fall of Civilization!\r\nHey I was finally able to announce my new book this week!  It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!\n– Ryan",
-          "link": "http://www.qwantz.com/index.php?comic=3787",
-          "publishedOn": "2021-08-20T07:00:00.000Z",
-          "wordCount": 242,
-          "title": "All men are great in their dreams, reality just narrows the competition.\" -Sherlock Holmes??"
         }
       ]
     },

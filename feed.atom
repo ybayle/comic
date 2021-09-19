@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-18T01:07:01.232Z</updated>
+    <updated>2021-09-19T01:09:33.652Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[09/17/21 PHD comic: 'The COVID-19 Virus Explained']]></title>
+        <id>http://www.phdcomics.com/comics.php?f=2047</id>
+        <link href="http://www.phdcomics.com/comics.php?f=2047"/>
+        <updated>2021-09-18T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Piled Higher
+        & Deeper  by Jorge
+        Cham
+       
+      
+        
+www.phdcomics.com
+
+    
+title:
+          "The COVID-19 Virus Explained" - originally published 
+9/17/2021  
+        
+For the latest news in PHD Comics, CLICK HERE!]]></summary>
+        <author>
+            <name>PHD Comics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Short]]></title>
+        <id>https://www.smbc-comics.com/comic/short</id>
+        <link href="https://www.smbc-comics.com/comic/short"/>
+        <updated>2021-09-18T12:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+If you enjoyed this comic, I just slightly murdered you.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Stop]]></title>
         <id>https://www.smbc-comics.com/comic/stop</id>
@@ -31,6 +67,16 @@ September 17th, 2021: Listen, some days you gast the flabbers, some days the fla
 – Ryan]]></summary>
         <author>
             <name>Dinosaur Comics!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rover Replies]]></title>
+        <id>https://xkcd.com/2517/</id>
+        <link href="https://xkcd.com/2517/"/>
+        <updated>2021-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rover_replies.png" title="I'm so glad NASA let you take your phone to Mars!" alt="I'm so glad NASA let you take your phone to Mars!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1649,67 +1695,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Lot of patreon subscribers inform me that other animals do this. That may be, but just as animals may have language, but not poetry...
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All men are great in their dreams, reality just narrows the competition." -Sherlock Holmes??]]></title>
-        <id>http://www.qwantz.com/index.php?comic=3787</id>
-        <link href="http://www.qwantz.com/index.php?comic=3787"/>
-        <updated>2021-08-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[archive - contact - sexy exciting merchandise - search - about
-
-← previousAugust 20th, 2021next
-August 20th, 2021: Behold: the Reichenbach Fall of Civilization!
-Hey I was finally able to announce my new book this week!  It's called HOW TO TAKE OVER THE WORLD and it's non-fiction and it's the spiritual sequel to HOW TO INVENT EVERYTHING and it's got illustrations by Carly Monardo and it's really great and I hope you like it!  You can find out more riiiight here.  The book comes out March 15th, 2022 but you can reserve your copy this very minute!
-– Ryan]]></summary>
-        <author>
-            <name>Dinosaur Comics!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[08/27/21 PHD comic: 'Alexa']]></title>
-        <id>http://www.phdcomics.com/comics.php?f=2044</id>
-        <link href="http://www.phdcomics.com/comics.php?f=2044"/>
-        <updated>2021-08-20T06:32:50.000Z</updated>
-        <summary type="html"><![CDATA[Piled Higher
-        & Deeper  by Jorge
-        Cham
-       
-      
-        
-www.phdcomics.com
-
-    
-title:
-          "Alexa" - originally published 
-8/27/2021  
-        
-For the latest news in PHD Comics, CLICK HERE!]]></summary>
-        <author>
-            <name>PHD Comics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[News Story Reaction]]></title>
-        <id>https://xkcd.com/2505/</id>
-        <link href="https://xkcd.com/2505/"/>
-        <updated>2021-08-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/news_story_reaction.png" title="Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;" alt="Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Surly]]></title>
-        <id>https://www.smbc-comics.com/comic/surly</id>
-        <link href="https://www.smbc-comics.com/comic/surly"/>
-        <updated>2021-08-19T14:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Sorry, didn't mean to hurt your feelings. It was an accident, like your conception.
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>
