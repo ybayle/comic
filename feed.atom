@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybayle.github.io/comic/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T01:09:33.652Z</updated>
+    <updated>2021-09-20T01:13:33.875Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://ybayle.github.io/comic/index.html"/>
     <link rel="self" href="https://ybayle.github.io/comic/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Library]]></title>
+        <id>https://www.smbc-comics.com/comic/library-2</id>
+        <link href="https://www.smbc-comics.com/comic/library-2"/>
+        <updated>2021-09-19T11:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Click here to go see the bonus panel!
+Hovertext:
+If you think this is bad you should see the library of literary references. Also the well-populated shelf about sasquatch and aliens.
+Today's News:]]></summary>
+        <author>
+            <name>tech@thehiveworks.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[09/17/21 PHD comic: 'The COVID-19 Virus Explained']]></title>
         <id>http://www.phdcomics.com/comics.php?f=2047</id>
@@ -1682,19 +1695,6 @@ Today's News:]]></summary>
         <summary type="html"><![CDATA[Click here to go see the bonus panel!
 Hovertext:
 Also pugs. They've suffered enough.
-Today's News:]]></summary>
-        <author>
-            <name>tech@thehiveworks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday Morning Breakfast Cereal - Starstuff]]></title>
-        <id>https://www.smbc-comics.com/comic/starstuff</id>
-        <link href="https://www.smbc-comics.com/comic/starstuff"/>
-        <updated>2021-08-20T14:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Click here to go see the bonus panel!
-Hovertext:
-Lot of patreon subscribers inform me that other animals do this. That may be, but just as animals may have language, but not poetry...
 Today's News:]]></summary>
         <author>
             <name>tech@thehiveworks.com</name>

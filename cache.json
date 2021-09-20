@@ -189,6 +189,15 @@
       "siteUrl": "https://www.smbc-comics.com/",
       "articles": [
         {
+          "id": "https://www.smbc-comics.com/comic/library-2",
+          "author": "tech@thehiveworks.com",
+          "description": "Click here to go see the bonus panel!\nHovertext:\nIf you think this is bad you should see the library of literary references. Also the well-populated shelf about sasquatch and aliens.\nToday's News:",
+          "link": "https://www.smbc-comics.com/comic/library-2",
+          "publishedOn": "2021-09-19T11:39:17.000Z",
+          "wordCount": 60,
+          "title": "Saturday Morning Breakfast Cereal - Library"
+        },
+        {
           "id": "https://www.smbc-comics.com/comic/short",
           "author": "tech@thehiveworks.com",
           "description": "Click here to go see the bonus panel!\nHovertext:\nIf you enjoyed this comic, I just slightly murdered you.\nToday's News:",
@@ -466,15 +475,6 @@
           "publishedOn": "2021-08-21T13:51:04.000Z",
           "wordCount": 62,
           "title": "Saturday Morning Breakfast Cereal - Order"
-        },
-        {
-          "id": "https://www.smbc-comics.com/comic/starstuff",
-          "author": "tech@thehiveworks.com",
-          "description": "Click here to go see the bonus panel!\nHovertext:\nLot of patreon subscribers inform me that other animals do this. That may be, but just as animals may have language, but not poetry...\nToday's News:",
-          "link": "https://www.smbc-comics.com/comic/starstuff",
-          "publishedOn": "2021-08-20T14:13:45.000Z",
-          "wordCount": 63,
-          "title": "Saturday Morning Breakfast Cereal - Starstuff"
         }
       ]
     },
